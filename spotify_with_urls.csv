@@ -1,0 +1,954 @@
+track_name,artist(s)_name,artist_count,released_year,released_month,released_day,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,in_shazam_charts,bpm,key,mode,danceability_%,valence_%,energy_%,acousticness_%,instrumentalness_%,liveness_%,speechiness_%,spotify_url
+Seven (feat. Latto) (Explicit Ver.),"Latto, Jung Kook",2,2023,7,14,553,147,141381703,43,263,45,10,826,125,B,Major,80,89,83,31,0,8,4,"https://open.spotify.com/search/Seven%20(feat.%20Latto)%20(Explicit%20Ver.)%20Latto,%20Jung%20Kook"
+LALA,Myke Towers,1,2023,3,23,1474,48,133716286,48,126,58,14,382,92,C#,Major,71,61,74,7,0,10,4,https://open.spotify.com/search/LALA%20Myke%20Towers
+vampire,Olivia Rodrigo,1,2023,6,30,1397,113,140003974,94,207,91,14,949,138,F,Major,51,32,53,17,0,31,6,https://open.spotify.com/search/vampire%20Olivia%20Rodrigo
+Cruel Summer,Taylor Swift,1,2019,8,23,7858,100,800840817,116,207,125,12,548,170,A,Major,55,58,72,11,0,11,15,https://open.spotify.com/search/Cruel%20Summer%20Taylor%20Swift
+WHERE SHE GOES,Bad Bunny,1,2023,5,18,3133,50,303236322,84,133,87,15,425,144,A,Minor,65,23,80,14,63,11,6,https://open.spotify.com/search/WHERE%20SHE%20GOES%20Bad%20Bunny
+Sprinter,"Dave, Central Cee",2,2023,6,1,2186,91,183706234,67,213,88,17,946,141,C#,Major,92,66,58,19,0,8,24,"https://open.spotify.com/search/Sprinter%20Dave,%20Central%20Cee"
+Ella Baila Sola,"Eslabon Armado, Peso Pluma",2,2023,3,16,3090,50,725980112,34,222,43,13,418,148,F,Minor,67,83,76,48,0,8,3,"https://open.spotify.com/search/Ella%20Baila%20Sola%20Eslabon%20Armado,%20Peso%20Pluma"
+Columbia,Quevedo,1,2023,7,7,714,43,58149378,25,89,30,13,194,100,F,Major,67,26,71,37,0,11,4,https://open.spotify.com/search/Columbia%20Quevedo
+fukumean,Gunna,1,2023,5,15,1096,83,95217315,60,210,48,11,953,130,C#,Minor,85,22,62,12,0,28,9,https://open.spotify.com/search/fukumean%20Gunna
+La Bebe - Remix,"Peso Pluma, Yng Lvcas",2,2023,3,17,2953,44,553634067,49,110,66,13,339,170,D,Minor,81,56,48,21,0,8,33,"https://open.spotify.com/search/La%20Bebe%20-%20Remix%20Peso%20Pluma,%20Yng%20Lvcas"
+un x100to,"Bad Bunny, Grupo Frontera",2,2023,4,17,2876,40,505671438,41,205,54,12,251,83,F#,Minor,57,56,72,23,0,27,5,"https://open.spotify.com/search/un%20x100to%20Bad%20Bunny,%20Grupo%20Frontera"
+Super Shy,NewJeans,1,2023,7,7,422,55,58255150,37,202,21,5,168,150,F,Minor,78,52,82,18,0,15,7,https://open.spotify.com/search/Super%20Shy%20NewJeans
+Flowers,Miley Cyrus,1,2023,1,12,12211,115,1316855716,300,215,745,58,"1,021",118,,Major,71,65,68,6,0,3,7,https://open.spotify.com/search/Flowers%20Miley%20Cyrus
+Daylight,David Kushner,1,2023,4,14,3528,98,387570742,80,156,182,24,"1,281",130,D,Minor,51,32,43,83,0,9,3,https://open.spotify.com/search/Daylight%20David%20Kushner
+As It Was,Harry Styles,1,2022,3,31,23575,130,2513188493,403,198,863,46,,174,F#,Minor,52,66,73,34,0,31,6,https://open.spotify.com/search/As%20It%20Was%20Harry%20Styles
+Kill Bill,SZA,1,2022,12,8,8109,77,1163093654,183,162,161,12,187,89,G#,Major,64,43,73,5,17,16,4,https://open.spotify.com/search/Kill%20Bill%20SZA
+Cupid - Twin Ver.,Fifty Fifty,1,2023,2,24,2942,77,496795686,91,212,78,6,0,120,B,Minor,78,76,59,43,0,34,3,https://open.spotify.com/search/Cupid%20-%20Twin%20Ver.%20Fifty%20Fifty
+"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,1,2023,7,13,873,104,30546883,80,227,95,24,"1,173",78,,Major,44,14,9,96,0,10,3,"https://open.spotify.com/search/What%20Was%20I%20Made%20For?%20[From%20The%20Motion%20Picture%20""Barbie""]%20Billie%20Eilish"
+Classy 101,"Feid, Young Miko",2,2023,3,31,2610,40,335222234,43,100,54,14,187,100,B,Major,86,67,66,14,0,12,16,"https://open.spotify.com/search/Classy%20101%20Feid,%20Young%20Miko"
+Like Crazy,Jimin,1,2023,3,24,596,68,363369738,8,104,23,2,29,120,G,Major,63,36,73,0,0,36,4,https://open.spotify.com/search/Like%20Crazy%20Jimin
+LADY GAGA,"Gabito Ballesteros, Junior H, Peso Pluma",3,2023,6,22,332,26,86444842,11,163,10,4,0,140,F,Minor,65,87,74,22,0,42,4,"https://open.spotify.com/search/LADY%20GAGA%20Gabito%20Ballesteros,%20Junior%20H,%20Peso%20Pluma"
+I Can See You (Taylorï¿½ï¿½ï¿½s Version) (From The ,Taylor Swift,1,2023,7,7,516,38,52135248,73,119,42,1,150,123,F#,Major,69,82,76,6,0,6,3,https://open.spotify.com/search/I%20Can%20See%20You%20(Taylorï¿½ï¿½ï¿½s%20Version)%20(From%20The%20%20Taylor%20Swift
+I Wanna Be Yours,Arctic Monkeys,1,2013,1,1,12859,110,1297026226,24,98,582,2,73,135,,Minor,48,44,42,12,2,11,3,https://open.spotify.com/search/I%20Wanna%20Be%20Yours%20Arctic%20Monkeys
+"Peso Pluma: Bzrp Music Sessions, Vol. 55","Bizarrap, Peso Pluma",2,2023,5,31,1313,40,200647221,17,152,32,11,139,133,F,Minor,85,81,67,26,0,12,5,"https://open.spotify.com/search/Peso%20Pluma:%20Bzrp%20Music%20Sessions,%20Vol.%2055%20Bizarrap,%20Peso%20Pluma"
+Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),"The Weeknd, Madonna, Playboi Carti",3,2023,6,2,1945,87,115364561,74,182,87,14,"1,093",99,C#,Major,85,83,68,7,0,36,20,"https://open.spotify.com/search/Popular%20(with%20Playboi%20Carti%20&%20Madonna)%20-%20The%20Idol%20Vol.%201%20(Music%20from%20the%20HBO%20Original%20Series)%20The%20Weeknd,%20Madonna,%20Playboi%20Carti"
+SABOR FRESA,Fuerza Regida,1,2023,6,22,250,26,78300654,16,149,10,5,168,130,G,Minor,79,96,86,9,0,9,9,https://open.spotify.com/search/SABOR%20FRESA%20Fuerza%20Regida
+Calm Down (with Selena Gomez),"Rï¿½ï¿½ma, Selena G",2,2022,3,25,7112,77,899183384,202,119,318,38,96,107,B,Major,80,82,80,43,0,14,4,"https://open.spotify.com/search/Calm%20Down%20(with%20Selena%20Gomez)%20Rï¿½ï¿½ma,%20Selena%20G"
+MOJABI GHOST,"Tainy, Bad Bunny",2,2023,6,29,859,40,61245289,35,109,41,14,211,122,F#,Minor,81,74,71,14,0,56,4,"https://open.spotify.com/search/MOJABI%20GHOST%20Tainy,%20Bad%20Bunny"
+Last Night,Morgan Wallen,1,2023,1,31,2420,19,429829812,52,107,15,1,325,204,F#,Major,52,52,68,46,0,15,4,https://open.spotify.com/search/Last%20Night%20Morgan%20Wallen
+Dance The Night (From Barbie The Album),Dua Lipa,1,2023,5,25,2988,101,127408954,0,0,143,38,0,110,B,Minor,67,78,85,2,0,33,5,https://open.spotify.com/search/Dance%20The%20Night%20(From%20Barbie%20The%20Album)%20Dua%20Lipa
+Rush,Troye Sivan,1,2023,7,13,864,78,22581161,71,135,50,1,294,126,F,Minor,74,35,84,0,0,11,6,https://open.spotify.com/search/Rush%20Troye%20Sivan
+TULUM,"Peso Pluma, Grupo Frontera",2,2023,6,28,266,34,52294266,20,185,13,8,197,168,F#,Major,56,63,87,39,0,11,5,"https://open.spotify.com/search/TULUM%20Peso%20Pluma,%20Grupo%20Frontera"
+Creepin',"The Weeknd, 21 Savage, Metro Boomin",3,2022,12,2,6036,88,843957510,113,149,245,23,27,98,C#,Minor,71,17,61,36,0,8,5,"https://open.spotify.com/search/Creepin'%20The%20Weeknd,%2021%20Savage,%20Metro%20Boomin"
+Anti-Hero,Taylor Swift,1,2022,10,21,9082,56,999748277,242,142,165,9,310,97,E,Major,64,51,63,12,0,19,5,https://open.spotify.com/search/Anti-Hero%20Taylor%20Swift
+TQG,"Karol G, Shakira",2,2023,2,23,4284,49,618990393,115,123,184,18,354,180,E,Minor,72,61,63,67,0,9,28,"https://open.spotify.com/search/TQG%20Karol%20G,%20Shakira"
+Los del Espacio,"Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",8,2023,6,1,1150,31,123122413,22,33,34,7,184,120,,Major,81,63,68,11,0,11,4,"https://open.spotify.com/search/Los%20del%20Espacio%20Big%20One,%20Duki,%20Lit%20Killah,%20Maria%20Becerra,%20FMK,%20Rusherking,%20Emilia,%20Tiago%20pzk"
+Frï¿½ï¿½gil (feat. Grupo Front,"Yahritza Y Su Esencia, Grupo Frontera",2,2023,4,7,672,34,188933502,19,108,24,9,212,150,F#,Major,61,39,73,37,0,11,3,"https://open.spotify.com/search/Frï¿½ï¿½gil%20(feat.%20Grupo%20Front%20Yahritza%20Y%20Su%20Esencia,%20Grupo%20Frontera"
+Blank Space,Taylor Swift,1,2014,1,1,11434,53,1355959075,154,123,410,2,81,96,F,Major,75,57,68,9,0,13,6,https://open.spotify.com/search/Blank%20Space%20Taylor%20Swift
+Style,Taylor Swift,1,2014,1,1,7830,42,786181836,94,111,151,4,82,95,D,Major,60,48,79,0,0,12,4,https://open.spotify.com/search/Style%20Taylor%20Swift
+TQM,Fuerza Regida,1,2023,5,19,584,28,176553476,16,159,15,6,100,125,F,Minor,79,96,85,27,0,11,6,https://open.spotify.com/search/TQM%20Fuerza%20Regida
+El Azul,"Junior H, Peso Pluma",2,2023,2,10,692,25,354495408,10,107,6,3,62,144,A,Minor,56,84,65,23,0,10,6,"https://open.spotify.com/search/El%20Azul%20Junior%20H,%20Peso%20Pluma"
+Sunflower - Spider-Man: Into the Spider-Verse,"Post Malone, Swae Lee",2,2018,10,9,24094,78,2808096550,372,117,843,4,69,90,D,Major,76,91,50,54,0,7,5,"https://open.spotify.com/search/Sunflower%20-%20Spider-Man:%20Into%20the%20Spider-Verse%20Post%20Malone,%20Swae%20Lee"
+I'm Good (Blue),"Bebe Rexha, David Guetta",2,2022,8,26,12482,80,1109433169,291,184,537,45,727,128,G,Minor,56,38,97,4,0,35,4,"https://open.spotify.com/search/I'm%20Good%20(Blue)%20Bebe%20Rexha,%20David%20Guetta"
+See You Again,"Tyler, The Creator, Kali Uchis",3,2017,7,21,13387,64,1047101291,77,58,247,1,311,79,F#,Major,56,58,56,37,0,11,10,"https://open.spotify.com/search/See%20You%20Again%20Tyler,%20The%20Creator,%20Kali%20Uchis"
+Barbie World (with Aqua) [From Barbie The Album],"Nicki Minaj, Aqua, Ice Spice",3,2023,6,23,1117,80,65156199,82,145,65,16,"1,133",144,,Major,77,75,58,52,0,23,25,"https://open.spotify.com/search/Barbie%20World%20(with%20Aqua)%20[From%20Barbie%20The%20Album]%20Nicki%20Minaj,%20Aqua,%20Ice%20Spice"
+Angels Like You,Miley Cyrus,1,2020,11,27,3372,19,570515054,65,48,138,1,102,122,F,Major,67,49,64,10,0,10,3,https://open.spotify.com/search/Angels%20Like%20You%20Miley%20Cyrus
+I Ain't Worried,OneRepublic,1,2022,5,13,8431,76,1085685420,241,127,458,37,332,140,,Major,71,82,81,11,0,6,5,https://open.spotify.com/search/I%20Ain't%20Worried%20OneRepublic
+Die For You,The Weeknd,1,2016,11,24,2483,59,1647990401,68,21,24,0,259,134,C#,Minor,59,51,52,9,0,15,7,https://open.spotify.com/search/Die%20For%20You%20The%20Weeknd
+Starboy,"The Weeknd, Daft Punk",2,2016,9,21,29536,79,2565529693,281,137,"2,445",1,140,186,G,Major,68,49,59,16,0,13,28,"https://open.spotify.com/search/Starboy%20The%20Weeknd,%20Daft%20Punk"
+Die For You - Remix,"Ariana Grande, The Weeknd",2,2023,2,24,3408,47,518745108,87,86,74,1,16,67,C#,Minor,53,50,53,23,0,44,7,"https://open.spotify.com/search/Die%20For%20You%20-%20Remix%20Ariana%20Grande,%20The%20Weeknd"
+El Cielo,"Feid, Myke Towers, Sky Rompiendo",3,2023,6,2,1298,38,107753850,44,64,57,10,110,106,A#,Minor,72,17,64,7,0,10,5,"https://open.spotify.com/search/El%20Cielo%20Feid,%20Myke%20Towers,%20Sky%20Rompiendo"
+Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray",3,2023,4,6,4277,66,177740666,145,111,213,11,810,128,G,Major,60,23,91,0,0,12,3,"https://open.spotify.com/search/Baby%20Don't%20Hurt%20Me%20David%20Guetta,%20Anne-Marie,%20Coi%20Leray"
+AMARGURA,Karol G,1,2023,2,24,1133,39,153372011,14,71,23,10,176,107,F#,Minor,92,55,70,18,0,15,7,https://open.spotify.com/search/AMARGURA%20Karol%20G
+(It Goes Like) Nanana - Edit,Peggy Gou,1,2023,6,15,2259,59,57876440,0,0,109,17,0,130,G,Minor,67,96,88,12,19,8,4,https://open.spotify.com/search/(It%20Goes%20Like)%20Nanana%20-%20Edit%20Peggy%20Gou
+Another Love,Tom Odell,1,2012,10,15,18371,83,1813673666,250,122,"3,394",19,,123,E,Minor,45,13,54,70,0,9,4,https://open.spotify.com/search/Another%20Love%20Tom%20Odell
+Blinding Lights,The Weeknd,1,2019,11,29,43899,69,3703895074,672,199,"3,421",20,,171,C#,Major,50,38,80,0,0,9,7,https://open.spotify.com/search/Blinding%20Lights%20The%20Weeknd
+Moonlight,Kali Uchis,1,2023,2,24,2649,42,256483385,67,79,57,1,615,137,G,Minor,64,88,72,51,0,17,5,https://open.spotify.com/search/Moonlight%20Kali%20Uchis
+La Bachata,Manuel Turizo,1,2022,5,26,6804,45,1214083358,139,111,161,15,210,125,G,Minor,84,85,68,58,0,22,4,https://open.spotify.com/search/La%20Bachata%20Manuel%20Turizo
+S91,Karol G,1,2023,7,14,525,41,16011326,34,115,39,6,216,128,,Minor,86,42,72,59,0,9,19,https://open.spotify.com/search/S91%20Karol%20G
+cardigan,Taylor Swift,1,2020,7,24,7923,29,812019557,106,112,142,4,215,130,,Minor,61,53,58,55,0,27,4,https://open.spotify.com/search/cardigan%20Taylor%20Swift
+Tï¿½ï¿,"dennis, MC Kevin o Chris",2,2023,5,4,731,15,111947664,27,17,73,4,167,130,B,Major,86,59,96,50,1,9,5,"https://open.spotify.com/search/Tï¿½ï¿%20dennis,%20MC%20Kevin%20o%20Chris"
+Boy's a liar Pt. 2,"PinkPantheress, Ice Spice",2,2023,2,3,5184,41,156338624,154,84,102,14,37,133,F,Major,70,86,81,25,0,25,5,"https://open.spotify.com/search/Boy's%20a%20liar%20Pt.%202%20PinkPantheress,%20Ice%20Spice"
+Left and Right (Feat. Jung Kook of BTS),"Charlie Puth, BTS, Jung Kook",3,2022,6,24,3107,39,720434240,38,0,4,0,0,101,D,Major,88,72,59,62,0,9,3,"https://open.spotify.com/search/Left%20and%20Right%20(Feat.%20Jung%20Kook%20of%20BTS)%20Charlie%20Puth,%20BTS,%20Jung%20Kook"
+BESO,"Rauw Alejandro, ROSALï¿½",2,2023,3,24,4053,50,357925728,82,121,182,12,171,95,F,Minor,77,53,64,74,0,17,14,"https://open.spotify.com/search/BESO%20Rauw%20Alejandro,%20ROSALï¿½"
+Hey Mor,"Ozuna, Feid",2,2022,10,6,4637,38,674072710,63,79,89,11,16,98,C#,Minor,90,40,59,0,0,10,29,"https://open.spotify.com/search/Hey%20Mor%20Ozuna,%20Feid"
+Yellow,Chris Molitor,1,1999,1,1,31358,43,1755214421,196,2,"4,053",5,0,173,B,Major,43,28,66,0,0,23,3,https://open.spotify.com/search/Yellow%20Chris%20Molitor
+Karma,Taylor Swift,1,2022,10,21,3818,23,404562836,37,55,32,0,272,90,G#,Major,64,10,62,7,0,48,7,https://open.spotify.com/search/Karma%20Taylor%20Swift
+People,Libianca,1,2022,12,2,3506,56,373199958,105,64,169,8,529,198,A#,Minor,59,71,42,55,0,10,7,https://open.spotify.com/search/People%20Libianca
+Overdrive,Post Malone,1,2023,7,14,410,36,14780425,36,32,31,1,26,140,C#,Major,56,48,73,0,0,35,4,https://open.spotify.com/search/Overdrive%20Post%20Malone
+Enchanted (Taylor's Version),Taylor Swift,1,2023,7,7,148,24,39578178,32,93,8,2,5,82,G#,Major,51,22,53,1,0,15,3,https://open.spotify.com/search/Enchanted%20(Taylor's%20Version)%20Taylor%20Swift
+BABY HELLO,"Rauw Alejandro, Bizarrap",2,2023,6,23,1004,35,54266102,42,80,58,3,169,130,C#,Minor,77,84,89,17,0,43,5,"https://open.spotify.com/search/BABY%20HELLO%20Rauw%20Alejandro,%20Bizarrap"
+Heat Waves,Glass Animals,1,2020,6,28,22543,63,2557975762,386,144,707,28,,81,B,Major,76,53,53,44,0,9,9,https://open.spotify.com/search/Heat%20Waves%20Glass%20Animals
+golden hour,JVKE,1,2022,7,15,4511,36,751134527,70,58,109,18,230,94,C#,Minor,51,14,59,65,18,25,3,https://open.spotify.com/search/golden%20hour%20JVKE
+Sweater Weather,The Neighbourhood,1,2012,5,14,16413,61,2282771485,166,87,"1,056",1,,124,A#,Major,61,41,81,5,2,10,3,https://open.spotify.com/search/Sweater%20Weather%20The%20Neighbourhood
+"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap, Quevedo",2,2022,7,6,8506,45,1356565093,94,65,164,14,176,128,D,Major,62,55,78,1,3,23,4,"https://open.spotify.com/search/Quevedo:%20Bzrp%20Music%20Sessions,%20Vol.%2052%20Bizarrap,%20Quevedo"
+Viva La Vida,Coldplay,1,2008,1,1,33898,62,1592909789,233,0,"4,095",9,0,138,F,Minor,49,42,62,9,0,11,3,https://open.spotify.com/search/Viva%20La%20Vida%20Coldplay
+Here With Me,d4vd,1,2022,7,17,3246,23,635412045,94,85,68,1,84,132,E,Major,58,27,48,50,0,12,3,https://open.spotify.com/search/Here%20With%20Me%20d4vd
+Unholy (feat. Kim Petras),"Sam Smith, Kim Petras",2,2022,9,22,8576,42,1230675890,216,108,331,26,154,131,D,Major,71,24,47,1,0,27,9,"https://open.spotify.com/search/Unholy%20(feat.%20Kim%20Petras)%20Sam%20Smith,%20Kim%20Petras"
+Yandel 150,"Yandel, Feid",2,2022,12,20,3618,38,585695368,47,74,80,14,194,168,F#,Minor,78,58,73,5,0,10,7,"https://open.spotify.com/search/Yandel%20150%20Yandel,%20Feid"
+CORAZï¿½ï¿½N VA,Maria Becerra,1,2023,6,22,370,20,43857627,12,16,18,4,93,98,C#,Major,68,40,79,33,0,30,6,https://open.spotify.com/search/CORAZï¿½ï¿½N%20VA%20Maria%20Becerra
+Riptide,Vance Joy,1,1975,1,1,31123,55,2009094673,300,65,"1,003",1,0,102,C#,Major,48,50,73,43,0,15,4,https://open.spotify.com/search/Riptide%20Vance%20Joy
+Until I Found You (with Em Beihold) - Em Beihold Version,"Em Beihold, Stephen Sanchez",2,2022,4,22,2790,30,600976848,60,96,71,0,115,101,A#,Major,34,32,57,78,0,20,3,"https://open.spotify.com/search/Until%20I%20Found%20You%20(with%20Em%20Beihold)%20-%20Em%20Beihold%20Version%20Em%20Beihold,%20Stephen%20Sanchez"
+Novidade na ï¿½ï¿,"Mc Livinho, DJ Matt D",2,2023,6,23,267,9,39709092,9,6,25,2,72,130,F,Major,63,36,34,76,0,35,9,"https://open.spotify.com/search/Novidade%20na%20ï¿½ï¿%20Mc%20Livinho,%20DJ%20Matt%20D"
+Back To December (Taylor's Version),Taylor Swift,1,2023,7,7,139,17,39228929,16,72,5,0,8,142,D,Major,50,20,64,1,0,12,3,https://open.spotify.com/search/Back%20To%20December%20(Taylor's%20Version)%20Taylor%20Swift
+STAY (with Justin Bieber),"Justin Bieber, The Kid Laroi",2,2021,7,9,17050,36,2665343922,492,99,798,31,0,170,C#,Major,59,48,76,4,0,10,5,"https://open.spotify.com/search/STAY%20(with%20Justin%20Bieber)%20Justin%20Bieber,%20The%20Kid%20Laroi"
+El Merengue,"Marshmello, Manuel Turizo",2,2023,3,3,2114,44,223633238,80,75,110,11,323,124,G#,Minor,78,70,68,3,1,11,4,"https://open.spotify.com/search/El%20Merengue%20Marshmello,%20Manuel%20Turizo"
+Someone You Loved,Lewis Capaldi,1,2018,11,8,17836,53,2887241814,440,125,"1,800",0,,110,C#,Major,50,45,41,75,0,11,3,https://open.spotify.com/search/Someone%20You%20Loved%20Lewis%20Capaldi
+Me Porto Bonito,"Chencho Corleone, Bad Bunny",2,2022,5,6,8870,43,1440757818,104,120,141,26,49,92,C#,Minor,91,43,71,9,0,9,8,"https://open.spotify.com/search/Me%20Porto%20Bonito%20Chencho%20Corleone,%20Bad%20Bunny"
+Makeba,Jain,1,2015,6,22,6060,53,165484133,150,148,"2,703",22,"1,451",116,D,Major,82,40,66,39,51,25,7,https://open.spotify.com/search/Makeba%20Jain
+MONTAGEM - FR PUNK,"Ayparia, unxbected",2,2012,6,20,641,50,58054811,1,52,8,0,"1,170",129,A,Major,63,84,82,70,8,9,7,"https://open.spotify.com/search/MONTAGEM%20-%20FR%20PUNK%20Ayparia,%20unxbected"
+Fast Car,Luke Combs,1,2023,3,24,1446,12,157058870,57,97,35,0,429,98,G#,Major,71,67,60,19,0,12,3,https://open.spotify.com/search/Fast%20Car%20Luke%20Combs
+What It Is (Solo Version),Doechii,1,2023,3,17,804,25,95131998,29,76,24,0,162,172,C#,Minor,74,76,76,6,0,10,9,https://open.spotify.com/search/What%20It%20Is%20(Solo%20Version)%20Doechii
+Coco Chanel,"Bad Bunny, Eladio Carrion",2,2023,3,17,1962,38,250305248,28,89,29,5,82,150,D,Major,68,14,76,4,0,10,4,"https://open.spotify.com/search/Coco%20Chanel%20Bad%20Bunny,%20Eladio%20Carrion"
+Donï¿½ï¿½ï¿½t Bl,Taylor Swift,1,2017,11,8,4875,23,685032533,19,45,0,0,10,136,A,Minor,62,19,53,11,0,6,4,https://open.spotify.com/search/Donï¿½ï¿½ï¿½t%20Bl%20Taylor%20Swift
+Still With You,Jung Kook,1,2020,6,5,31,39,38411956,2,107,8,0,0,88,C#,Minor,53,34,47,9,0,83,4,https://open.spotify.com/search/Still%20With%20You%20Jung%20Kook
+All My Life (feat. J. Cole),"J. Cole, Lil Durk",2,2023,5,12,2175,23,144565150,69,145,69,2,478,143,D#,Major,83,69,44,15,0,10,33,"https://open.spotify.com/search/All%20My%20Life%20(feat.%20J.%20Cole)%20J.%20Cole,%20Lil%20Durk"
+Say Yes To Heaven,Lana Del Rey,1,2023,3,17,2000,46,127567540,49,105,63,1,0,100,F#,Minor,49,17,35,71,9,11,3,https://open.spotify.com/search/Say%20Yes%20To%20Heaven%20Lana%20Del%20Rey
+Snooze,SZA,1,2022,12,9,2839,25,399686758,58,156,42,1,236,143,F,Major,56,39,55,14,0,11,13,https://open.spotify.com/search/Snooze%20SZA
+Summertime Sadness,Lana Del Rey,1,2011,1,1,20333,52,983637508,89,143,"1,632",3,200,112,C#,Minor,56,24,66,7,0,12,3,https://open.spotify.com/search/Summertime%20Sadness%20Lana%20Del%20Rey
+Take Two,BTS,1,2023,6,9,674,47,118482347,20,106,25,4,78,93,G,Major,62,57,59,3,0,38,3,https://open.spotify.com/search/Take%20Two%20BTS
+Lover,Taylor Swift,1,2012,1,1,8448,23,882831184,160,110,163,0,5,206,G,Major,43,50,55,50,0,15,10,https://open.spotify.com/search/Lover%20Taylor%20Swift
+Too Many Nights (feat. Don Toliver & with Future),"Future, Metro Boomin, Don Toliver",3,2022,12,2,2110,58,286400165,17,119,19,2,266,88,G,Minor,68,17,71,15,0,11,5,"https://open.spotify.com/search/Too%20Many%20Nights%20(feat.%20Don%20Toliver%20&%20with%20Future)%20Future,%20Metro%20Boomin,%20Don%20Toliver"
+Chemical,Post Malone,1,2023,4,14,2528,39,172825906,56,91,59,3,486,170,D,Major,50,37,90,0,0,12,5,https://open.spotify.com/search/Chemical%20Post%20Malone
+Mockingbird,Eminem,1,2004,1,1,12985,61,1241559043,49,98,"2,394",5,204,84,E,Minor,62,24,67,21,0,13,28,https://open.spotify.com/search/Mockingbird%20Eminem
+New Jeans,NewJeans,1,2023,7,7,77,35,29562220,8,166,4,4,34,134,E,Minor,81,53,72,51,0,12,5,https://open.spotify.com/search/New%20Jeans%20NewJeans
+Primera Cita,Carin Leon,1,2022,4,20,266,27,77309611,6,40,6,6,202,158,A#,Major,54,50,40,61,0,10,6,https://open.spotify.com/search/Primera%20Cita%20Carin%20Leon
+Cold Heart - PNAU Remix,"Dua Lipa, Elton John, Pnau",3,2017,11,10,21097,52,1605224506,384,135,"1,034",37,312,116,C#,Major,80,92,80,4,0,10,3,"https://open.spotify.com/search/Cold%20Heart%20-%20PNAU%20Remix%20Dua%20Lipa,%20Elton%20John,%20Pnau"
+Dandelions,Ruth B.,1,2017,4,28,3423,21,1116995633,41,100,59,1,32,117,C#,Major,61,45,69,2,0,9,3,https://open.spotify.com/search/Dandelions%20Ruth%20B.
+Bones,Imagine Dragons,1,2021,3,11,4198,44,838079900,98,108,327,17,153,114,F,Minor,77,65,72,2,0,7,5,https://open.spotify.com/search/Bones%20Imagine%20Dragons
+Set Fire to the Rain,Adele,1,2011,1,1,14739,43,1163620694,88,112,"2,163",5,519,108,D,Minor,61,47,68,0,0,13,3,https://open.spotify.com/search/Set%20Fire%20to%20the%20Rain%20Adele
+Money Trees,"Kendrick Lamar, Jay Rock",2,2012,1,1,26792,32,1093605526,69,113,695,0,458,144,E,Minor,74,37,53,7,0,21,10,"https://open.spotify.com/search/Money%20Trees%20Kendrick%20Lamar,%20Jay%20Rock"
+Tak Segampang Itu,Anggi Marito,1,2022,12,2,213,6,179659294,7,6,0,0,48,130,F,Major,51,18,44,76,0,11,3,https://open.spotify.com/search/Tak%20Segampang%20Itu%20Anggi%20Marito
+LAGUNAS,"Jasiel Nuï¿½ï¿½ez, Peso P",2,2023,6,22,58,18,39058561,2,106,4,2,184,116,B,Major,77,79,62,33,1,15,3,"https://open.spotify.com/search/LAGUNAS%20Jasiel%20Nuï¿½ï¿½ez,%20Peso%20P"
+Mine (Taylor's Version),Taylor Swift,1,2023,7,7,99,15,36912123,21,52,6,1,0,121,G,Major,65,49,78,0,0,17,4,https://open.spotify.com/search/Mine%20(Taylor's%20Version)%20Taylor%20Swift
+Everybody Wants To Rule The World,Tears For Fears,1,1985,2,17,41751,25,1205951614,101,32,"2,655",0,666,112,G,Major,64,54,81,36,0,11,6,https://open.spotify.com/search/Everybody%20Wants%20To%20Rule%20The%20World%20Tears%20For%20Fears
+No Role Modelz,J. Cole,1,2014,12,9,21164,36,1791000570,80,65,476,0,14,100,A#,Minor,70,47,52,30,0,6,33,https://open.spotify.com/search/No%20Role%20Modelz%20J.%20Cole
+Tattoo,Loreen,1,2023,2,25,2988,59,201660859,74,102,145,18,925,150,D#,Minor,55,30,78,24,0,12,8,https://open.spotify.com/search/Tattoo%20Loreen
+Rara Vez,"Taiu, Milo j",2,2023,2,8,893,38,248088961,19,23,24,3,88,120,F,Minor,84,96,71,18,0,34,17,"https://open.spotify.com/search/Rara%20Vez%20Taiu,%20Milo%20j"
+VAGABUNDO,"Sebastian Yatra, Manuel Turizo, Beï¿½ï",3,2023,5,12,1094,34,90839753,40,58,47,8,203,127,B,Minor,82,89,85,4,0,23,6,"https://open.spotify.com/search/VAGABUNDO%20Sebastian%20Yatra,%20Manuel%20Turizo,%20Beï¿½ï"
+august,Taylor Swift,1,2020,7,24,7324,22,607123776,25,81,61,1,44,90,F,Major,51,42,61,53,0,9,3,https://open.spotify.com/search/august%20Taylor%20Swift
+LUNA,"Junior H, Peso Pluma",2,2023,6,22,201,11,55842345,19,117,8,1,74,128,A,Minor,75,79,63,33,0,15,4,"https://open.spotify.com/search/LUNA%20Junior%20H,%20Peso%20Pluma"
+Miracle (with Ellie Goulding),"Calvin Harris, Ellie Goulding",2,2023,3,10,5120,48,211050784,161,115,246,9,638,143,A,Major,64,31,87,4,4,8,4,"https://open.spotify.com/search/Miracle%20(with%20Ellie%20Goulding)%20Calvin%20Harris,%20Ellie%20Goulding"
+Nonsense,Sabrina Carpenter,1,2022,7,15,2346,27,342897938,69,12,38,8,64,139,G#,Major,74,68,68,3,0,26,4,https://open.spotify.com/search/Nonsense%20Sabrina%20Carpenter
+Que Vuelvas,"Carin Leon, Grupo Frontera",2,2022,12,9,763,26,2762,21,110,21,9,71,162,A#,Major,49,78,64,19,0,11,4,"https://open.spotify.com/search/Que%20Vuelvas%20Carin%20Leon,%20Grupo%20Frontera"
+Por las Noches,Peso Pluma,1,2021,6,11,457,24,330346424,8,116,4,3,2,92,,Major,81,39,60,31,0,7,3,https://open.spotify.com/search/Por%20las%20Noches%20Peso%20Pluma
+Feliz Cumpleaï¿½ï¿½os Fe,Feid,1,2022,8,19,3430,38,601863821,45,69,52,4,3,95,F,Major,87,57,55,10,0,29,7,https://open.spotify.com/search/Feliz%20Cumpleaï¿½ï¿½os%20Fe%20Feid
+Can't Hold Us (feat. Ray Dalton),"Ray Dalton, Ryan Lewis, Macklemore",3,2011,8,16,6074,52,1953533826,201,44,"6,551",2,0,146,D,Major,63,88,93,3,0,10,8,"https://open.spotify.com/search/Can't%20Hold%20Us%20(feat.%20Ray%20Dalton)%20Ray%20Dalton,%20Ryan%20Lewis,%20Macklemore"
+Watermelon Sugar,Harry Styles,1,2019,11,17,21915,34,2322580122,437,115,"1,212",12,,95,,Major,55,56,82,12,0,34,5,https://open.spotify.com/search/Watermelon%20Sugar%20Harry%20Styles
+lovely - Bonus Track,"Billie Eilish, Khalid",2,2017,8,11,15032,30,2355719893,221,96,"1,078",2,136,115,E,Minor,35,12,30,93,0,10,3,"https://open.spotify.com/search/lovely%20-%20Bonus%20Track%20Billie%20Eilish,%20Khalid"
+"Rauw Alejandro: Bzrp Music Sessions, Vol. 56","Rauw Alejandro, Bizarrap",2,2023,6,21,871,32,66902503,25,59,32,5,88,128,B,Major,78,59,65,10,0,26,5,"https://open.spotify.com/search/Rauw%20Alejandro:%20Bzrp%20Music%20Sessions,%20Vol.%2056%20Rauw%20Alejandro,%20Bizarrap"
+Queencard,(G)I-DLE,1,2023,5,15,451,33,96273746,10,126,7,0,148,130,E,Minor,82,69,83,3,0,27,5,https://open.spotify.com/search/Queencard%20(G)I-DLE
+OMG,NewJeans,1,2023,1,2,1783,27,430977451,26,124,15,1,22,127,A,Minor,80,74,77,36,0,11,4,https://open.spotify.com/search/OMG%20NewJeans
+Radio,Lana Del Rey,1,2011,1,1,9389,46,284819874,24,122,282,3,368,150,D,Major,42,20,86,21,0,9,9,https://open.spotify.com/search/Radio%20Lana%20Del%20Rey
+"Shakira: Bzrp Music Sessions, Vol. 53","Shakira, Bizarrap",2,2023,1,11,5724,44,721975598,119,108,254,29,22,122,D,Minor,78,50,63,27,0,9,5,"https://open.spotify.com/search/Shakira:%20Bzrp%20Music%20Sessions,%20Vol.%2053%20Shakira,%20Bizarrap"
+505,Arctic Monkeys,1,2007,4,20,13985,25,1217120710,30,80,588,1,1,140,,Major,52,20,85,0,0,7,5,https://open.spotify.com/search/505%20Arctic%20Monkeys
+"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)","Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",4,2023,6,2,1051,16,109276132,31,37,31,0,189,140,,Major,63,22,54,46,0,12,8,"https://open.spotify.com/search/Calling%20(Spider-Man:%20Across%20the%20Spider-Verse)%20(Metro%20Boomin%20&%20Swae%20Lee,%20NAV,%20feat.%20A%20Boogie%20Wit%20da%20Hoodie)%20Swae%20Lee,%20A%20Boogie%20Wit%20da%20Hoodie,%20Metro%20Boomin,%20NAV"
+Trance (with Travis Scott & Young Thug),"Travis Scott, Young Thug, Metro Boomin",3,2022,12,2,1682,46,276259178,24,90,30,1,176,119,C#,Minor,75,48,53,18,0,18,34,"https://open.spotify.com/search/Trance%20(with%20Travis%20Scott%20&%20Young%20Thug)%20Travis%20Scott,%20Young%20Thug,%20Metro%20Boomin"
+"Tere Vaaste (From ""Zara Hatke Zara Bachke"")","Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",5,2023,5,22,182,8,54225632,3,88,1,0,52,110,G,Minor,76,96,72,32,0,9,4,"https://open.spotify.com/search/Tere%20Vaaste%20(From%20""Zara%20Hatke%20Zara%20Bachke"")%20Sachin-Jigar,%20Shadab%20Faridi,%20Altamash%20Faridi,%20Amitabh%20Bhattacharya,%20Varun%20Jain"
+Perfect,Ed Sheeran,1,2017,1,1,16596,13,2559529074,7,0,"2,094",0,0,95,G#,Major,60,17,45,16,0,11,2,https://open.spotify.com/search/Perfect%20Ed%20Sheeran
+Romantic Homicide,d4vd,1,2022,7,20,2335,23,681583126,82,55,50,0,9,132,F#,Major,56,20,55,45,1,32,3,https://open.spotify.com/search/Romantic%20Homicide%20d4vd
+Believer,Imagine Dragons,1,2017,1,31,18986,23,2594040133,250,121,"2,969",10,31,125,A#,Minor,77,74,78,4,0,23,11,https://open.spotify.com/search/Believer%20Imagine%20Dragons
+Novo Balanï¿½,"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",4,2023,5,19,283,7,81102253,6,9,26,1,66,124,D#,Minor,84,65,50,67,0,13,6,"https://open.spotify.com/search/Novo%20Balanï¿½%20Veigh,%20Bvga%20Beatz,%20Supernova%20Ent,%20Prod%20Malax"
+"Gol Bolinha, Gol Quadrado 2","Mc Pedrinho, DJ 900",2,2023,6,1,293,8,11956641,5,2,30,2,66,133,B,Minor,93,68,65,42,0,12,25,"https://open.spotify.com/search/Gol%20Bolinha,%20Gol%20Quadrado%202%20Mc%20Pedrinho,%20DJ%20900"
+Without Me,Eminem,1,2002,1,1,21081,43,1687664027,98,76,"3,889",5,0,112,G,Major,92,67,66,0,0,36,9,https://open.spotify.com/search/Without%20Me%20Eminem
+QUEMA,"Sog, Ryan Castro, Peso Pluma",3,2023,7,13,437,31,11599388,17,29,26,3,208,97,,Major,79,92,89,5,0,6,5,"https://open.spotify.com/search/QUEMA%20Sog,%20Ryan%20Castro,%20Peso%20Pluma"
+Stargirl Interlude,"The Weeknd, Lana Del Rey",2,2016,11,24,1275,32,611700552,13,8,5,0,1,90,F,Minor,59,52,48,38,5,10,11,"https://open.spotify.com/search/Stargirl%20Interlude%20The%20Weeknd,%20Lana%20Del%20Rey"
+Ojitos Lindos,"Bomba Estï¿½ï¿½reo, Bad B",2,2022,5,6,6135,38,1133865788,71,113,99,13,28,80,D#,Minor,65,27,69,8,0,53,4,"https://open.spotify.com/search/Ojitos%20Lindos%20Bomba%20Estï¿½ï¿½reo,%20Bad%20B"
+Somewhere Only We Know,Keane,1,2004,1,1,20015,16,1089402494,107,69,"5,239",0,558,172,A,Major,45,33,59,6,0,8,3,https://open.spotify.com/search/Somewhere%20Only%20We%20Know%20Keane
+Those Eyes,New West,1,2019,5,10,1507,14,411747614,24,71,44,1,195,120,E,Major,60,24,35,73,0,31,3,https://open.spotify.com/search/Those%20Eyes%20New%20West
+El Gordo Trae El Mando,Chino Pacas,1,2023,1,27,539,21,255932395,7,71,4,2,13,140,G,Minor,74,96,80,18,0,5,5,https://open.spotify.com/search/El%20Gordo%20Trae%20El%20Mando%20Chino%20Pacas
+Mi Bello Angel,Natanael Cano,1,2023,6,30,86,8,31873544,7,76,3,1,93,128,A,Minor,81,90,77,1,0,9,5,https://open.spotify.com/search/Mi%20Bello%20Angel%20Natanael%20Cano
+Bye,Peso Pluma,1,2023,5,26,324,14,95053634,13,110,8,2,60,122,,Major,78,70,81,57,0,10,5,https://open.spotify.com/search/Bye%20Peso%20Pluma
+Danza Kuduro,"Don Omar, Lucenzo",2,2010,1,1,17138,37,1279434863,119,81,974,1,503,130,,Major,47,86,92,8,0,5,24,"https://open.spotify.com/search/Danza%20Kuduro%20Don%20Omar,%20Lucenzo"
+Nosso Quadro,"Ana Castela, AgroPlay",2,2023,2,2,894,9,233801632,14,88,66,3,72,160,A,Major,69,61,71,33,0,31,20,"https://open.spotify.com/search/Nosso%20Quadro%20Ana%20Castela,%20AgroPlay"
+Locked Out Of Heaven,Bruno Mars,1,2012,12,5,1622,9,1481349984,0,0,356,0,0,144,F,Major,73,87,70,6,0,28,5,https://open.spotify.com/search/Locked%20Out%20Of%20Heaven%20Bruno%20Mars
+Un Finde | CROSSOVER #2,"Big One, FMK, Ke personajes",3,2023,4,4,561,14,142095275,4,14,12,5,56,192,B,Major,50,85,52,11,0,28,6,"https://open.spotify.com/search/Un%20Finde%20|%20CROSSOVER%20#2%20Big%20One,%20FMK,%20Ke%20personajes"
+Jimmy Cooks (feat. 21 Savage),"Drake, 21 Savage",2,2022,6,17,5871,27,618885532,81,121,58,1,34,163,,Major,54,40,67,0,0,9,17,"https://open.spotify.com/search/Jimmy%20Cooks%20(feat.%2021%20Savage)%20Drake,%2021%20Savage"
+Counting Stars,OneRepublic,1,2013,1,1,29215,43,2011464183,179,97,"3,394",11,153,122,C#,Minor,66,48,71,6,0,12,4,https://open.spotify.com/search/Counting%20Stars%20OneRepublic
+Ghost,Justin Bieber,1,2021,3,19,5866,24,1167330737,107,38,95,0,,154,D,Major,61,41,74,21,0,40,6,https://open.spotify.com/search/Ghost%20Justin%20Bieber
+Under The Influence,Chris Brown,1,2019,10,4,3859,26,929964809,133,181,3,0,,117,A,Minor,73,31,69,6,0,11,4,https://open.spotify.com/search/Under%20The%20Influence%20Chris%20Brown
+PRC,"Natanael Cano, Peso Pluma",2,2023,1,23,961,26,436027885,19,143,10,6,15,138,G,Minor,78,89,83,10,0,12,5,"https://open.spotify.com/search/PRC%20Natanael%20Cano,%20Peso%20Pluma"
+Gasolina,Daddy Yankee,1,2004,7,13,6457,18,657723613,98,95,453,0,454,96,,Major,86,74,80,33,0,8,6,https://open.spotify.com/search/Gasolina%20Daddy%20Yankee
+One Dance,"Drake, WizKid, Kyla",3,2016,4,4,43257,24,2713922350,433,107,"3,631",0,26,104,C#,Major,77,36,63,1,0,36,5,"https://open.spotify.com/search/One%20Dance%20Drake,%20WizKid,%20Kyla"
+Enchanted,Taylor Swift,1,2010,1,1,4564,16,621660989,24,101,113,0,40,164,G#,Major,45,24,62,8,0,16,3,https://open.spotify.com/search/Enchanted%20Taylor%20Swift
+Save Your Tears,The Weeknd,1,2020,3,20,12688,13,1591223784,197,115,112,0,200,118,,Major,68,61,82,2,0,50,3,https://open.spotify.com/search/Save%20Your%20Tears%20The%20Weeknd
+Sure Thing,Miguel,1,2010,5,25,13801,19,950906471,137,125,435,6,285,81,B,Minor,68,51,60,3,0,19,10,https://open.spotify.com/search/Sure%20Thing%20Miguel
+Every Breath You Take - Remastered 2003,The Police,1,1983,1,6,22439,19,1593270737,211,74,929,0,129,117,C#,Major,82,73,45,54,0,7,3,https://open.spotify.com/search/Every%20Breath%20You%20Take%20-%20Remastered%202003%20The%20Police
+The Night We Met,Lord Huron,1,2015,2,2,18515,35,1410088830,70,82,939,1,162,174,D,Major,45,10,37,97,25,64,4,https://open.spotify.com/search/The%20Night%20We%20Met%20Lord%20Huron
+We Found Love,"Rihanna, Calvin Harris",2,2011,1,1,36843,21,1235005533,321,91,"4,607",1,58,128,C#,Major,73,60,77,3,0,11,4,"https://open.spotify.com/search/We%20Found%20Love%20Rihanna,%20Calvin%20Harris"
+When I Was Your Man,Bruno Mars,1,2012,12,5,2420,11,1661187319,0,0,806,0,0,145,,Major,60,43,27,94,0,14,4,https://open.spotify.com/search/When%20I%20Was%20Your%20Man%20Bruno%20Mars
+Let Me Down Slowly,Alec Benjamin,1,2018,5,25,5897,19,1374581173,0,0,885,0,0,150,C#,Minor,65,51,55,73,0,14,3,https://open.spotify.com/search/Let%20Me%20Down%20Slowly%20Alec%20Benjamin
+"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)","A$AP Rocky, Metro Boomin, Roisee",3,2023,6,2,727,16,94186466,17,60,28,1,44,90,A,Minor,60,13,53,4,0,21,4,"https://open.spotify.com/search/Am%20I%20Dreaming%20(Metro%20Boomin%20&%20A$AP%20Rocky,%20Roisee)%20A$AP%20Rocky,%20Metro%20Boomin,%20Roisee"
+Do I Wanna Know?,Arctic Monkeys,1,2013,1,1,33783,26,1788326445,133,92,"2,733",1,26,85,F,Major,55,42,53,17,0,22,3,https://open.spotify.com/search/Do%20I%20Wanna%20Know?%20Arctic%20Monkeys
+Demons,Imagine Dragons,1,2012,1,1,26694,13,1840364617,65,82,"3,425",4,13,180,D#,Major,33,38,71,20,0,28,5,https://open.spotify.com/search/Demons%20Imagine%20Dragons
+ýýýýýýýýýýýý,YOASOBI,1,2023,4,12,356,16,143573775,35,102,8,1,117,166,C#,Major,57,84,94,11,0,37,9,https://open.spotify.com/search/ýýýýýýýýýýýý%20YOASOBI
+Reminder,The Weeknd,1,2016,11,25,6518,17,684675814,45,85,238,1,47,160,G#,Major,71,40,50,16,0,16,22,https://open.spotify.com/search/Reminder%20The%20Weeknd
+Shake It Off,Taylor Swift,1,2014,1,1,21335,13,1113838873,328,70,"1,378",9,20,160,G,Major,65,95,80,5,0,41,16,https://open.spotify.com/search/Shake%20It%20Off%20Taylor%20Swift
+Why'd You Only Call Me When You're High?,Arctic Monkeys,1,2013,1,1,23389,29,1267333350,54,70,"1,089",2,1,92,D,Major,70,81,63,4,0,8,4,https://open.spotify.com/search/Why'd%20You%20Only%20Call%20Me%20When%20You're%20High?%20Arctic%20Monkeys
+SNAP,Rosa Linn,1,2022,3,19,3202,18,726307468,148,80,226,24,0,170,,Major,56,53,64,11,0,45,6,https://open.spotify.com/search/SNAP%20Rosa%20Linn
+Shape of You,Ed Sheeran,1,2017,1,6,32181,10,3562543890,33,0,"6,808",7,0,96,C#,Minor,83,93,65,58,0,9,8,https://open.spotify.com/search/Shape%20of%20You%20Ed%20Sheeran
+Night Changes,One Direction,1,2014,11,17,7124,18,1131090940,60,20,2,0,,120,G#,Major,67,40,52,86,0,12,4,https://open.spotify.com/search/Night%20Changes%20One%20Direction
+Fin de Semana,"Oscar Maydon, Junior H",2,2023,1,13,592,14,307370144,11,84,6,1,30,98,,Major,70,37,54,6,0,9,8,"https://open.spotify.com/search/Fin%20de%20Semana%20Oscar%20Maydon,%20Junior%20H"
+Creep,Radiohead,1,1992,9,21,36724,7,1271293243,146,72,"6,807",5,80,92,G,Major,53,12,34,1,0,12,4,https://open.spotify.com/search/Creep%20Radiohead
+Car's Outside,James Arthur,1,2019,10,18,794,10,265882712,38,25,61,0,263,150,A,Major,34,24,56,4,0,11,3,https://open.spotify.com/search/Car's%20Outside%20James%20Arthur
+Apocalypse,Cigarettes After Sex,1,2017,3,21,13091,17,841749534,61,96,790,2,116,94,F,Major,37,17,47,2,46,11,3,https://open.spotify.com/search/Apocalypse%20Cigarettes%20After%20Sex
+Cheques,Shubh,1,2023,5,19,67,8,47956378,7,10,0,0,57,90,E,Minor,74,36,63,26,0,27,5,https://open.spotify.com/search/Cheques%20Shubh
+Pink + White,Frank Ocean,1,2016,8,20,21574,30,806397070,112,68,266,1,39,160,A,Major,54,54,55,67,0,42,11,https://open.spotify.com/search/Pink%20+%20White%20Frank%20Ocean
+Circles,Post Malone,1,2019,8,30,19664,16,2132335812,391,73,633,3,37,120,,Major,70,59,75,24,0,9,4,https://open.spotify.com/search/Circles%20Post%20Malone
+Just The Way You Are,Bruno Mars,1,2010,1,1,21106,13,1641426668,82,0,"2,946",0,0,109,F,Major,63,46,85,1,0,9,5,https://open.spotify.com/search/Just%20The%20Way%20You%20Are%20Bruno%20Mars
+Take Me To Church,Hozier,1,2013,9,13,23804,31,2135158446,187,99,"4,623",1,0,129,E,Minor,57,41,66,63,0,12,5,https://open.spotify.com/search/Take%20Me%20To%20Church%20Hozier
+Bebe Dame,"Fuerza Regida, Grupo Frontera",2,2022,12,16,849,22,367316268,27,129,21,7,111,157,G,Major,54,75,60,30,0,7,5,"https://open.spotify.com/search/Bebe%20Dame%20Fuerza%20Regida,%20Grupo%20Frontera"
+You Belong With Me (Taylorï¿½ï¿½ï¿½s Ve,Taylor Swift,1,2021,4,9,2619,12,350381515,47,90,1,0,7,130,F#,Major,63,49,73,5,0,9,3,https://open.spotify.com/search/You%20Belong%20With%20Me%20(Taylorï¿½ï¿½ï¿½s%20Ve%20Taylor%20Swift
+Titi Me Preguntï¿,Bad Bunny,1,2022,5,6,9037,42,1264310836,124,133,139,14,166,107,F,Minor,65,19,72,10,0,13,25,https://open.spotify.com/search/Titi%20Me%20Preguntï¿%20Bad%20Bunny
+Better Than Revenge (Taylor's Version),Taylor Swift,1,2023,7,7,86,11,30343206,3,33,3,0,1,146,B,Minor,50,67,89,0,0,19,8,https://open.spotify.com/search/Better%20Than%20Revenge%20(Taylor's%20Version)%20Taylor%20Swift
+Shut up My Moms Calling,Hotel Ugly,1,2020,2,10,1788,14,405136812,1,50,19,0,19,139,A,Minor,48,37,41,32,0,10,10,https://open.spotify.com/search/Shut%20up%20My%20Moms%20Calling%20Hotel%20Ugly
+Have You Ever Seen The Rain?,Creedence Clearwater Revival,1,1968,7,1,15890,14,1145727611,71,37,653,0,167,116,,Major,74,76,70,7,0,13,3,https://open.spotify.com/search/Have%20You%20Ever%20Seen%20The%20Rain?%20Creedence%20Clearwater%20Revival
+Es un Secreto,Plan B,1,2010,7,20,492,36,540654286,4,3,19,0,0,95,F#,Minor,84,52,77,12,0,7,4,https://open.spotify.com/search/Es%20un%20Secreto%20Plan%20B
+POLARIS - Remix,"Feid, Mora, Saiko, Quevedo",4,2023,6,8,773,33,57312735,20,46,21,8,99,170,G#,Minor,62,55,80,15,0,37,7,"https://open.spotify.com/search/POLARIS%20-%20Remix%20Feid,%20Mora,%20Saiko,%20Quevedo"
+Ditto,NewJeans,1,2022,12,19,1154,22,397582059,28,125,11,1,51,134,F#,Minor,81,18,64,3,0,10,11,https://open.spotify.com/search/Ditto%20NewJeans
+Take On Me,a-ha,1,1984,10,19,44927,17,1479115056,34,0,"5,108",6,0,84,F#,Minor,57,86,90,2,0,9,5,https://open.spotify.com/search/Take%20On%20Me%20a-ha
+"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)","Swae Lee, Lil Wayne, Offset, Metro Boomin",4,2023,6,2,551,4,86773632,13,46,20,1,10,146,B,Minor,61,20,48,21,0,12,6,"https://open.spotify.com/search/Annihilate%20(Spider-Man:%20Across%20the%20Spider-Verse)%20(Metro%20Boomin%20&%20Swae%20Lee,%20Lil%20Wayne,%20Offset)%20Swae%20Lee,%20Lil%20Wayne,%20Offset,%20Metro%20Boomin"
+"Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)","Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin",5,2023,5,1,577,14,133753727,22,18,15,1,0,74,A#,Minor,53,24,67,11,0,10,28,"https://open.spotify.com/search/Angel%20Pt%201%20(feat.%20Jimin%20of%20BTS,%20JVKE%20&%20Muni%20Long)%20Kodak%20Black,%20NLE%20Choppa,%20Muni%20Long,%20JVKE,%20Jimin"
+Acrï¿½ï¿½s,Shakira,1,2023,5,11,955,29,123124076,37,50,79,11,31,144,B,Major,75,35,48,84,0,10,12,https://open.spotify.com/search/Acrï¿½ï¿½s%20Shakira
+AMG,"Natanael Cano, Gabito Ballesteros, Peso Pluma",3,2022,11,24,995,19,463564958,12,117,9,5,3,136,B,Minor,77,79,73,15,0,27,10,"https://open.spotify.com/search/AMG%20Natanael%20Cano,%20Gabito%20Ballesteros,%20Peso%20Pluma"
+"Phir Aur Kya Chahiye (From ""Zara Hatke Zara Bachke"")","Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",3,2023,5,15,178,6,64533040,6,71,1,0,31,100,E,Major,56,53,55,53,0,12,4,"https://open.spotify.com/search/Phir%20Aur%20Kya%20Chahiye%20(From%20""Zara%20Hatke%20Zara%20Bachke"")%20Arijit%20Singh,%20Sachin-Jigar,%20Amitabha%20Bhattacharya"
+S-Class,Stray Kids,1,2023,6,2,290,19,65496046,9,101,5,0,73,105,F,Minor,89,67,78,9,0,7,33,https://open.spotify.com/search/S-Class%20Stray%20Kids
+Hits Different,Taylor Swift,1,2023,5,26,547,0,68616963,15,15,6,0,0,106,F,Major,67,24,78,15,0,30,4,https://open.spotify.com/search/Hits%20Different%20Taylor%20Swift
+Chanel,"Becky G, Peso Pluma",2,2023,3,30,681,10,161460990,15,92,21,2,26,132,D,Major,85,53,68,40,0,9,4,"https://open.spotify.com/search/Chanel%20Becky%20G,%20Peso%20Pluma"
+Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),"Metro Boomin, Coi Leray",2,2023,6,2,332,5,70106975,18,41,5,0,19,120,A,Major,78,5,30,21,0,13,5,"https://open.spotify.com/search/Self%20Love%20(Spider-Man:%20Across%20the%20Spider-Verse)%20(Metro%20Boomin%20&%20Coi%20Leray)%20Metro%20Boomin,%20Coi%20Leray"
+Area Codes,"Kaliii, Kaliii",2,2023,3,17,1197,13,113509496,44,34,25,1,171,155,C#,Major,82,51,39,2,0,9,49,"https://open.spotify.com/search/Area%20Codes%20Kaliii,%20Kaliii"
+Abcdario,"Junior H, Eden Muï¿½ï",2,2023,5,13,262,5,89933133,8,60,4,1,109,129,G#,Major,70,42,43,78,0,11,3,"https://open.spotify.com/search/Abcdario%20Junior%20H,%20Eden%20Muï¿½ï"
+Obsessed,"Abhijay Sharma, Riar Saab",2,2022,9,29,161,6,71007139,10,79,2,0,42,135,F,Minor,80,85,74,62,0,8,9,"https://open.spotify.com/search/Obsessed%20Abhijay%20Sharma,%20Riar%20Saab"
+Piï¿½ï¿½man Deï¿,"Semicenk, Doï¿½ï¿½u ",2,2023,6,2,185,3,43522589,5,6,4,1,33,98,A#,Minor,73,45,62,28,0,13,13,"https://open.spotify.com/search/Piï¿½ï¿½man%20Deï¿%20Semicenk,%20Doï¿½ï¿½u%20"
+FLOWER,JISOO,1,2023,3,31,839,18,232896922,20,110,20,0,69,124,A,Minor,84,64,39,3,0,11,4,https://open.spotify.com/search/FLOWER%20JISOO
+"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)","Future, Lil Uzi Vert, Metro Boomin",3,2023,6,2,259,0,37126685,5,17,5,0,0,135,A,Minor,77,28,55,18,0,22,15,"https://open.spotify.com/search/All%20The%20Way%20Live%20(Spider-Man:%20Across%20the%20Spider-Verse)%20(Metro%20Boomin%20&%20Future,%20Lil%20Uzi%20Vert)%20Future,%20Lil%20Uzi%20Vert,%20Metro%20Boomin"
+Eyes Closed,Ed Sheeran,1,2023,3,23,2915,30,195576623,116,69,107,3,675,107,D,Major,78,39,53,30,0,11,6,https://open.spotify.com/search/Eyes%20Closed%20Ed%20Sheeran
+Escapism.,"RAYE, 070 Shake",2,2022,10,12,5129,25,532336353,116,84,114,18,348,96,D,Major,54,25,74,14,0,9,11,"https://open.spotify.com/search/Escapism.%20RAYE,%20070%20Shake"
+La Jumpa,"Arcangel, Bad Bunny",2,2022,11,30,3794,34,538115192,47,77,53,10,8,123,G#,Major,71,58,70,30,0,32,19,"https://open.spotify.com/search/La%20Jumpa%20Arcangel,%20Bad%20Bunny"
+Karma (feat. Ice Spice),"Taylor Swift, Ice Spice",2,2023,5,26,588,0,46142772,23,21,31,0,0,90,G#,Major,62,7,62,6,0,58,6,"https://open.spotify.com/search/Karma%20(feat.%20Ice%20Spice)%20Taylor%20Swift,%20Ice%20Spice"
+Superhero (Heroes & Villains) [with Future & Chris Brown],"Future, Chris Brown, Metro Boomin",3,2022,12,2,2959,16,401036314,41,69,38,0,36,117,F,Minor,72,45,59,14,0,20,21,"https://open.spotify.com/search/Superhero%20(Heroes%20&%20Villains)%20[with%20Future%20&%20Chris%20Brown]%20Future,%20Chris%20Brown,%20Metro%20Boomin"
+Las Morras,"BLESSD, Peso Pluma",2,2023,4,4,291,8,127026613,8,78,4,1,1,133,A,Minor,78,90,84,31,0,7,4,"https://open.spotify.com/search/Las%20Morras%20BLESSD,%20Peso%20Pluma"
+CHORRITO PA LAS ANIMAS,Feid,1,2022,12,2,2321,36,345031710,29,65,34,5,3,96,G#,Minor,74,61,83,11,0,35,6,https://open.spotify.com/search/CHORRITO%20PA%20LAS%20ANIMAS%20Feid
+Ch y la Pizza,"Fuerza Regida, Natanael Cano",2,2022,12,1,536,10,288101651,10,72,8,3,14,149,G#,Major,66,85,60,40,0,14,13,"https://open.spotify.com/search/Ch%20y%20la%20Pizza%20Fuerza%20Regida,%20Natanael%20Cano"
+Snow On The Beach (feat. More Lana Del Rey),"Lana Del Rey, Taylor Swift",2,2023,5,26,359,2,60350538,1,0,9,0,0,110,F#,Minor,66,32,40,81,0,11,3,"https://open.spotify.com/search/Snow%20On%20The%20Beach%20(feat.%20More%20Lana%20Del%20Rey)%20Lana%20Del%20Rey,%20Taylor%20Swift"
+Players,Coi Leray,1,2022,11,30,4096,6,335074782,118,48,143,0,240,105,F#,Major,95,62,52,3,0,5,16,https://open.spotify.com/search/Players%20Coi%20Leray
+Bite Me,ENHYPEN,1,2023,5,22,349,69,76767396,8,96,5,0,56,105,C#,Major,80,69,78,28,0,11,14,https://open.spotify.com/search/Bite%20Me%20ENHYPEN
+Stand By Me (feat. Morgan Wallen),"Lil Durk, Morgan Wallen",2,2023,5,26,381,5,46065667,23,82,6,0,113,134,B,Major,76,61,58,6,0,16,3,"https://open.spotify.com/search/Stand%20By%20Me%20(feat.%20Morgan%20Wallen)%20Lil%20Durk,%20Morgan%20Wallen"
+Normal,Feid,1,2022,7,8,2461,36,459276435,47,66,45,5,6,170,E,Minor,71,59,56,4,0,27,12,https://open.spotify.com/search/Normal%20Feid
+Hummingbird (Metro Boomin & James Blake),"James Blake, Metro Boomin",2,2023,6,2,277,1,39666245,1,20,5,0,1,81,F#,Major,59,26,60,46,1,25,13,"https://open.spotify.com/search/Hummingbird%20(Metro%20Boomin%20&%20James%20Blake)%20James%20Blake,%20Metro%20Boomin"
+Seu Brilho Sumiu - Ao Vivo,"Israel & Rodolffo, Mari Fernandez",2,2023,3,1,967,5,138517666,7,29,51,1,29,154,F#,Major,63,75,92,31,0,91,5,"https://open.spotify.com/search/Seu%20Brilho%20Sumiu%20-%20Ao%20Vivo%20Israel%20&%20Rodolffo,%20Mari%20Fernandez"
+Bad Habit,Steve Lacy,1,2022,6,29,8186,12,822633917,155,72,131,16,29,169,C#,Major,69,69,51,63,0,38,4,https://open.spotify.com/search/Bad%20Habit%20Steve%20Lacy
+CUFF IT,Beyoncï¿,1,2022,7,29,7842,10,595900742,215,88,330,26,23,115,G,Major,78,64,69,4,0,7,14,https://open.spotify.com/search/CUFF%20IT%20Beyoncï¿
+Lilith (feat. SUGA of BTS) (Diablo IV Anthem),"Halsey, Suga",2,2023,6,5,215,6,51985779,6,14,8,2,4,84,A,Minor,43,14,74,1,0,19,8,"https://open.spotify.com/search/Lilith%20(feat.%20SUGA%20of%20BTS)%20(Diablo%20IV%20Anthem)%20Halsey,%20Suga"
+69,"Nicky Jam, Feid",2,2023,5,18,1134,22,57945987,39,14,48,2,3,93,G#,Major,79,58,62,11,0,11,23,"https://open.spotify.com/search/69%20Nicky%20Jam,%20Feid"
+Niï¿½ï¿½a Bo,"Sean Paul, Feid",2,2023,4,21,1305,34,115010040,29,26,43,5,44,91,G,Major,82,47,62,10,0,10,15,"https://open.spotify.com/search/Niï¿½ï¿½a%20Bo%20Sean%20Paul,%20Feid"
+Search & Rescue,Drake,1,2023,4,7,2066,6,175097833,58,70,43,0,182,142,A#,Minor,82,54,44,6,0,33,7,https://open.spotify.com/search/Search%20&%20Rescue%20Drake
+AMERICA HAS A PROBLEM (feat. Kendrick Lamar),"Kendrick Lamar, Beyoncï¿",2,2023,5,19,896,0,57089066,34,2,33,0,1,126,C#,Major,78,20,70,1,0,16,4,"https://open.spotify.com/search/AMERICA%20HAS%20A%20PROBLEM%20(feat.%20Kendrick%20Lamar)%20Kendrick%20Lamar,%20Beyoncï¿"
+Lavender Haze,Taylor Swift,1,2022,10,21,3763,8,488386797,51,43,38,10,1,97,A#,Major,73,10,44,26,0,16,8,https://open.spotify.com/search/Lavender%20Haze%20Taylor%20Swift
+"Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )","WizKid, Toian, Metro Boomin, Don Toliver, Beam",5,2023,6,2,197,0,32761689,3,10,3,0,0,101,F,Major,92,59,51,41,51,26,8,"https://open.spotify.com/search/Link%20Up%20(Metro%20Boomin%20&%20Don%20Toliver,%20Wizkid%20feat.%20BEAM%20&%20Toian)%20-%20Spider-Verse%20Remix%20(Spider-Man:%20Across%20the%20Spider-Verse%20)%20WizKid,%20Toian,%20Metro%20Boomin,%20Don%20Toliver,%20Beam"
+Efecto,Bad Bunny,1,2022,5,6,4004,33,1047480053,34,65,43,6,2,98,G,Minor,80,23,48,14,0,6,5,https://open.spotify.com/search/Efecto%20Bad%20Bunny
+Erro Gostoso - Ao Vivo,Simone Mendes,1,2023,1,27,984,5,153454328,8,57,76,2,49,154,F#,Major,59,63,89,18,0,80,9,https://open.spotify.com/search/Erro%20Gostoso%20-%20Ao%20Vivo%20Simone%20Mendes
+Cupido,Tini,1,2023,2,14,1240,24,217672943,51,29,63,4,54,120,A,Major,91,63,58,52,0,31,22,https://open.spotify.com/search/Cupido%20Tini
+Just Wanna Rock,Lil Uzi Vert,1,2022,10,17,3995,13,457184829,72,27,47,0,0,150,B,Major,49,4,55,7,0,6,3,https://open.spotify.com/search/Just%20Wanna%20Rock%20Lil%20Uzi%20Vert
+Unstoppable,Sia,1,2016,1,21,7681,13,939844851,119,66,"1,145",2,,174,A,Major,47,27,78,11,0,10,8,https://open.spotify.com/search/Unstoppable%20Sia
+Until I Found You,Stephen Sanchez,1,2021,9,1,4427,4,726434358,69,100,154,20,438,202,A#,Major,34,25,51,69,0,18,4,https://open.spotify.com/search/Until%20I%20Found%20You%20Stephen%20Sanchez
+Rich Flex,"Drake, 21 Savage",2,2022,11,4,4657,18,573633020,84,84,42,0,23,153,B,Minor,56,42,52,5,0,36,24,"https://open.spotify.com/search/Rich%20Flex%20Drake,%2021%20Savage"
+Easy On Me,Adele,1,2021,10,14,10195,20,1406111294,258,87,657,22,9,142,F,Major,60,13,37,58,0,13,3,https://open.spotify.com/search/Easy%20On%20Me%20Adele
+Cartï¿½ï¿½o B,"MC Caverinha, KayBlack",2,2023,5,11,269,4,71573339,7,2,30,1,11,108,A,Minor,84,55,47,26,0,20,64,"https://open.spotify.com/search/Cartï¿½ï¿½o%20B%20MC%20Caverinha,%20KayBlack"
+Danger (Spider) (Offset & JID),"Offset, JID",2,2023,6,2,214,0,24975653,3,3,6,0,0,143,B,Major,83,25,69,4,0,23,12,"https://open.spotify.com/search/Danger%20(Spider)%20(Offset%20&%20JID)%20Offset,%20JID"
+Oi Balde - Ao Vivo,Zï¿½ï¿½ Neto & Crist,1,2023,2,14,845,2,145458418,12,57,47,1,33,108,D,Major,67,55,67,60,0,80,5,https://open.spotify.com/search/Oi%20Balde%20-%20Ao%20Vivo%20Zï¿½ï¿½%20Neto%20&%20Crist
+The Real Slim Shady,Eminem,1,2000,1,1,20763,27,1424589568,81,53,"3,271",1,17,104,F,Minor,95,78,66,3,0,4,6,https://open.spotify.com/search/The%20Real%20Slim%20Shady%20Eminem
+MERCHO,"Migrantes, LiL CaKe, Nico Valdi",3,2022,12,16,1267,20,231332117,41,22,56,4,84,93,F#,Minor,84,96,79,43,0,18,11,"https://open.spotify.com/search/MERCHO%20Migrantes,%20LiL%20CaKe,%20Nico%20Valdi"
+The Color Violet,Tory Lanez,1,2021,12,10,2585,32,415932686,3,79,21,1,54,105,F#,Minor,65,46,53,16,0,9,5,https://open.spotify.com/search/The%20Color%20Violet%20Tory%20Lanez
+Glimpse of Us,Joji,1,2022,6,10,6330,6,988515741,109,42,158,3,31,170,G#,Major,44,27,32,89,0,14,5,https://open.spotify.com/search/Glimpse%20of%20Us%20Joji
+Mejor Que Yo,"Mambo Kingz, DJ Luian, Anuel Aa",3,2023,5,4,675,1,50847624,9,13,11,0,1,178,C#,Minor,62,56,66,18,0,12,5,"https://open.spotify.com/search/Mejor%20Que%20Yo%20Mambo%20Kingz,%20DJ%20Luian,%20Anuel%20Aa"
+Curtains,Ed Sheeran,1,2023,5,5,715,0,39893489,37,3,27,0,50,176,F#,Minor,50,44,76,10,0,32,5,https://open.spotify.com/search/Curtains%20Ed%20Sheeran
+UNFORGIVEN (feat. Nile Rodgers),"Nile Rodgers, LE SSERAFIM",2,2023,5,1,327,13,92035115,14,110,9,0,49,104,E,Minor,80,38,88,11,0,11,5,"https://open.spotify.com/search/UNFORGIVEN%20(feat.%20Nile%20Rodgers)%20Nile%20Rodgers,%20LE%20SSERAFIM"
+Haegeum,Agust D,1,2023,4,21,244,12,118810253,6,84,10,2,9,85,G,Major,70,83,84,31,0,47,30,https://open.spotify.com/search/Haegeum%20Agust%20D
+Conexï¿½ï¿½es de Mï¿½ï¿½fia (feat. Rich ,"Rich The Kid, Matuï¿",2,2023,4,30,385,4,77233241,17,7,41,1,29,117,F#,Minor,77,69,58,39,0,26,5,"https://open.spotify.com/search/Conexï¿½ï¿½es%20de%20Mï¿½ï¿½fia%20(feat.%20Rich%20%20Rich%20The%20Kid,%20Matuï¿"
+MIENTRAS ME CURO DEL CORA,Karol G,1,2023,2,24,1020,35,206399629,15,26,30,6,0,80,,Major,52,57,48,86,0,15,39,https://open.spotify.com/search/MIENTRAS%20ME%20CURO%20DEL%20CORA%20Karol%20G
+Never Felt So Alone,Labrinth,1,2023,4,7,1730,3,117747907,46,5,51,0,20,98,F,Major,44,36,41,50,0,38,5,https://open.spotify.com/search/Never%20Felt%20So%20Alone%20Labrinth
+X SI VOLVEMOS,"Karol G, Romeo Santos",2,2023,2,2,2127,33,266624541,45,80,53,8,4,178,C#,Minor,79,58,78,34,0,11,25,"https://open.spotify.com/search/X%20SI%20VOLVEMOS%20Karol%20G,%20Romeo%20Santos"
+ceilings,Lizzy McAlpine,1,2022,4,8,3242,9,293186992,67,55,48,0,6,148,A,Major,51,27,33,48,0,22,3,https://open.spotify.com/search/ceilings%20Lizzy%20McAlpine
+Cupid,Fifty Fifty,1,2023,2,24,526,10,139681964,15,93,30,0,320,120,D,Major,77,94,66,65,0,38,3,https://open.spotify.com/search/Cupid%20Fifty%20Fifty
+I AM,IVE,1,2023,4,10,366,15,123132751,16,102,7,0,55,122,E,Minor,68,38,88,1,0,8,5,https://open.spotify.com/search/I%20AM%20IVE
+Cupid ï¿½ï¿½ï¿½ Twin Ver. (FIFTY FIFTY) ï¿½ï¿½ï¿½ Spe,sped up 8282,1,1997,1,1,472,2,103762518,0,0,6,0,0,144,F,Major,74,75,73,42,0,9,4,https://open.spotify.com/search/Cupid%20ï¿½ï¿½ï¿½%20Twin%20Ver.%20(FIFTY%20FIFTY)%20ï¿½ï¿½ï¿½%20Spe%20sped%20up%208282
+Shorty Party,"Cartel De Santa, La Kelly",2,2023,3,4,432,12,162887075,8,14,12,2,33,96,D,Major,93,47,47,33,0,10,36,"https://open.spotify.com/search/Shorty%20Party%20Cartel%20De%20Santa,%20La%20Kelly"
+Super,SEVENTEEN,1,2023,4,24,271,12,91221625,16,103,9,0,55,137,G#,Major,77,35,88,16,0,17,9,https://open.spotify.com/search/Super%20SEVENTEEN
+Slut Me Out,NLE Choppa,1,2022,4,22,816,4,190490915,21,4,13,0,4,121,F#,Minor,94,71,61,12,0,53,42,https://open.spotify.com/search/Slut%20Me%20Out%20NLE%20Choppa
+Double Fantasy (with Future),"The Weeknd, Future",2,2023,4,21,1169,0,96180277,36,65,28,0,0,119,A,Minor,60,10,57,1,0,50,3,"https://open.spotify.com/search/Double%20Fantasy%20(with%20Future)%20The%20Weeknd,%20Future"
+All Of The Girls You Loved Before,Taylor Swift,1,2019,8,23,1282,6,185240616,26,6,19,0,5,96,D,Major,72,40,47,71,0,13,4,https://open.spotify.com/search/All%20Of%20The%20Girls%20You%20Loved%20Before%20Taylor%20Swift
+PROVENZA,Karol G,1,2022,4,21,6587,34,885093467,114,104,147,11,20,111,C#,Major,87,53,52,66,1,11,5,https://open.spotify.com/search/PROVENZA%20Karol%20G
+Princess Diana (with Nicki Minaj),"Nicki Minaj, Ice Spice",2,2023,4,14,1444,4,104992946,0,0,0,0,0,148,A,Major,90,74,68,14,0,10,19,"https://open.spotify.com/search/Princess%20Diana%20(with%20Nicki%20Minaj)%20Nicki%20Minaj,%20Ice%20Spice"
+Di Que Si,"Grupo Marca Registrada, Grupo Frontera",2,2023,2,3,356,10,147290338,4,64,4,2,37,182,A,Major,57,80,59,8,0,6,5,"https://open.spotify.com/search/Di%20Que%20Si%20Grupo%20Marca%20Registrada,%20Grupo%20Frontera"
+Shivers,Ed Sheeran,1,2021,9,9,10147,30,1302184087,234,71,543,18,,141,D,Major,79,82,86,28,0,4,9,https://open.spotify.com/search/Shivers%20Ed%20Sheeran
+Igualito a Mi Apï¿,"Fuerza Regida, Peso Pluma",2,2022,12,30,265,6,158950978,8,84,5,1,4,145,E,Minor,76,80,81,19,0,6,9,"https://open.spotify.com/search/Igualito%20a%20Mi%20Apï¿%20Fuerza%20Regida,%20Peso%20Pluma"
+Shoong! (feat. LISA of BLACKPINK),"TAEYANG, Lisa",2,2023,4,25,351,9,76910644,16,90,10,0,64,110,B,Minor,76,26,70,1,0,41,6,"https://open.spotify.com/search/Shoong!%20(feat.%20LISA%20of%20BLACKPINK)%20TAEYANG,%20Lisa"
+Komang,Raim Laode,1,2022,8,16,158,4,137123880,5,6,1,1,18,134,G,Major,70,35,41,41,0,10,3,https://open.spotify.com/search/Komang%20Raim%20Laode
+DESPECHï¿,ROSALï¿½,1,2022,7,28,7613,33,782369383,180,90,422,15,55,130,G,Major,92,78,62,18,0,6,10,https://open.spotify.com/search/DESPECHï¿%20ROSALï¿½
+Made You Look,Meghan Trainor,1,2022,10,21,3956,6,502574952,142,23,127,3,16,145,A#,Major,84,88,53,35,0,8,7,https://open.spotify.com/search/Made%20You%20Look%20Meghan%20Trainor
+Watch This - ARIZONATEARS Pluggnb Remix,"sped up nightcore, ARIZONATEARS, Lil Uzi Vert",3,2023,2,5,1638,10,207033255,0,0,21,0,0,130,B,Minor,69,36,90,1,10,15,4,"https://open.spotify.com/search/Watch%20This%20-%20ARIZONATEARS%20Pluggnb%20Remix%20sped%20up%20nightcore,%20ARIZONATEARS,%20Lil%20Uzi%20Vert"
+No Se Va,Grupo Frontera,1,2022,4,28,924,18,404887295,17,80,22,9,38,173,,Major,59,69,53,12,0,23,3,https://open.spotify.com/search/No%20Se%20Va%20Grupo%20Frontera
+Punto G,Quevedo,1,2022,11,4,1985,35,381161027,34,26,37,5,1,92,B,Minor,75,55,76,25,0,10,15,https://open.spotify.com/search/Punto%20G%20Quevedo
+Lovers Rock,TV Girl,1,2014,6,5,6339,13,466231982,3,1,36,1,37,105,F,Minor,56,57,87,0,1,10,4,https://open.spotify.com/search/Lovers%20Rock%20TV%20Girl
+METAMORPHOSIS,INTERWORLD,1,2021,11,25,1561,24,357580552,18,78,24,0,30,175,G,Minor,59,15,64,43,90,12,10,https://open.spotify.com/search/METAMORPHOSIS%20INTERWORLD
+Mami Chula,"Quevedo, Jhayco",2,2023,4,27,875,4,61105704,17,13,27,0,43,120,G,Minor,80,33,70,22,0,9,4,"https://open.spotify.com/search/Mami%20Chula%20Quevedo,%20Jhayco"
+En Paris,"El Chachito, Junior H",2,2022,12,24,406,5,198275403,3,31,2,1,0,139,D#,Minor,70,77,48,37,0,12,5,"https://open.spotify.com/search/En%20Paris%20El%20Chachito,%20Junior%20H"
+Set Me Free Pt.2,Jimin,1,2023,3,17,340,13,168448603,4,71,16,1,9,132,,Minor,59,56,82,12,0,12,6,https://open.spotify.com/search/Set%20Me%20Free%20Pt.2%20Jimin
+I Was Never There,"The Weeknd, Gesaffelstein",2,2018,3,29,4188,15,705469769,30,70,142,0,27,114,A#,Major,32,17,74,14,0,17,3,"https://open.spotify.com/search/I%20Was%20Never%20There%20The%20Weeknd,%20Gesaffelstein"
+Don't ever say love me (feat. RM of BTS),"RM, Colde",2,2023,5,4,105,0,34502215,5,9,5,0,0,145,B,Minor,54,19,48,36,0,37,5,"https://open.spotify.com/search/Don't%20ever%20say%20love%20me%20(feat.%20RM%20of%20BTS)%20RM,%20Colde"
+Shut Down,BLACKPINK,1,2022,9,16,1524,17,482175240,53,120,62,0,2,110,,Major,82,67,69,0,0,18,4,https://open.spotify.com/search/Shut%20Down%20BLACKPINK
+Gato de Noche,"Nengo Flow, Bad Bunny",2,2022,12,22,2651,30,304118600,21,55,32,3,0,94,G#,Major,89,61,66,17,0,36,16,"https://open.spotify.com/search/Gato%20de%20Noche%20Nengo%20Flow,%20Bad%20Bunny"
+Call Out My Name,The Weeknd,1,2018,3,29,11087,6,1449799467,151,107,801,1,105,134,C#,Major,45,17,60,21,0,33,4,https://open.spotify.com/search/Call%20Out%20My%20Name%20The%20Weeknd
+Like Crazy (English Version),Jimin,1,2023,3,24,373,19,173627354,4,72,5,0,5,120,G,Major,62,32,76,0,0,39,4,https://open.spotify.com/search/Like%20Crazy%20(English%20Version)%20Jimin
+Rosa Pastel,"Jasiel Nuï¿½ï¿½ez, Peso P",2,2023,2,2,200,4,90025258,8,77,2,1,1,123,G,Minor,70,86,68,24,0,11,4,"https://open.spotify.com/search/Rosa%20Pastel%20Jasiel%20Nuï¿½ï¿½ez,%20Peso%20P"
+Sunroof,"Nicky Youre, Dazy",2,2021,12,3,3741,17,652704649,156,35,110,19,0,131,A#,Major,77,84,71,35,0,15,4,"https://open.spotify.com/search/Sunroof%20Nicky%20Youre,%20Dazy"
+Lose Yourself - Soundtrack Version,Eminem,1,2002,1,1,32502,21,1829992958,247,54,"5,567",1,51,171,D,Major,70,6,73,1,0,36,26,https://open.spotify.com/search/Lose%20Yourself%20-%20Soundtrack%20Version%20Eminem
+Superman,"Eminem, Dina Rae",2,2002,5,26,7615,14,655466831,18,51,"1,005",0,0,130,E,Minor,80,64,76,2,0,20,6,"https://open.spotify.com/search/Superman%20Eminem,%20Dina%20Rae"
+Mas Rica Que Ayer,"Mambo Kingz, DJ Luian, Anuel Aa",3,2023,3,2,1208,34,146409671,10,41,20,0,1,94,B,Major,82,53,67,34,0,9,8,"https://open.spotify.com/search/Mas%20Rica%20Que%20Ayer%20Mambo%20Kingz,%20DJ%20Luian,%20Anuel%20Aa"
+People Pt.2 (feat. IU),"IU, Agust D",2,2023,4,7,209,4,95816024,4,45,11,2,24,89,G,Minor,73,44,57,39,0,32,6,"https://open.spotify.com/search/People%20Pt.2%20(feat.%20IU)%20IU,%20Agust%20D"
+REMIX EXCLUSIVO,Feid,1,2023,3,17,1235,9,117206995,20,8,15,0,6,87,F,Minor,65,71,56,4,0,15,20,https://open.spotify.com/search/REMIX%20EXCLUSIVO%20Feid
+"Arcï¿½ï¿½ngel: Bzrp Music Sessions, Vol","Arcangel, Bizarrap",2,2023,3,22,654,3,100409613,11,3,18,1,1,124,B,Minor,72,79,78,55,0,15,30,"https://open.spotify.com/search/Arcï¿½ï¿½ngel:%20Bzrp%20Music%20Sessions,%20Vol%20Arcangel,%20Bizarrap"
+DOGTOOTH,"Tyler, The Creator",2,2023,3,27,1479,0,80758350,23,0,18,0,33,78,G#,Major,71,80,65,51,0,22,32,"https://open.spotify.com/search/DOGTOOTH%20Tyler,%20The%20Creator"
+10:35,"Tiï¿½ï¿½sto, Tate M",2,2022,11,1,4942,26,325592432,190,104,147,18,63,120,G#,Major,70,70,79,7,0,18,10,"https://open.spotify.com/search/10:35%20Tiï¿½ï¿½sto,%20Tate%20M"
+SORRY NOT SORRY,"Tyler, The Creator",2,2023,3,31,709,0,58473276,8,1,13,0,0,96,F#,Minor,48,50,80,40,0,37,20,"https://open.spotify.com/search/SORRY%20NOT%20SORRY%20Tyler,%20The%20Creator"
+HAPPY,NF,1,2023,3,25,660,0,52722996,22,7,11,0,78,106,G,Major,73,22,86,31,0,12,4,https://open.spotify.com/search/HAPPY%20NF
+La Bebe,Yng Lvcas,1,2021,12,24,489,17,191945597,4,11,5,1,2,170,D,Minor,78,75,46,62,0,12,35,https://open.spotify.com/search/La%20Bebe%20Yng%20Lvcas
+I Know - PR1SVX Edit,"Kanii, PR1ISVX",2,2023,3,24,407,0,77377503,16,15,5,0,1,134,B,Minor,67,11,76,8,47,30,7,"https://open.spotify.com/search/I%20Know%20-%20PR1SVX%20Edit%20Kanii,%20PR1ISVX"
+Late Night Talking,Harry Styles,1,2022,5,20,7461,8,743693613,166,42,199,16,58,115,A#,Major,71,90,73,30,0,11,5,https://open.spotify.com/search/Late%20Night%20Talking%20Harry%20Styles
+Leï¿½,Marï¿½ï¿½lia Mendo,1,2022,12,9,993,4,267789608,30,84,88,1,28,130,F#,Major,74,79,87,45,0,30,3,https://open.spotify.com/search/Leï¿½%20Marï¿½ï¿½lia%20Mendo
+Save Your Tears (with Ariana Grande) (Remix),"Ariana Grande, The Weeknd",2,2020,3,20,9161,5,1221813483,240,98,468,3,10,118,,Major,65,63,79,3,0,10,3,"https://open.spotify.com/search/Save%20Your%20Tears%20(with%20Ariana%20Grande)%20(Remix)%20Ariana%20Grande,%20The%20Weeknd"
+Something in the Orange,Zach Bryan,1,2022,4,22,3282,12,449701773,67,84,46,16,117,110,G,Major,59,22,38,42,0,12,3,https://open.spotify.com/search/Something%20in%20the%20Orange%20Zach%20Bryan
+VOID,Melanie Martinez,1,2023,3,29,596,0,67070410,29,9,12,0,52,100,A,Major,72,42,66,18,4,19,4,https://open.spotify.com/search/VOID%20Melanie%20Martinez
+Dijeron Que No La Iba Lograr,"Fuerza Regida, Chino Pacas",2,2023,3,14,320,6,116334601,5,48,2,1,9,142,G,Minor,70,76,79,26,0,11,7,"https://open.spotify.com/search/Dijeron%20Que%20No%20La%20Iba%20Lograr%20Fuerza%20Regida,%20Chino%20Pacas"
+Midnight Rain,Taylor Swift,1,2022,10,21,2612,4,433356509,19,29,21,0,0,140,,Major,64,18,37,72,0,12,7,https://open.spotify.com/search/Midnight%20Rain%20Taylor%20Swift
+If We Ever Broke Up,Mae Stephens,1,2023,2,10,2040,4,165584767,81,27,66,9,444,116,G,Major,90,96,73,62,0,9,4,https://open.spotify.com/search/If%20We%20Ever%20Broke%20Up%20Mae%20Stephens
+You Proof,Morgan Wallen,1,2022,5,13,2128,9,367814306,37,88,9,0,14,120,A,Major,73,64,85,25,0,61,3,https://open.spotify.com/search/You%20Proof%20Morgan%20Wallen
+LA INOCENTE,"Feid, Mora",2,2022,4,1,2598,37,477033549,28,57,43,8,85,92,F,Minor,76,46,79,31,0,7,6,"https://open.spotify.com/search/LA%20INOCENTE%20Feid,%20Mora"
+Malas Decisiones,Kenia OS,1,2022,10,26,542,2,156214700,23,2,21,0,0,110,G#,Minor,81,64,79,5,0,31,3,https://open.spotify.com/search/Malas%20Decisiones%20Kenia%20OS
+Murder In My Mind,Kordhell,1,2022,1,21,2459,20,448843705,20,68,50,0,22,120,A#,Major,71,57,97,1,0,13,11,https://open.spotify.com/search/Murder%20In%20My%20Mind%20Kordhell
+Gangsta's Paradise,"Coolio, L.V.",2,1995,7,11,10624,17,1357608774,21,0,386,0,,80,G#,Major,63,40,61,9,0,56,6,"https://open.spotify.com/search/Gangsta's%20Paradise%20Coolio,%20L.V."
+CAIRO,"Karol G, Ovy On The Drums",2,2022,11,13,2418,26,294352144,52,66,55,1,16,115,F,Minor,95,43,69,47,0,9,31,"https://open.spotify.com/search/CAIRO%20Karol%20G,%20Ovy%20On%20The%20Drums"
+I Love You So,The Walters,1,2014,11,28,7536,7,972164968,44,19,135,0,6,76,A#,Major,58,46,67,65,0,13,4,https://open.spotify.com/search/I%20Love%20You%20So%20The%20Walters
+Dark Red,Steve Lacy,1,2017,2,20,10431,7,920045682,71,53,181,0,10,172,F#,Major,60,77,78,45,0,12,6,https://open.spotify.com/search/Dark%20Red%20Steve%20Lacy
+Say You Won't Let Go,James Arthur,1,2016,9,9,15722,16,2420461338,231,37,"1,509",0,13,99,A#,Major,40,45,56,69,0,9,5,https://open.spotify.com/search/Say%20You%20Won't%20Let%20Go%20James%20Arthur
+The Hills,The Weeknd,1,2015,5,27,25744,4,1947371785,122,94,"1,992",0,18,136,,Minor,36,12,57,9,0,14,8,https://open.spotify.com/search/The%20Hills%20The%20Weeknd
+Heart To Heart,Mac DeMarco,1,2019,5,10,1640,0,244658767,27,27,29,1,1,150,G#,Minor,90,64,14,67,35,11,10,https://open.spotify.com/search/Heart%20To%20Heart%20Mac%20DeMarco
+Peaches (from The Super Mario Bros. Movie),Jack Black,1,2023,4,7,34,0,68216992,0,0,0,0,0,92,A#,Minor,71,41,31,79,0,10,5,https://open.spotify.com/search/Peaches%20(from%20The%20Super%20Mario%20Bros.%20Movie)%20Jack%20Black
+Marisola - Remix,"Duki, NICKI NICOLE, Cris Mj, Standly, Stars Music Chile",5,2022,12,15,1845,16,223582566,20,8,30,2,0,95,C#,Major,77,72,87,17,0,7,5,"https://open.spotify.com/search/Marisola%20-%20Remix%20Duki,%20NICKI%20NICOLE,%20Cris%20Mj,%20Standly,%20Stars%20Music%20Chile"
+LOKERA,"Brray, Rauw Alejandro, Lyanno",3,2022,7,25,3301,30,471819764,72,64,64,6,3,102,B,Minor,83,58,83,21,0,10,5,"https://open.spotify.com/search/LOKERA%20Brray,%20Rauw%20Alejandro,%20Lyanno"
+Low,SZA,1,2022,12,9,1911,0,272377463,23,71,14,0,9,145,,Minor,70,34,55,43,0,16,6,https://open.spotify.com/search/Low%20SZA
+Numb,Linkin Park,1,2003,3,24,20111,5,1361425037,39,0,"7,341",0,0,110,A,Major,50,24,86,0,0,64,4,https://open.spotify.com/search/Numb%20Linkin%20Park
+Tormenta (feat. Bad Bunny),"Gorillaz, Bad Bunny",2,2023,2,24,1529,0,149778242,32,18,39,2,0,95,,Major,64,30,77,46,0,38,6,"https://open.spotify.com/search/Tormenta%20(feat.%20Bad%20Bunny)%20Gorillaz,%20Bad%20Bunny"
+on the street (with J. Cole),"j-hope, J. Cole",2,2023,3,3,615,2,116599790,22,82,8,0,9,94,B,Minor,68,81,82,53,0,9,13,"https://open.spotify.com/search/on%20the%20street%20(with%20J.%20Cole)%20j-hope,%20J.%20Cole"
+One Thing At A Time,Morgan Wallen,1,2022,12,2,811,4,148469433,11,58,5,0,21,142,G,Major,61,92,91,0,0,26,3,https://open.spotify.com/search/One%20Thing%20At%20A%20Time%20Morgan%20Wallen
+Miss You,"Robin Schulz, Oliver Tree",2,2022,8,5,5730,10,497225336,108,16,197,3,165,145,F#,Minor,59,20,74,1,0,15,5,"https://open.spotify.com/search/Miss%20You%20Robin%20Schulz,%20Oliver%20Tree"
+Ainï¿½ï¿½ï¿½t Tha,Morgan Wallen,1,2023,3,3,356,4,88791109,4,20,0,0,0,121,F#,Minor,64,67,80,0,0,36,3,https://open.spotify.com/search/Ainï¿½ï¿½ï¿½t%20Tha%20Morgan%20Wallen
+Thinkinï¿½ï¿½ï¿½ B,Morgan Wallen,1,2023,3,3,604,6,125917280,22,101,0,0,66,140,D#,Minor,66,43,76,49,0,12,3,https://open.spotify.com/search/Thinkinï¿½ï¿½ï¿½%20B%20Morgan%20Wallen
+Private Landing (feat. Justin Bieber & Future),"Don Toliver, Future, Justin Bieber",3,2023,2,23,1190,0,105062254,29,3,18,0,19,137,C#,Minor,84,44,67,8,0,11,6,"https://open.spotify.com/search/Private%20Landing%20(feat.%20Justin%20Bieber%20&%20Future)%20Don%20Toliver,%20Future,%20Justin%20Bieber"
+Everything I Love,Morgan Wallen,1,2023,1,31,579,0,95623148,11,54,0,0,103,104,G#,Major,56,72,85,0,0,15,3,https://open.spotify.com/search/Everything%20I%20Love%20Morgan%20Wallen
+Heaven,Niall Horan,1,2023,2,17,1553,2,144584800,61,6,48,0,150,92,F,Major,57,68,76,7,0,33,3,https://open.spotify.com/search/Heaven%20Niall%20Horan
+LET GO,Central Cee,1,2022,12,15,2301,20,298063749,49,23,110,0,8,146,D,Minor,74,51,45,86,0,21,38,https://open.spotify.com/search/LET%20GO%20Central%20Cee
+Sial,Mahalini,1,2023,1,23,134,4,166570053,4,6,0,0,23,120,D,Major,56,20,43,89,0,12,4,https://open.spotify.com/search/Sial%20Mahalini
+I Wrote The Book,Morgan Wallen,1,2023,1,31,430,0,83021468,15,17,0,0,0,144,D,Major,68,83,81,9,0,8,4,https://open.spotify.com/search/I%20Wrote%20The%20Book%20Morgan%20Wallen
+"Apna Bana Le (From ""Bhediya"")","Arijit Singh, Sachin-Jigar",2,2022,11,5,86,0,139836056,11,101,0,0,48,94,A,Major,59,44,56,80,0,6,3,"https://open.spotify.com/search/Apna%20Bana%20Le%20(From%20""Bhediya"")%20Arijit%20Singh,%20Sachin-Jigar"
+SPIT IN MY FACE!,ThxSoMch,1,2022,10,31,629,14,303216294,32,3,9,0,0,94,G#,Major,73,65,79,5,2,11,6,https://open.spotify.com/search/SPIT%20IN%20MY%20FACE!%20ThxSoMch
+PLAYA DEL INGLï¿½,"Myke Towers, Quevedo",2,2022,12,15,1701,15,221409663,30,15,34,2,47,113,G,Minor,79,66,74,8,0,11,5,"https://open.spotify.com/search/PLAYA%20DEL%20INGLï¿½%20Myke%20Towers,%20Quevedo"
+Man Made A Bar (feat. Eric Church),"Morgan Wallen, Eric Church",2,2023,3,3,329,0,58890931,14,35,1,0,0,148,E,Major,50,49,76,12,0,12,3,"https://open.spotify.com/search/Man%20Made%20A%20Bar%20(feat.%20Eric%20Church)%20Morgan%20Wallen,%20Eric%20Church"
+Red Ruby Da Sleeze,Nicki Minaj,1,2023,3,3,1168,0,81419389,45,11,20,0,21,98,C#,Major,70,29,73,12,0,11,26,https://open.spotify.com/search/Red%20Ruby%20Da%20Sleeze%20Nicki%20Minaj
+Kahani Suno 2.0,Kaifi Khalil,1,2022,5,31,162,6,156777415,1,10,1,0,1,140,B,Major,58,26,38,91,0,10,4,https://open.spotify.com/search/Kahani%20Suno%202.0%20Kaifi%20Khalil
+Nobody Gets Me,SZA,1,2022,12,9,2536,6,284908316,59,100,58,13,2,100,G,Major,36,28,28,81,0,18,3,https://open.spotify.com/search/Nobody%20Gets%20Me%20SZA
+PERO Tï¿,"Karol G, Quevedo",2,2023,2,23,387,11,93438910,11,15,14,3,1,140,F#,Major,86,68,79,39,0,11,29,"https://open.spotify.com/search/PERO%20Tï¿%20Karol%20G,%20Quevedo"
+Hype Boy,NewJeans,1,2022,8,1,892,17,363472647,20,119,12,2,7,100,E,Minor,59,78,94,27,0,29,23,https://open.spotify.com/search/Hype%20Boy%20NewJeans
+Bloody Mary,Lady Gaga,1,2011,1,1,3909,0,372476382,66,26,277,3,734,100,A,Minor,59,49,65,2,0,13,3,https://open.spotify.com/search/Bloody%20Mary%20Lady%20Gaga
+Monotonï¿½,"Ozuna, Shakira",2,2022,10,19,3645,15,380726517,118,34,150,4,19,132,,Minor,87,82,70,42,0,21,5,"https://open.spotify.com/search/Monotonï¿½%20Ozuna,%20Shakira"
+ýýý98 Braves,Morgan Wallen,1,2023,3,3,282,0,56533272,6,15,0,0,0,142,D,Major,49,48,67,10,0,26,3,https://open.spotify.com/search/ýýý98%20Braves%20Morgan%20Wallen
+WANDA,Quevedo,1,2023,1,20,888,22,175399345,11,24,7,1,7,176,E,Minor,72,96,63,25,0,21,7,https://open.spotify.com/search/WANDA%20Quevedo
+Thought You Should Know,Morgan Wallen,1,2022,5,6,968,4,203221468,16,53,1,0,61,140,F#,Major,53,51,70,49,0,14,3,https://open.spotify.com/search/Thought%20You%20Should%20Know%20Morgan%20Wallen
+In The End,Linkin Park,1,2000,10,24,25065,6,1624165576,63,0,"6,808",2,0,105,D#,Minor,55,40,90,1,0,32,6,https://open.spotify.com/search/In%20The%20End%20Linkin%20Park
+Zona De Perigo,Leo Santana,1,2022,12,8,531,4,134294498,20,1,71,2,0,135,F,Major,81,97,77,75,0,35,3,https://open.spotify.com/search/Zona%20De%20Perigo%20Leo%20Santana
+Lovezinho,Treyce,1,2022,7,28,242,0,70069745,12,2,13,0,4,128,E,Minor,82,61,59,30,0,12,4,https://open.spotify.com/search/Lovezinho%20Treyce
+I Like You (A Happier Song) (with Doja Cat),"Post Malone, Doja Cat",2,2022,6,3,5281,14,609293408,94,21,80,15,38,101,F,Major,74,43,69,12,0,12,7,"https://open.spotify.com/search/I%20Like%20You%20(A%20Happier%20Song)%20(with%20Doja%20Cat)%20Post%20Malone,%20Doja%20Cat"
+Neverita,Bad Bunny,1,2022,5,6,2590,30,671365962,20,64,35,6,0,122,A#,Major,88,43,50,7,0,14,5,https://open.spotify.com/search/Neverita%20Bad%20Bunny
+Vista Al Mar,Quevedo,1,2022,9,8,1769,34,362361576,16,19,21,3,4,105,,Minor,76,49,56,80,12,10,13,https://open.spotify.com/search/Vista%20Al%20Mar%20Quevedo
+Sem Alianï¿½ï¿½a no ,"MC Xenon, Os Gemeos da Putaria",2,2022,12,23,454,4,93587665,6,1,21,0,1,83,C#,Major,53,40,36,73,0,11,33,"https://open.spotify.com/search/Sem%20Alianï¿½ï¿½a%20no%20%20MC%20Xenon,%20Os%20Gemeos%20da%20Putaria"
+Enemy (with JID) - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",4,2021,9,3,6180,7,1223481149,122,88,580,21,10,77,B,Minor,72,59,76,24,0,42,28,"https://open.spotify.com/search/Enemy%20(with%20JID)%20-%20from%20the%20series%20Arcane%20League%20of%20Legends%20Imagine%20Dragons,%20League%20of%20Legends,%20JID,%20Arcane"
+Revenge,XXXTENTACION,1,2017,8,25,3600,11,1022258230,7,0,203,0,2,140,B,Minor,75,18,25,78,0,11,26,https://open.spotify.com/search/Revenge%20XXXTENTACION
+Bombonzinho - Ao Vivo,"Israel & Rodolffo, Ana Castela",2,2022,11,3,1254,6,263453310,26,69,73,2,6,158,C#,Major,65,72,95,31,0,92,5,"https://open.spotify.com/search/Bombonzinho%20-%20Ao%20Vivo%20Israel%20&%20Rodolffo,%20Ana%20Castela"
+LA CANCIï¿½,"J Balvin, Bad Bunny",2,2019,6,28,6398,31,1435127549,177,109,305,3,5,176,G,Major,75,43,65,15,0,11,32,"https://open.spotify.com/search/LA%20CANCIï¿½%20J%20Balvin,%20Bad%20Bunny"
+Quï¿½ï¿½ Ago,"Yuridia, Angela Aguilar",2,2022,10,20,660,15,236857112,19,59,18,5,52,98,B,Major,73,88,57,56,0,5,2,"https://open.spotify.com/search/Quï¿½ï¿½%20Ago%20Yuridia,%20Angela%20Aguilar"
+Love Again,The Kid Laroi,1,2023,1,27,1283,0,147538971,57,4,48,0,0,107,B,Minor,66,47,40,72,0,11,3,https://open.spotify.com/search/Love%20Again%20The%20Kid%20Laroi
+After Hours,The Weeknd,1,2020,2,19,8084,6,698086140,45,115,218,1,221,109,F,Minor,66,16,57,10,1,12,3,https://open.spotify.com/search/After%20Hours%20The%20Weeknd
+About Damn Time,Lizzo,1,2022,7,15,2332,2,723894473,0,0,25,0,0,109,A#,Minor,84,72,74,10,0,34,7,https://open.spotify.com/search/About%20Damn%20Time%20Lizzo
+Born With A Beer In My Hand,Morgan Wallen,1,2023,3,3,203,0,34450974,5,9,0,0,0,148,,Major,53,61,81,5,0,36,4,https://open.spotify.com/search/Born%20With%20A%20Beer%20In%20My%20Hand%20Morgan%20Wallen
+ýýýýýýýýýýýýýýýýýýýýý,Fujii Kaze,1,2020,5,20,685,14,403097450,24,94,9,0,23,158,F#,Minor,60,52,76,17,0,19,5,https://open.spotify.com/search/ýýýýýýýýýýýýýýýýýýýýý%20Fujii%20Kaze
+Besos Moja2,"Wisin & Yandel, ROSALï¿½",2,2022,9,29,2460,13,309483971,53,7,56,3,1,94,F,Minor,74,64,73,6,0,10,6,"https://open.spotify.com/search/Besos%20Moja2%20Wisin%20&%20Yandel,%20ROSALï¿½"
+Maan Meri Jaan,King,1,2022,10,12,288,6,319566866,11,80,1,0,8,96,F#,Minor,70,40,51,35,0,10,4,https://open.spotify.com/search/Maan%20Meri%20Jaan%20King
+Moscow Mule,Bad Bunny,1,2022,5,6,4572,33,909001996,74,113,85,9,2,100,F,Minor,80,29,67,29,0,12,3,https://open.spotify.com/search/Moscow%20Mule%20Bad%20Bunny
+My Universe,"Coldplay, BTS",2,2021,9,24,6127,13,1061966512,0,0,0,0,0,105,A,Major,58,42,68,1,0,14,4,"https://open.spotify.com/search/My%20Universe%20Coldplay,%20BTS"
+Devil Donï¿½ï¿½ï¿½,Morgan Wallen,1,2023,3,3,166,0,32526947,2,10,0,0,0,125,,Major,53,32,66,38,0,9,3,https://open.spotify.com/search/Devil%20Donï¿½ï¿½ï¿½%20Morgan%20Wallen
+LLYLM,ROSALï¿½,1,2023,1,27,1838,0,124988687,105,41,114,1,59,170,F#,Minor,56,56,63,13,0,19,27,https://open.spotify.com/search/LLYLM%20ROSALï¿½
+I'm Not Here To Make Friends,"Sam Smith, Calvin Harris, Jessie Reyez",3,2023,1,27,1890,0,103787664,86,1,49,0,9,115,,Major,70,84,90,17,0,41,6,"https://open.spotify.com/search/I'm%20Not%20Here%20To%20Make%20Friends%20Sam%20Smith,%20Calvin%20Harris,%20Jessie%20Reyez"
+TRUSTFALL,P!nk,1,2023,1,27,2098,16,134255790,88,24,101,7,451,122,G#,Major,64,25,89,0,0,15,9,https://open.spotify.com/search/TRUSTFALL%20P!nk
+ANTIFRAGILE,LE SSERAFIM,1,2022,10,17,761,12,301051721,23,95,11,0,3,105,A#,Minor,88,82,80,8,0,11,8,https://open.spotify.com/search/ANTIFRAGILE%20LE%20SSERAFIM
+Boy's a liar,PinkPantheress,1,2022,11,30,1225,0,156338624,27,0,28,13,0,133,F,Major,66,74,84,25,0,21,4,https://open.spotify.com/search/Boy's%20a%20liar%20PinkPantheress
+VIBE (feat. Jimin of BTS),"TAEYANG, Jimin",2,2023,1,13,415,2,152850295,15,40,21,1,15,100,,Major,79,60,68,7,0,26,4,"https://open.spotify.com/search/VIBE%20(feat.%20Jimin%20of%20BTS)%20TAEYANG,%20Jimin"
+Shirt,SZA,1,2022,10,28,3469,0,309653982,71,95,31,0,2,120,D#,Minor,82,55,45,15,3,9,10,https://open.spotify.com/search/Shirt%20SZA
+Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,1,2022,10,28,3311,0,297328960,129,31,212,1,41,177,A,Major,25,17,30,90,0,13,3,https://open.spotify.com/search/Lift%20Me%20Up%20-%20From%20Black%20Panther:%20Wakanda%20Forever%20-%20Music%20From%20and%20Inspired%20By%20Rihanna
+STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,1,2022,9,22,2616,0,332506354,113,17,208,0,192,142,D,Minor,64,31,72,15,0,9,5,https://open.spotify.com/search/STAR%20WALKIN'%20(League%20of%20Legends%20Worlds%20Anthem)%20Lil%20Nas%20X
+"Sex, Drugs, Etc.",Beach Weather,1,2016,11,4,3006,16,480507035,47,60,87,12,124,144,E,Minor,57,47,84,1,1,52,4,"https://open.spotify.com/search/Sex,%20Drugs,%20Etc.%20Beach%20Weather"
+Boy With Luv (feat. Halsey),"Halsey, BTS",2,2019,4,12,4260,0,1065580332,113,92,259,0,1,120,B,Minor,65,80,86,9,0,19,10,"https://open.spotify.com/search/Boy%20With%20Luv%20(feat.%20Halsey)%20Halsey,%20BTS"
+"Hey, Mickey!",Baby Tate,1,2016,9,27,482,0,122763672,9,1,12,4,3,135,D,Major,92,73,51,55,0,15,6,"https://open.spotify.com/search/Hey,%20Mickey!%20Baby%20Tate"
+Calm Down,Rï¿½ï,1,2022,2,9,4013,10,445763624,107,44,750,22,,107,B,Major,81,82,78,38,0,12,4,https://open.spotify.com/search/Calm%20Down%20Rï¿½ï
+Jhoome Jo Pathaan,"Arijit Singh, Vishal Dadlani, Sukriti Kakar, Vishal-Shekhar, Shekhar Ravjiani, Kumaar",6,2022,12,22,138,4,1365184,13,78,2,0,0,105,G,Major,82,62,74,10,0,33,7,"https://open.spotify.com/search/Jhoome%20Jo%20Pathaan%20Arijit%20Singh,%20Vishal%20Dadlani,%20Sukriti%20Kakar,%20Vishal-Shekhar,%20Shekhar%20Ravjiani,%20Kumaar"
+Escapism. - Sped Up,"RAYE, 070 Shake",2,2022,11,25,1368,0,184308753,12,1,11,0,8,108,F#,Minor,44,38,77,9,0,9,20,"https://open.spotify.com/search/Escapism.%20-%20Sped%20Up%20RAYE,%20070%20Shake"
+Space Song,Beach House,1,2015,1,1,17852,4,789753877,69,76,335,0,,147,,Minor,51,62,79,22,13,14,3,https://open.spotify.com/search/Space%20Song%20Beach%20House
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],"BTS, Jung Kook, FIFA Sound",3,2022,11,20,889,20,323358833,11,78,35,0,21,115,,Major,71,34,88,16,0,44,4,"https://open.spotify.com/search/Dreamers%20[Music%20from%20the%20FIFA%20World%20Cup%20Qatar%202022%20Official%20Soundtrack]%20BTS,%20Jung%20Kook,%20FIFA%20Sound"
+Te Felicito,"Shakira, Rauw Alejandro",2,2022,4,21,4796,9,606361689,124,66,212,13,1,174,F,Major,70,57,64,23,0,8,32,"https://open.spotify.com/search/Te%20Felicito%20Shakira,%20Rauw%20Alejandro"
+Muï¿½ï¿½,"Steve Aoki, Tini, La Joaqui",3,2023,1,12,658,6,120972253,33,7,53,2,0,90,A#,Minor,68,83,71,3,0,31,8,"https://open.spotify.com/search/Muï¿½ï¿½%20Steve%20Aoki,%20Tini,%20La%20Joaqui"
+TV,Billie Eilish,1,2022,7,21,3009,2,338564981,68,89,65,0,25,141,E,Minor,41,9,25,84,1,14,4,https://open.spotify.com/search/TV%20Billie%20Eilish
+I'm Not The Only One,Sam Smith,1,2014,1,1,17492,3,1606986953,136,24,"1,959",0,30,82,F,Major,68,50,49,56,0,8,4,https://open.spotify.com/search/I'm%20Not%20The%20Only%20One%20Sam%20Smith
+Heather,Conan Gray,1,2020,3,20,6170,7,1301799902,82,1,231,0,2,92,F,Major,47,25,43,62,0,32,3,https://open.spotify.com/search/Heather%20Conan%20Gray
+"Besharam Rang (From ""Pathaan"")","Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Kumaar, Vishal Dadlani, Shekhar Ravjiani",6,2022,12,12,130,4,140187018,21,79,2,0,0,116,G#,Minor,77,65,80,6,0,15,4,"https://open.spotify.com/search/Besharam%20Rang%20(From%20""Pathaan"")%20Vishal-Shekhar,%20Shilpa%20Rao,%20Caralisa%20Monteiro,%20Kumaar,%20Vishal%20Dadlani,%20Shekhar%20Ravjiani"
+One Kiss (with Dua Lipa),"Calvin Harris, Dua Lipa",2,2017,6,2,27705,10,1897517891,537,122,"2,726",6,,124,A,Minor,79,59,86,4,0,8,11,"https://open.spotify.com/search/One%20Kiss%20(with%20Dua%20Lipa)%20Calvin%20Harris,%20Dua%20Lipa"
+Sugar Rush Ride,TOMORROW X TOGETHER,1,2023,1,27,359,0,107642809,12,56,13,0,13,125,A#,Minor,71,83,89,1,0,17,9,https://open.spotify.com/search/Sugar%20Rush%20Ride%20TOMORROW%20X%20TOGETHER
+Pink Venom,BLACKPINK,1,2022,8,19,1963,16,551305895,57,119,77,1,13,90,,Major,80,71,69,2,0,27,10,https://open.spotify.com/search/Pink%20Venom%20BLACKPINK
+WAIT FOR U (feat. Drake & Tems),"Drake, Future, Tems",3,2022,4,27,5491,14,556585270,128,84,75,0,35,83,C#,Major,46,34,64,31,0,7,34,"https://open.spotify.com/search/WAIT%20FOR%20U%20(feat.%20Drake%20&%20Tems)%20Drake,%20Future,%20Tems"
+Don't Start Now,Dua Lipa,1,2019,10,31,27119,0,2303033973,532,77,"1,535",3,8,124,B,Minor,79,68,79,1,0,10,8,https://open.spotify.com/search/Don't%20Start%20Now%20Dua%20Lipa
+After Dark,Mr.Kitty,1,2014,8,8,1776,14,646886885,1,9,3,0,0,140,G#,Major,58,4,60,7,41,8,3,https://open.spotify.com/search/After%20Dark%20Mr.Kitty
+Eu Gosto Assim - Ao Vivo,"Gustavo Mioto, Mari Fernandez",2,2022,9,16,1473,4,222612678,27,64,66,1,4,154,,Major,64,61,91,15,0,72,4,"https://open.spotify.com/search/Eu%20Gosto%20Assim%20-%20Ao%20Vivo%20Gustavo%20Mioto,%20Mari%20Fernandez"
+INDUSTRY BABY (feat. Jack Harlow),"Jack Harlow, Lil Nas X",2,2021,7,23,13315,0,1814349763,300,47,690,0,,150,D#,Minor,74,89,70,2,0,5,6,"https://open.spotify.com/search/INDUSTRY%20BABY%20(feat.%20Jack%20Harlow)%20Jack%20Harlow,%20Lil%20Nas%20X"
+MIDDLE OF THE NIGHT,Elley Duhï¿,1,2020,1,10,4057,8,872137015,78,21,240,1,52,186,E,Minor,41,9,61,2,0,12,5,https://open.spotify.com/search/MIDDLE%20OF%20THE%20NIGHT%20Elley%20Duhï¿
+Atlantis,Seafret,1,2015,4,22,3045,6,571386359,43,53,134,1,32,166,G#,Minor,40,23,48,5,0,12,3,https://open.spotify.com/search/Atlantis%20Seafret
+PUNTO 40,"Baby Rasta, Rauw Alejandro",2,2022,9,22,3006,12,304079786,54,32,66,2,0,107,,Major,87,20,83,0,4,31,9,"https://open.spotify.com/search/PUNTO%2040%20Baby%20Rasta,%20Rauw%20Alejandro"
+Evoque Prata,"DJ Escobar, MC MENOR SG, MC MENOR HR",3,2022,9,9,852,0,174006928,14,1,50,0,0,87,G,Major,87,52,52,31,0,28,24,"https://open.spotify.com/search/Evoque%20Prata%20DJ%20Escobar,%20MC%20MENOR%20SG,%20MC%20MENOR%20HR"
+How Do I Say Goodbye,Dean Lewis,1,2022,8,5,2163,15,284785823,72,97,58,0,154,82,G#,Major,40,39,64,21,0,7,7,https://open.spotify.com/search/How%20Do%20I%20Say%20Goodbye%20Dean%20Lewis
+Blind,SZA,1,2022,12,9,1484,0,163284000,22,51,12,0,0,114,A,Minor,46,60,28,91,0,21,4,https://open.spotify.com/search/Blind%20SZA
+Die For You,Joji,1,2022,11,4,1703,0,246390068,38,45,36,16,0,148,G#,Major,47,15,52,38,13,29,5,https://open.spotify.com/search/Die%20For%20You%20Joji
+Doja,Central Cee,1,2022,7,20,4169,44,482257456,57,44,183,1,11,140,F#,Major,91,97,57,38,0,40,29,https://open.spotify.com/search/Doja%20Central%20Cee
+Gatita,Bellakath,1,2022,10,3,1054,0,168684524,9,0,15,0,1,101,G,Major,90,76,81,15,24,33,6,https://open.spotify.com/search/Gatita%20Bellakath
+Rumble,"Skrillex, Flowdan, Fred again..",3,2022,1,17,2849,0,78489819,39,45,27,0,1,140,C#,Minor,81,6,84,5,23,6,6,"https://open.spotify.com/search/Rumble%20Skrillex,%20Flowdan,%20Fred%20again.."
+Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage],"Travis Scott, 21 Savage, Metro Boomin",3,2022,12,2,1602,0,195516622,12,22,12,0,2,88,G,Minor,49,24,66,19,0,18,29,"https://open.spotify.com/search/Niagara%20Falls%20(Foot%20or%202)%20[with%20Travis%20Scott%20&%2021%20Savage]%20Travis%20Scott,%2021%20Savage,%20Metro%20Boomin"
+Yonaguni,Bad Bunny,1,2021,6,4,9644,28,1260594497,120,86,164,4,0,180,C#,Major,64,44,65,28,0,14,12,https://open.spotify.com/search/Yonaguni%20Bad%20Bunny
+Super Freaky Girl,Nicki Minaj,1,2022,8,12,4827,0,428685680,104,17,76,9,2,133,D,Major,95,91,89,6,0,31,24,https://open.spotify.com/search/Super%20Freaky%20Girl%20Nicki%20Minaj
+Running Up That Hill (A Deal With God),Kate Bush,1,1985,9,16,21811,0,1024858327,117,1,676,3,0,108,A#,Minor,63,20,55,72,0,6,6,https://open.spotify.com/search/Running%20Up%20That%20Hill%20(A%20Deal%20With%20God)%20Kate%20Bush
+Dream On,Aerosmith,1,1973,1,5,168,0,838586769,0,0,5,0,0,80,F,Minor,39,24,43,39,0,23,3,https://open.spotify.com/search/Dream%20On%20Aerosmith
+Limbo,Freddie Dredd,1,2022,8,11,688,0,199386237,14,1,17,0,2,75,B,Minor,80,46,62,3,6,11,46,https://open.spotify.com/search/Limbo%20Freddie%20Dredd
+Where Are You Now,"Lost Frequencies, Calum Scott",2,2021,7,30,10565,44,972509632,238,122,557,17,58,121,F#,Minor,67,26,64,52,0,17,10,"https://open.spotify.com/search/Where%20Are%20You%20Now%20Lost%20Frequencies,%20Calum%20Scott"
+WORTH NOTHING,"Twisted, Oliver Tree",2,2022,9,28,1612,0,213438580,34,54,34,0,2,140,D,Minor,58,17,62,18,0,20,8,"https://open.spotify.com/search/WORTH%20NOTHING%20Twisted,%20Oliver%20Tree"
+Bad Habits,Ed Sheeran,1,2020,9,3,12755,8,1555511105,344,97,945,15,,126,B,Minor,81,59,90,5,0,36,3,https://open.spotify.com/search/Bad%20Habits%20Ed%20Sheeran
+KICK BACK,Kenshi Yonezu,1,2022,10,12,574,4,210038833,38,101,26,0,0,102,C#,Major,58,29,94,0,0,9,11,https://open.spotify.com/search/KICK%20BACK%20Kenshi%20Yonezu
+Evergreen (You Didnï¿½ï¿½ï¿½t Deserve Me A,Omar Apollo,1,2022,4,8,2499,0,227918678,70,0,49,0,0,82,A,Major,70,31,34,60,1,11,4,https://open.spotify.com/search/Evergreen%20(You%20Didnï¿½ï¿½ï¿½t%20Deserve%20Me%20A%20Omar%20Apollo
+Good Days,SZA,1,2020,12,24,10426,2,826623384,133,109,182,1,10,121,C#,Minor,46,53,78,23,0,72,6,https://open.spotify.com/search/Good%20Days%20SZA
+Levitating (feat. DaBaby),"Dua Lipa, DaBaby",2,2020,3,27,15894,8,1802514301,198,13,544,0,60,103,F#,Minor,70,92,83,1,0,7,6,"https://open.spotify.com/search/Levitating%20(feat.%20DaBaby)%20Dua%20Lipa,%20DaBaby"
+Woman,Doja Cat,1,2021,6,25,9424,0,1329090101,202,50,463,4,,108,F,Minor,82,88,76,9,0,12,9,https://open.spotify.com/search/Woman%20Doja%20Cat
+Shut up My Moms Calling - (Sped Up),Hotel Ugly,1,2022,9,14,713,7,181831132,2,4,6,0,0,85,F,Minor,65,36,47,31,0,12,10,https://open.spotify.com/search/Shut%20up%20My%20Moms%20Calling%20-%20(Sped%20Up)%20Hotel%20Ugly
+Ferrari,"James Hype, Miggy Dela Rosa",2,2022,3,14,7758,28,462791599,173,79,175,0,168,125,C#,Minor,84,70,69,1,0,5,5,"https://open.spotify.com/search/Ferrari%20James%20Hype,%20Miggy%20Dela%20Rosa"
+"You're On Your Own, Kid",Taylor Swift,1,2022,10,21,2537,2,348647203,8,18,20,0,1,120,D,Major,69,40,39,41,0,13,6,"https://open.spotify.com/search/You're%20On%20Your%20Own,%20Kid%20Taylor%20Swift"
+"Kesariya (From ""Brahmastra"")","Pritam, Arijit Singh, Amitabh Bhattacharya",3,2022,7,17,292,6,366599607,26,98,4,0,0,94,,Major,58,44,57,57,0,10,3,"https://open.spotify.com/search/Kesariya%20(From%20""Brahmastra"")%20Pritam,%20Arijit%20Singh,%20Amitabh%20Bhattacharya"
+Agudo Mï¿½ï¿½gi,"Styrx, utku INC, Thezth",3,1930,1,1,323,0,90598517,4,0,14,0,0,130,F#,Minor,65,49,80,22,4,7,5,"https://open.spotify.com/search/Agudo%20Mï¿½ï¿½gi%20Styrx,%20utku%20INC,%20Thezth"
+Payphone,"Maroon 5, Wiz Khalifa",2,2012,1,1,14143,4,1479264469,56,38,"1,891",1,,110,E,Major,74,51,74,2,0,29,4,"https://open.spotify.com/search/Payphone%20Maroon%205,%20Wiz%20Khalifa"
+All I Want for Christmas Is You,Mariah Carey,1,1994,10,28,25653,0,1449779435,387,132,"2,094",0,,150,G,Major,34,33,63,16,0,7,4,https://open.spotify.com/search/All%20I%20Want%20for%20Christmas%20Is%20You%20Mariah%20Carey
+Last Christmas,Wham!,1,1984,1,1,22153,0,1159176109,274,111,"1,302",0,,107,B,Minor,74,88,65,28,0,46,3,https://open.spotify.com/search/Last%20Christmas%20Wham!
+Rockin' Around The Christmas Tree,Brenda Lee,1,1958,1,1,14994,0,769213520,191,168,206,0,,140,G#,Major,70,85,41,71,0,45,5,https://open.spotify.com/search/Rockin'%20Around%20The%20Christmas%20Tree%20Brenda%20Lee
+Jingle Bell Rock,Bobby Helms,1,1957,1,1,10326,0,741301563,165,99,104,0,,119,D,Major,74,78,37,84,0,6,3,https://open.spotify.com/search/Jingle%20Bell%20Rock%20Bobby%20Helms
+It's Beginning To Look A Lot Like Christmas,Michael Bublï¿,1,2011,10,14,12353,0,807561936,35,0,549,0,0,93,E,Major,35,38,23,91,0,29,3,https://open.spotify.com/search/It's%20Beginning%20To%20Look%20A%20Lot%20Like%20Christmas%20Michael%20Bublï¿
+Santa Tell Me,Ariana Grande,1,2013,12,13,9408,0,834129063,231,106,439,0,,133,G,Major,46,53,63,5,0,30,18,https://open.spotify.com/search/Santa%20Tell%20Me%20Ariana%20Grande
+It's the Most Wonderful Time of the Year,Andy Williams,1,1963,10,14,8879,0,663832097,182,107,160,0,1,202,G,Major,24,76,60,77,0,12,4,https://open.spotify.com/search/It's%20the%20Most%20Wonderful%20Time%20of%20the%20Year%20Andy%20Williams
+Let It Snow! Let It Snow! Let It Snow!,Dean Martin,1,1959,11,16,6512,0,446390129,88,1,277,0,0,134,C#,Major,45,72,24,91,0,18,4,https://open.spotify.com/search/Let%20It%20Snow!%20Let%20It%20Snow!%20Let%20It%20Snow!%20Dean%20Martin
+Snowman,Sia,1,2017,1,1,5140,0,690104769,85,110,500,0,,105,C#,Major,72,33,51,48,0,9,3,https://open.spotify.com/search/Snowman%20Sia
+Underneath the Tree,Kelly Clarkson,1,2013,10,25,6596,0,485285717,144,99,251,0,0,160,G#,Major,51,69,81,0,0,21,5,https://open.spotify.com/search/Underneath%20the%20Tree%20Kelly%20Clarkson
+Feliz Navidad,Josï¿½ï¿½ Felic,1,1970,11,1,3788,0,520034544,21,3,10,0,0,148,D,Major,50,96,82,47,0,34,4,https://open.spotify.com/search/Feliz%20Navidad%20Josï¿½ï¿½%20Felic
+Holly Jolly Christmas,Michael Bublï¿,1,2011,10,14,7655,0,476244795,5,0,291,0,0,151,G,Major,65,70,47,87,0,9,4,https://open.spotify.com/search/Holly%20Jolly%20Christmas%20Michael%20Bublï¿
+Mistletoe,Justin Bieber,1,2011,1,1,9577,0,629173063,195,111,310,0,0,162,F#,Minor,67,88,54,51,0,9,4,https://open.spotify.com/search/Mistletoe%20Justin%20Bieber
+Sleigh Ride,The Ronettes,1,1963,11,22,10114,0,404664135,114,74,262,0,0,92,D,Major,53,84,77,40,0,32,3,https://open.spotify.com/search/Sleigh%20Ride%20The%20Ronettes
+Seek & Destroy,SZA,1,2022,12,9,1007,0,98709329,5,31,1,0,0,152,C#,Major,65,35,65,44,18,21,7,https://open.spotify.com/search/Seek%20&%20Destroy%20SZA
+Love Language,SZA,1,2022,12,9,1127,0,110849052,16,63,8,0,0,65,A,Minor,71,55,26,85,0,13,8,https://open.spotify.com/search/Love%20Language%20SZA
+Happy Xmas (War Is Over),"John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono",4,1971,12,1,10829,0,460492795,130,1,390,0,0,147,D,Major,33,39,61,32,0,77,3,"https://open.spotify.com/search/Happy%20Xmas%20(War%20Is%20Over)%20John%20Lennon,%20The%20Harlem%20Community%20Choir,%20The%20Plastic%20Ono%20Band,%20Yoko%20Ono"
+Used (feat. Don Toliver),"SZA, Don Toliver",2,2022,12,8,1042,0,94005786,7,29,3,0,0,150,A#,Minor,73,71,69,53,0,32,9,"https://open.spotify.com/search/Used%20(feat.%20Don%20Toliver)%20SZA,%20Don%20Toliver"
+A Holly Jolly Christmas - Single Version,Burl Ives,1,1952,1,1,7930,0,395591396,108,120,73,0,0,140,,Major,67,81,36,64,0,15,3,https://open.spotify.com/search/A%20Holly%20Jolly%20Christmas%20-%20Single%20Version%20Burl%20Ives
+The Christmas Song (Merry Christmas To You) - Remastered 1999,Nat King Cole,1,1946,11,1,11500,0,389771964,140,72,251,0,0,139,C#,Major,36,22,15,84,0,11,4,https://open.spotify.com/search/The%20Christmas%20Song%20(Merry%20Christmas%20To%20You)%20-%20Remastered%201999%20Nat%20King%20Cole
+Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,1,1979,11,16,1685,0,403939487,1,0,29,0,0,95,B,Major,75,74,58,36,0,9,3,https://open.spotify.com/search/Wonderful%20Christmastime%20-%20Edited%20Version%20/%20Remastered%202011%20Paul%20McCartney
+Do They Know It's Christmas? - 1984 Version,Band Aid,1,1984,11,25,14169,0,481697415,209,30,449,0,0,115,,Major,60,23,57,0,2,27,3,https://open.spotify.com/search/Do%20They%20Know%20It's%20Christmas?%20-%201984%20Version%20Band%20Aid
+Ghost in the Machine (feat. Phoebe Bridgers),"SZA, Phoebe Bridgers",2,2022,12,9,1634,0,110073250,16,20,4,0,0,125,F#,Major,62,59,43,84,3,11,5,"https://open.spotify.com/search/Ghost%20in%20the%20Machine%20(feat.%20Phoebe%20Bridgers)%20SZA,%20Phoebe%20Bridgers"
+Special,SZA,1,2022,12,9,906,0,88092256,6,21,3,0,0,76,,Major,60,19,20,78,0,11,5,https://open.spotify.com/search/Special%20SZA
+Merry Christmas Everyone,Shakin' Stevens,1,1984,1,1,1087,0,351636786,90,35,5,0,0,101,C#,Minor,72,91,87,14,0,13,3,https://open.spotify.com/search/Merry%20Christmas%20Everyone%20Shakin'%20Stevens
+Let It Snow! Let It Snow! Let It Snow!,"Frank Sinatra, B. Swanson Quartet",2,1950,1,1,10585,0,473248298,126,108,406,0,0,143,D,Major,60,86,32,88,0,34,6,"https://open.spotify.com/search/Let%20It%20Snow!%20Let%20It%20Snow!%20Let%20It%20Snow!%20Frank%20Sinatra,%20B.%20Swanson%20Quartet"
+SOS,SZA,1,2022,12,9,827,0,73981293,6,18,1,0,0,119,G,Minor,51,51,66,67,0,9,23,https://open.spotify.com/search/SOS%20SZA
+Open Arms (feat. Travis Scott),"SZA, Travis Scott",2,2022,12,8,1420,4,155653938,13,87,17,0,46,78,A,Major,67,22,59,76,1,15,16,"https://open.spotify.com/search/Open%20Arms%20(feat.%20Travis%20Scott)%20SZA,%20Travis%20Scott"
+White Christmas,"Bing Crosby, John Scott Trotter & His Orchestra, Ken Darby Singers",3,1942,1,1,11940,0,395591396,73,79,123,0,0,96,A,Major,23,19,25,91,0,40,3,"https://open.spotify.com/search/White%20Christmas%20Bing%20Crosby,%20John%20Scott%20Trotter%20&%20His%20Orchestra,%20Ken%20Darby%20Singers"
+Driving Home for Christmas - 2019 Remaster,Chris Rea,1,1986,1,1,888,0,429504768,50,0,6,0,0,180,A,Major,51,87,58,36,0,18,4,https://open.spotify.com/search/Driving%20Home%20for%20Christmas%20-%202019%20Remaster%20Chris%20Rea
+Christmas (Baby Please Come Home),Darlene Love,1,1963,11,22,9122,0,242767149,121,58,212,0,0,126,D#,Major,34,35,76,39,0,8,5,https://open.spotify.com/search/Christmas%20(Baby%20Please%20Come%20Home)%20Darlene%20Love
+Gone Girl,SZA,1,2022,12,9,892,0,65362788,3,17,2,0,0,150,F,Major,43,42,44,57,0,15,6,https://open.spotify.com/search/Gone%20Girl%20SZA
+F2F,SZA,1,2022,12,9,989,0,67540165,5,9,1,0,0,90,D,Major,53,47,74,9,0,34,4,https://open.spotify.com/search/F2F%20SZA
+Notice Me,SZA,1,2022,12,9,819,0,62019074,14,22,0,0,0,160,F,Major,72,78,68,28,0,11,12,https://open.spotify.com/search/Notice%20Me%20SZA
+Merry Christmas,"Ed Sheeran, Elton John",2,2017,11,10,2209,0,135723538,72,90,141,0,0,114,,Major,59,60,94,24,0,10,4,"https://open.spotify.com/search/Merry%20Christmas%20Ed%20Sheeran,%20Elton%20John"
+It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",3,1958,1,1,6290,0,295998468,89,39,158,0,0,113,G,Major,73,72,32,77,0,15,5,"https://open.spotify.com/search/It's%20Beginning%20to%20Look%20a%20Lot%20Like%20Christmas%20(with%20Mitchell%20Ayres%20&%20His%20Orchestra)%20Perry%20Como,%20The%20Fontane%20Sisters,%20Mitchell%20Ayres%20&%20His%20Orchestra"
+My Only Wish (This Year),Britney Spears,1,2000,11,7,6952,0,261116938,115,53,286,0,0,147,,Major,67,69,72,17,0,19,3,https://open.spotify.com/search/My%20Only%20Wish%20(This%20Year)%20Britney%20Spears
+Antidepresan,"Mabel Matiz, Mert Demir",2,2022,11,4,313,2,136689549,10,6,7,1,9,100,B,Minor,70,92,59,3,0,10,3,"https://open.spotify.com/search/Antidepresan%20Mabel%20Matiz,%20Mert%20Demir"
+Wild Flower (with youjeen),RM,1,2022,12,2,353,2,135611421,2,74,14,0,2,155,G#,Major,49,42,77,3,0,12,9,https://open.spotify.com/search/Wild%20Flower%20(with%20youjeen)%20RM
+I Hate U,SZA,1,2021,12,3,4094,0,356709897,66,96,43,0,0,107,G,Minor,54,41,39,51,0,11,16,https://open.spotify.com/search/I%20Hate%20U%20SZA
+Raindrops (Insane) [with Travis Scott],"Travis Scott, Metro Boomin",2,2022,12,2,880,0,110649992,3,7,10,0,0,112,G#,Major,80,15,54,9,0,38,5,"https://open.spotify.com/search/Raindrops%20(Insane)%20[with%20Travis%20Scott]%20Travis%20Scott,%20Metro%20Boomin"
+SPIT IN MY FACE!,ThxSoMch,1,2022,10,31,573,0,301869854,1,0,18,0,24,166,C#,Major,70,57,57,9,20,11,7,https://open.spotify.com/search/SPIT%20IN%20MY%20FACE!%20ThxSoMch
+Deck The Hall - Remastered 1999,Nat King Cole,1,1959,1,1,3299,0,127027715,65,39,41,0,0,107,F#,Minor,69,96,36,81,0,8,4,https://open.spotify.com/search/Deck%20The%20Hall%20-%20Remastered%201999%20Nat%20King%20Cole
+Smoking on my Ex Pack,SZA,1,2022,12,9,811,0,57144458,6,11,3,0,0,81,G#,Major,47,33,68,24,0,22,38,https://open.spotify.com/search/Smoking%20on%20my%20Ex%20Pack%20SZA
+Conceited,SZA,1,2022,12,9,899,0,56870689,2,14,2,0,0,150,C#,Major,79,77,46,5,0,11,7,https://open.spotify.com/search/Conceited%20SZA
+Snow On The Beach (feat. Lana Del Rey),"Taylor Swift, Lana Del Rey",2,2022,10,21,2415,0,323437194,33,57,30,0,11,110,A,Major,66,19,32,69,0,12,4,"https://open.spotify.com/search/Snow%20On%20The%20Beach%20(feat.%20Lana%20Del%20Rey)%20Taylor%20Swift,%20Lana%20Del%20Rey"
+Maroon,Taylor Swift,1,2022,10,21,2304,0,317726339,12,16,14,0,0,108,G,Major,64,4,40,6,0,10,6,https://open.spotify.com/search/Maroon%20Taylor%20Swift
+Tubarï¿½ï¿½o Te,"Dj LK da Escï¿½ï¿½cia, Tchakabum, mc jhenny, M",4,2022,9,28,1003,0,116144341,21,0,44,0,0,130,E,Minor,89,48,74,30,0,7,36,"https://open.spotify.com/search/Tubarï¿½ï¿½o%20Te%20Dj%20LK%20da%20Escï¿½ï¿½cia,%20Tchakabum,%20mc%20jhenny,%20M"
+Bejeweled,Taylor Swift,1,2022,10,21,2699,0,328207708,39,35,22,2,0,164,G,Major,70,39,56,6,0,9,7,https://open.spotify.com/search/Bejeweled%20Taylor%20Swift
+Tarot,"Bad Bunny, Jhay Cortez",2,2022,5,6,2482,20,608228647,27,77,22,2,0,114,B,Minor,80,42,68,2,0,66,4,"https://open.spotify.com/search/Tarot%20Bad%20Bunny,%20Jhay%20Cortez"
+You Make It Feel Like Christmas (feat. Blake Shelton),"Gwen Stefani, Blake Shelton",2,2005,9,20,2577,0,180577478,108,56,30,0,0,93,F,Major,63,93,88,1,0,12,4,"https://open.spotify.com/search/You%20Make%20It%20Feel%20Like%20Christmas%20(feat.%20Blake%20Shelton)%20Gwen%20Stefani,%20Blake%20Shelton"
+Desesperados,"Chencho Corleone, Rauw Alejandro",2,2021,6,25,6821,34,809306935,83,58,128,7,0,90,C#,Minor,87,51,69,36,0,9,8,"https://open.spotify.com/search/Desesperados%20Chencho%20Corleone,%20Rauw%20Alejandro"
+Too Late,SZA,1,2022,12,8,714,0,49262961,0,9,2,0,0,128,B,Major,45,35,68,78,0,39,8,https://open.spotify.com/search/Too%20Late%20SZA
+Party,"Bad Bunny, Rauw Alejandro",2,2022,5,6,3185,4,614555082,38,64,37,3,36,97,A,Major,83,47,80,2,0,24,9,"https://open.spotify.com/search/Party%20Bad%20Bunny,%20Rauw%20Alejandro"
+Run Rudolph Run - Single Version,Chuck Berry,1,1958,1,1,8612,0,245350949,120,30,52,0,1,152,G,Minor,69,94,71,79,0,7,8,https://open.spotify.com/search/Run%20Rudolph%20Run%20-%20Single%20Version%20Chuck%20Berry
+Jingle Bells - Remastered 1999,Frank Sinatra,1,1957,1,1,4326,0,178660459,32,3,65,0,0,175,G#,Major,51,94,34,73,0,10,5,https://open.spotify.com/search/Jingle%20Bells%20-%20Remastered%201999%20Frank%20Sinatra
+Far,SZA,1,2022,12,9,680,0,51641685,2,15,1,0,0,116,D,Major,61,48,55,67,0,16,8,https://open.spotify.com/search/Far%20SZA
+On Time (with John Legend),"John Legend, Metro Boomin",2,2022,12,2,398,0,78139948,2,2,6,0,2,80,F,Minor,33,51,59,76,0,44,6,"https://open.spotify.com/search/On%20Time%20(with%20John%20Legend)%20John%20Legend,%20Metro%20Boomin"
+GATï¿½ï¿½,"Maldy, Karol G",2,2022,8,25,3328,13,322336177,39,50,57,3,1,93,B,Minor,63,34,86,26,0,21,39,"https://open.spotify.com/search/GATï¿½ï¿½%20Maldy,%20Karol%20G"
+ýýýabcdefu,Gayle,1,2021,8,13,7215,0,1007612429,170,12,575,18,,122,E,Major,70,42,54,30,0,37,5,https://open.spotify.com/search/ýýýabcdefu%20Gayle
+Sacrifice,The Weeknd,1,2022,1,7,4440,0,326792833,81,77,133,0,,122,G,Major,70,91,79,3,0,7,10,https://open.spotify.com/search/Sacrifice%20The%20Weeknd
+Is There Someone Else?,The Weeknd,1,2022,1,7,2881,6,391251368,13,89,34,0,3,135,A,Minor,70,60,58,4,0,16,3,https://open.spotify.com/search/Is%20There%20Someone%20Else?%20The%20Weeknd
+Fingers Crossed,"Lauren Spencer Smith, Lauren Spencer Smith, Lauren Spencer Smith",3,2022,1,5,2235,0,349585590,65,7,70,16,6,109,F,Major,60,45,47,62,0,31,5,"https://open.spotify.com/search/Fingers%20Crossed%20Lauren%20Spencer%20Smith,%20Lauren%20Spencer%20Smith,%20Lauren%20Spencer%20Smith"
+Out of Time,The Weeknd,1,2022,1,7,3711,0,339659802,49,88,62,0,,93,,Minor,65,82,74,27,0,32,5,https://open.spotify.com/search/Out%20of%20Time%20The%20Weeknd
+Do It To It,"Cherish, ACRAZE",2,2021,8,20,12403,0,674772936,183,63,465,0,11,125,B,Minor,85,64,81,2,5,7,9,"https://open.spotify.com/search/Do%20It%20To%20It%20Cherish,%20ACRAZE"
+We Don't Talk About Bruno,"Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",7,2021,11,19,2785,0,432719968,95,89,44,0,,206,,Minor,58,83,45,36,0,11,8,"https://open.spotify.com/search/We%20Don't%20Talk%20About%20Bruno%20Adassa,%20Mauro%20Castillo,%20Stephanie%20Beatriz,%20Encanto%20-%20Cast,%20Rhenzy%20Feliz,%20Diane%20Guerrero,%20Carolina%20Gaitan"
+Pepas,Farruko,1,2021,6,24,14114,17,1309887447,252,109,965,20,,130,G,Major,76,44,77,1,0,13,3,https://open.spotify.com/search/Pepas%20Farruko
+How Do I Make You Love Me?,The Weeknd,1,2022,1,7,1915,0,119238316,7,47,15,0,0,121,G,Minor,80,62,51,2,0,9,8,https://open.spotify.com/search/How%20Do%20I%20Make%20You%20Love%20Me?%20The%20Weeknd
+Gasoline,The Weeknd,1,2022,1,7,2297,0,116903579,11,29,14,0,0,123,F#,Minor,74,35,73,0,0,21,5,https://open.spotify.com/search/Gasoline%20The%20Weeknd
+Infinity,Jaymes Young,1,2017,6,23,4375,0,888046992,24,0,396,0,0,122,B,Minor,67,50,67,15,0,30,4,https://open.spotify.com/search/Infinity%20Jaymes%20Young
+Less Than Zero,The Weeknd,1,2022,1,7,2800,0,200660871,18,77,61,0,1,143,,Major,53,50,79,0,0,8,3,https://open.spotify.com/search/Less%20Than%20Zero%20The%20Weeknd
+Take My Breath,The Weeknd,1,2021,8,6,2597,0,130655803,17,80,38,0,0,121,A#,Minor,70,35,77,1,0,26,4,https://open.spotify.com/search/Take%20My%20Breath%20The%20Weeknd
+good 4 u,Olivia Rodrigo,1,2021,5,14,15563,6,1887039593,259,55,461,1,,166,F#,Minor,56,68,66,28,0,11,18,https://open.spotify.com/search/good%204%20u%20Olivia%20Rodrigo
+"Here We Goï¿½ï¿½ï¿½ Again (feat. Tyler, the Cr","The Weeknd, Tyler, The Creator",3,2022,1,7,1420,0,88103848,7,18,7,0,0,135,C#,Major,41,27,64,36,0,60,3,"https://open.spotify.com/search/Here%20We%20Goï¿½ï¿½ï¿½%20Again%20(feat.%20Tyler,%20the%20Cr%20The%20Weeknd,%20Tyler,%20The%20Creator"
+Best Friends,The Weeknd,1,2022,1,7,1292,0,101114984,3,18,14,0,0,87,E,Minor,49,49,59,44,0,35,21,https://open.spotify.com/search/Best%20Friends%20The%20Weeknd
+Kiss Me More (feat. SZA),"SZA, Doja Cat",2,2021,4,9,15867,0,1575467011,382,65,497,0,12,111,G#,Major,77,74,66,30,0,13,3,"https://open.spotify.com/search/Kiss%20Me%20More%20(feat.%20SZA)%20SZA,%20Doja%20Cat"
+I Heard You're Married (feat. Lil Wayne),"The Weeknd, Lil Wayne",2,2022,1,7,1178,0,91656026,9,10,9,0,0,110,D,Major,75,85,84,10,0,31,19,"https://open.spotify.com/search/I%20Heard%20You're%20Married%20(feat.%20Lil%20Wayne)%20The%20Weeknd,%20Lil%20Wayne"
+Need To Know,Doja Cat,1,2021,6,11,6672,0,1042568408,125,36,150,0,,130,C#,Major,66,19,61,30,0,9,7,https://open.spotify.com/search/Need%20To%20Know%20Doja%20Cat
+MONTERO (Call Me By Your Name),Lil Nas X,1,2020,9,18,12329,0,1735441776,275,19,738,0,,179,G#,Minor,61,76,51,30,0,38,15,https://open.spotify.com/search/MONTERO%20(Call%20Me%20By%20Your%20Name)%20Lil%20Nas%20X
+love nwantiti (ah ah ah),Ckay,1,2019,7,26,5669,2,726837877,74,0,262,14,,93,F,Minor,74,53,73,61,0,13,4,https://open.spotify.com/search/love%20nwantiti%20(ah%20ah%20ah)%20Ckay
+Dawn FM,The Weeknd,1,2022,1,7,811,0,53933526,1,8,6,0,0,78,A,Minor,27,10,49,62,0,49,5,https://open.spotify.com/search/Dawn%20FM%20The%20Weeknd
+Surface Pressure,Jessica Darrow,1,2021,11,19,1756,0,267758538,38,48,20,0,0,180,D,Major,65,37,58,2,0,4,31,https://open.spotify.com/search/Surface%20Pressure%20Jessica%20Darrow
+Starry Eyes,The Weeknd,1,2022,1,7,1014,0,74601456,1,17,11,0,0,86,A,Minor,28,13,41,50,0,19,3,https://open.spotify.com/search/Starry%20Eyes%20The%20Weeknd
+THATS WHAT I WANT,Lil Nas X,1,2021,9,17,7963,0,920797189,173,7,298,0,4,88,C#,Minor,74,55,85,1,0,5,22,https://open.spotify.com/search/THATS%20WHAT%20I%20WANT%20Lil%20Nas%20X
+One Right Now (with The Weeknd),"The Weeknd, Post Malone",2,2021,11,5,4771,0,539595276,68,18,75,0,1,97,C#,Major,68,72,78,4,0,7,5,"https://open.spotify.com/search/One%20Right%20Now%20(with%20The%20Weeknd)%20The%20Weeknd,%20Post%20Malone"
+Beggin,Mï¿½ï¿½ne,1,2017,12,8,8559,0,1367810478,183,64,964,9,75,134,B,Minor,71,59,80,13,0,36,5,https://open.spotify.com/search/Beggin%20Mï¿½ï¿½ne
+Mon Amour - Remix,"Aitana, zzoilo",2,2020,9,21,3221,2,578207856,67,13,139,0,40,116,D,Major,75,36,76,12,0,10,10,"https://open.spotify.com/search/Mon%20Amour%20-%20Remix%20Aitana,%20zzoilo"
+Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),"Julieta Venegas, Bad Bunny, Tainy",3,2021,10,5,3423,26,775542072,61,65,53,6,0,170,E,Minor,64,14,70,9,0,9,8,"https://open.spotify.com/search/Lo%20Siento%20BB:/%20(with%20Bad%20Bunny%20&%20Julieta%20Venegas)%20Julieta%20Venegas,%20Bad%20Bunny,%20Tainy"
+MONEY,Lisa,1,2021,9,10,2566,13,863625566,44,109,131,0,,140,C#,Minor,83,40,55,16,0,14,23,https://open.spotify.com/search/MONEY%20Lisa
+The Motto,"Tiï¿½ï¿½sto, Ava",2,2021,11,4,9151,6,656013912,240,107,268,0,5,118,G,Minor,75,46,76,3,0,9,4,"https://open.spotify.com/search/The%20Motto%20Tiï¿½ï¿½sto,%20Ava"
+Happier Than Ever,Billie Eilish,1,2021,7,30,8476,0,1056760045,138,133,283,0,,65,,Major,31,31,24,76,0,14,4,https://open.spotify.com/search/Happier%20Than%20Ever%20Billie%20Eilish
+Moth To A Flame (with The Weeknd),"The Weeknd, Swedish House Mafia",2,2021,10,22,7495,17,611994237,114,172,284,2,,120,,Minor,56,16,67,0,0,11,4,"https://open.spotify.com/search/Moth%20To%20A%20Flame%20(with%20The%20Weeknd)%20The%20Weeknd,%20Swedish%20House%20Mafia"
+traitor,"Juan Cruz Toledo, Huilen Toledo",2,2021,5,21,5257,6,1230855859,85,43,134,0,,176,D#,Major,29,12,33,68,0,12,5,"https://open.spotify.com/search/traitor%20Juan%20Cruz%20Toledo,%20Huilen%20Toledo"
+Toxic,BoyWithUke,1,2021,9,10,1795,0,582981380,34,23,118,0,,180,G#,Minor,59,69,61,84,0,46,36,https://open.spotify.com/search/Toxic%20BoyWithUke
+drivers license,Olivia Rodrigo,1,2021,1,8,12685,3,1858144199,185,61,485,0,,144,A#,Major,59,21,43,76,0,10,7,https://open.spotify.com/search/drivers%20license%20Olivia%20Rodrigo
+Malvadï¿½ï¿,"Xamï¿½ï¿½, Gustah, Neo B",3,2021,11,30,648,1,240684449,14,3,81,0,0,133,F#,Minor,82,52,61,38,0,14,27,"https://open.spotify.com/search/Malvadï¿½ï¿%20Xamï¿½ï¿½,%20Gustah,%20Neo%20B"
+All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,2021,11,12,4635,5,583687007,50,49,30,1,2,93,,Major,63,21,52,28,0,9,3,https://open.spotify.com/search/All%20Too%20Well%20(10%20Minute%20Version)%20(Taylor's%20Version)%20(From%20The%20Vault)%20Taylor%20Swift
+Donï¿½ï¿½ï¿½t Break My,The Weeknd,1,2022,1,7,1184,0,63803529,1,5,6,0,0,122,A#,Major,77,25,62,34,0,23,3,https://open.spotify.com/search/Donï¿½ï¿½ï¿½t%20Break%20My%20The%20Weeknd
+Oh My God,Adele,1,2021,11,19,4431,0,466214729,105,7,199,0,0,88,C#,Major,53,55,73,9,0,3,5,https://open.spotify.com/search/Oh%20My%20God%20Adele
+Entre Nosotros (Remix) [con Nicki Nicole],"Lit Killah, Maria Becerra, Tiago pzk, NICKI NICOLE",4,2022,1,5,759,3,236940480,32,0,12,0,0,170,F,Minor,70,61,44,40,0,37,4,"https://open.spotify.com/search/Entre%20Nosotros%20(Remix)%20[con%20Nicki%20Nicole]%20Lit%20Killah,%20Maria%20Becerra,%20Tiago%20pzk,%20NICKI%20NICOLE"
+A Tale By Quincy,The Weeknd,1,2022,1,7,733,0,41924466,0,2,2,0,0,94,F,Minor,46,55,50,71,0,10,11,https://open.spotify.com/search/A%20Tale%20By%20Quincy%20The%20Weeknd
+I AM WOMAN,Emmy Meli,1,2021,11,18,2795,0,225259194,45,0,107,0,0,170,A#,Major,65,46,47,12,0,13,16,https://open.spotify.com/search/I%20AM%20WOMAN%20Emmy%20Meli
+Medallo,"Justin Quiles, Lenny Tavï¿½ï¿½rez, BL",3,2021,10,27,2780,2,393230256,54,21,57,1,0,90,E,Minor,79,79,70,57,0,66,8,"https://open.spotify.com/search/Medallo%20Justin%20Quiles,%20Lenny%20Tavï¿½ï¿½rez,%20BL"
+It'll Be Okay,Shawn Mendes,1,2021,12,1,1950,0,287201015,56,8,104,0,10,78,G,Major,40,7,29,62,0,9,3,https://open.spotify.com/search/It'll%20Be%20Okay%20Shawn%20Mendes
+Softcore,The Neighbourhood,1,2018,3,9,3947,12,599770206,33,102,93,0,30,94,D,Major,57,36,58,5,0,15,3,https://open.spotify.com/search/Softcore%20The%20Neighbourhood
+Super Gremlin,Kodak Black,1,2021,10,30,2551,0,342779426,52,15,35,0,1,73,D,Major,83,11,41,0,0,36,14,https://open.spotify.com/search/Super%20Gremlin%20Kodak%20Black
+Volvï¿,"Aventura, Bad Bunny",2,2021,8,3,5375,10,673801126,138,24,133,0,1,176,C#,Major,73,79,86,42,0,7,18,"https://open.spotify.com/search/Volvï¿%20Aventura,%20Bad%20Bunny"
+Todo De Ti,Rauw Alejandro,1,2020,11,2,11975,8,1168642797,188,75,268,6,16,128,D#,Minor,81,57,63,40,1,10,4,https://open.spotify.com/search/Todo%20De%20Ti%20Rauw%20Alejandro
+Love Nwantiti - Remix,"Ckay, AX'EL, Dj Yo!",3,2019,8,30,2696,0,540539717,42,2,57,0,,120,G#,Major,58,44,60,44,9,5,6,"https://open.spotify.com/search/Love%20Nwantiti%20-%20Remix%20Ckay,%20AX'EL,%20Dj%20Yo!"
+Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",3,2021,11,5,4963,0,383550148,63,40,76,0,0,82,D,Major,63,85,62,6,0,35,4,"https://open.spotify.com/search/Smokin%20Out%20The%20Window%20Bruno%20Mars,%20Anderson%20.Paak,%20Silk%20Sonic"
+Meet Me At Our Spot,"THE ANXIETY, Willow, Tyler Cole",3,2020,3,13,6734,0,530511203,47,14,90,0,1,95,D,Major,77,40,47,2,0,9,3,"https://open.spotify.com/search/Meet%20Me%20At%20Our%20Spot%20THE%20ANXIETY,%20Willow,%20Tyler%20Cole"
+Every Angel is Terrifying,The Weeknd,1,2022,1,7,715,0,37307967,0,1,2,0,0,118,,Major,44,52,94,11,0,4,29,https://open.spotify.com/search/Every%20Angel%20is%20Terrifying%20The%20Weeknd
+Tacones Rojos,Sebastian Yatra,1,2021,10,22,3047,9,510876816,77,31,85,5,28,123,B,Minor,75,93,86,8,0,14,3,https://open.spotify.com/search/Tacones%20Rojos%20Sebastian%20Yatra
+Peaches (feat. Daniel Caesar & Giveon),"Justin Bieber, Daniel Caesar, Giveon",3,2021,3,19,14140,0,1445941661,231,52,612,6,,90,,Major,63,49,68,38,0,42,18,"https://open.spotify.com/search/Peaches%20(feat.%20Daniel%20Caesar%20&%20Giveon)%20Justin%20Bieber,%20Daniel%20Caesar,%20Giveon"
+Dakiti,"Bad Bunny, Jhay Cortez",2,2020,10,30,11215,21,1763363713,189,166,525,9,25,110,E,Minor,73,14,57,40,0,11,5,"https://open.spotify.com/search/Dakiti%20Bad%20Bunny,%20Jhay%20Cortez"
+"Tiago PZK: Bzrp Music Sessions, Vol. 48","Bizarrap, Tiago pzk",2,2021,12,29,1678,12,374191487,20,4,15,1,3,96,C#,Minor,66,76,82,47,0,10,32,"https://open.spotify.com/search/Tiago%20PZK:%20Bzrp%20Music%20Sessions,%20Vol.%2048%20Bizarrap,%20Tiago%20pzk"
+Lï¿½ï¿½ï¿,Stromae,1,2022,1,9,2035,0,108809090,41,122,394,0,2,88,D,Minor,56,58,55,35,0,23,11,https://open.spotify.com/search/Lï¿½ï¿½ï¿%20Stromae
+Nostï¿½ï¿½l,"Chris Brown, Rvssian, Rauw Alejandro",3,2021,9,8,2780,2,436695353,86,76,59,0,16,98,A,Minor,73,60,85,17,0,24,5,"https://open.spotify.com/search/Nostï¿½ï¿½l%20Chris%20Brown,%20Rvssian,%20Rauw%20Alejandro"
+Better Days (NEIKED x Mae Muller x Polo G),"NEIKED, Mae Muller, Polo G",3,2021,9,24,4091,0,421040617,105,2,73,13,1,110,,Minor,72,67,68,0,0,14,4,"https://open.spotify.com/search/Better%20Days%20(NEIKED%20x%20Mae%20Muller%20x%20Polo%20G)%20NEIKED,%20Mae%20Muller,%20Polo%20G"
+Life Goes On,Oliver Tree,1,2020,7,17,2868,0,501541661,43,15,116,0,,80,,Major,70,57,49,19,0,12,8,https://open.spotify.com/search/Life%20Goes%20On%20Oliver%20Tree
+Sad Girlz Luv Money Remix (feat. Kali Uchis),"Kali Uchis, Amaarae, Moliy",3,2021,9,16,3643,0,354065229,69,3,70,0,3,110,C#,Minor,86,31,53,43,0,11,6,"https://open.spotify.com/search/Sad%20Girlz%20Luv%20Money%20Remix%20(feat.%20Kali%20Uchis)%20Kali%20Uchis,%20Amaarae,%20Moliy"
+Butter,BTS,1,2021,5,21,4779,6,1143647827,180,135,223,0,5,110,G#,Major,79,70,36,0,0,6,11,https://open.spotify.com/search/Butter%20BTS
+pushin P (feat. Young Thug),"Young Thug, Future, Gunna",3,2022,1,7,3517,0,311395144,54,28,43,0,0,78,C#,Minor,77,49,42,1,1,13,19,"https://open.spotify.com/search/pushin%20P%20(feat.%20Young%20Thug)%20Young%20Thug,%20Future,%20Gunna"
+You Right,"Doja Cat, The Weeknd",2,2021,6,24,5073,0,672656250,83,9,100,0,4,129,G#,Major,83,44,62,2,0,8,6,"https://open.spotify.com/search/You%20Right%20Doja%20Cat,%20The%20Weeknd"
+deja vu,Olivia Rodrigo,1,2021,4,1,7545,4,1256880657,117,39,141,0,46,181,A,Major,44,22,60,61,0,42,9,https://open.spotify.com/search/deja%20vu%20Olivia%20Rodrigo
+Dynamite,BTS,1,2020,8,21,8528,5,1692897992,239,163,583,0,,114,F#,Minor,75,74,77,1,0,9,10,https://open.spotify.com/search/Dynamite%20BTS
+TO THE MOON,Jnr Choi,1,2021,11,5,2979,0,245095641,44,0,159,0,0,144,D,Major,74,39,65,5,1,11,35,https://open.spotify.com/search/TO%20THE%20MOON%20Jnr%20Choi
+Lost in the Fire,"The Weeknd, Gesaffelstein",2,2019,1,11,7731,2,686734357,110,145,447,0,46,101,D,Major,66,18,68,9,0,12,4,"https://open.spotify.com/search/Lost%20in%20the%20Fire%20The%20Weeknd,%20Gesaffelstein"
+Salimo de Noche,"Trueno, Tiago pzk",2,2021,10,21,1057,0,261414174,17,5,21,0,0,84,D,Major,67,78,63,29,0,12,5,"https://open.spotify.com/search/Salimo%20de%20Noche%20Trueno,%20Tiago%20pzk"
+Volando - Remix,"Sech, Bad Bunny, Mora",3,2021,7,8,3272,19,610045621,101,34,70,1,2,154,F#,Major,66,63,69,21,0,11,7,"https://open.spotify.com/search/Volando%20-%20Remix%20Sech,%20Bad%20Bunny,%20Mora"
+Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",3,2021,3,5,14417,0,1115880852,237,123,569,0,10,148,F,Major,59,72,62,18,0,9,3,"https://open.spotify.com/search/Leave%20The%20Door%20Open%20Bruno%20Mars,%20Anderson%20.Paak,%20Silk%20Sonic"
+Knife Talk (with 21 Savage ft. Project Pat),"Drake, Project Pat, 21 Savage",3,2021,9,3,5199,0,594482982,45,43,45,0,3,146,F,Minor,85,22,37,13,0,7,30,"https://open.spotify.com/search/Knife%20Talk%20(with%2021%20Savage%20ft.%20Project%20Pat)%20Drake,%20Project%20Pat,%2021%20Savage"
+Don't Be Shy,"Tiï¿½ï¿½sto, Kar",2,2021,8,1,6026,0,566954746,171,51,187,1,21,120,B,Minor,77,51,79,20,0,26,6,"https://open.spotify.com/search/Don't%20Be%20Shy%20Tiï¿½ï¿½sto,%20Kar"
+Love Grows (Where My Rosemary Goes),Edison Lighthouse,1,1970,1,1,2877,0,BPM110KeyAModeMajorDanceability53Valence75Energy69Acousticness7Instrumentalness0Liveness17Speechiness3,16,0,54,0,0,110,A,Major,53,75,69,7,0,17,3,https://open.spotify.com/search/Love%20Grows%20(Where%20My%20Rosemary%20Goes)%20Edison%20Lighthouse
+LA FAMA (with The Weeknd),"The Weeknd, ROSALï¿½",2,2021,11,11,4640,3,374706940,81,93,507,6,4,136,,Minor,77,82,30,95,0,13,5,"https://open.spotify.com/search/LA%20FAMA%20(with%20The%20Weeknd)%20The%20Weeknd,%20ROSALï¿½"
+The Family Madrigal,"Olga Merediz, Stephanie Beatriz, Encanto - Cast",3,2021,11,19,1150,0,184937148,20,38,12,0,0,141,C#,Major,59,56,63,12,0,6,36,"https://open.spotify.com/search/The%20Family%20Madrigal%20Olga%20Merediz,%20Stephanie%20Beatriz,%20Encanto%20-%20Cast"
+Phantom Regret by Jim,The Weeknd,1,2022,1,7,768,0,31959571,1,1,3,0,0,108,A,Minor,46,23,48,75,30,14,4,https://open.spotify.com/search/Phantom%20Regret%20by%20Jim%20The%20Weeknd
+Dos Oruguitas,Sebastian Yatra,1,2021,11,19,925,0,167076418,24,47,74,0,0,94,,Major,42,47,36,76,0,9,5,https://open.spotify.com/search/Dos%20Oruguitas%20Sebastian%20Yatra
+Freaks,Surf Curse,1,2015,5,10,3006,3,824420218,23,21,121,0,13,180,A,Major,35,41,94,0,63,5,5,https://open.spotify.com/search/Freaks%20Surf%20Curse
+Acapulco,Jason Derulo,1,2021,9,1,3098,0,363467642,111,5,182,1,0,122,A#,Major,77,51,79,5,0,16,5,https://open.spotify.com/search/Acapulco%20Jason%20Derulo
+Daddy Issues,The Neighbourhood,1,2015,10,30,9771,4,1127468248,42,70,384,0,3,85,A#,Major,59,33,52,7,15,12,3,https://open.spotify.com/search/Daddy%20Issues%20The%20Neighbourhood
+thought i was playing,"21 Savage, Gunna",2,2022,1,7,807,0,60680939,3,0,5,0,0,148,C#,Major,68,29,73,0,0,7,7,"https://open.spotify.com/search/thought%20i%20was%20playing%2021%20Savage,%20Gunna"
+ELEVEN,IVE,1,2021,12,1,521,1,247737946,17,89,11,0,0,120,A,Major,83,59,73,6,0,5,11,https://open.spotify.com/search/ELEVEN%20IVE
+Mood (feat. Iann Dior),"24kgoldn, Iann Dior",2,2020,7,24,12854,0,1699402402,237,27,636,0,,91,G,Minor,70,76,72,22,0,27,4,"https://open.spotify.com/search/Mood%20(feat.%20Iann%20Dior)%2024kgoldn,%20Iann%20Dior"
+What Else Can I Do?,"Stephanie Beatriz, Diane Guerrero",2,2021,11,19,802,0,154797871,13,27,8,0,0,120,E,Major,72,54,71,26,0,10,4,"https://open.spotify.com/search/What%20Else%20Can%20I%20Do?%20Stephanie%20Beatriz,%20Diane%20Guerrero"
+DANCE CRIP,Trueno,1,2021,11,17,731,0,198883004,14,14,24,0,4,106,,Major,86,86,79,11,0,8,9,https://open.spotify.com/search/DANCE%20CRIP%20Trueno
+Miserable Man,David Kushner,1,2022,1,7,788,0,124407432,13,0,32,1,0,110,A#,Major,63,31,35,93,0,29,3,https://open.spotify.com/search/Miserable%20Man%20David%20Kushner
+happier,Olivia Rodrigo,1,2021,5,21,3069,4,850608354,25,46,105,0,45,169,F#,Major,39,36,45,81,0,8,13,https://open.spotify.com/search/happier%20Olivia%20Rodrigo
+Praise God,Kanye West,1,2021,8,29,4651,0,376333030,24,6,105,0,0,118,C#,Major,80,21,55,1,0,26,17,https://open.spotify.com/search/Praise%20God%20Kanye%20West
+Get Into It (Yuh),Doja Cat,1,2021,6,25,4999,0,516784627,43,19,73,12,0,92,G#,Minor,91,79,66,32,0,9,16,https://open.spotify.com/search/Get%20Into%20It%20(Yuh)%20Doja%20Cat
+Before You Go,Lewis Capaldi,1,2019,11,1,8327,24,1608045237,205,130,625,0,25,112,D#,Major,45,19,60,63,0,9,6,https://open.spotify.com/search/Before%20You%20Go%20Lewis%20Capaldi
+Sky,Playboi Carti,1,2020,12,25,3297,3,506778838,25,3,52,0,1,140,D,Major,79,56,91,26,0,13,21,https://open.spotify.com/search/Sky%20Playboi%20Carti
+Rolling in the Deep,Adele,1,2010,11,29,35684,6,1472799873,195,125,"6,280",2,78,105,G#,Major,73,52,76,13,0,5,3,https://open.spotify.com/search/Rolling%20in%20the%20Deep%20Adele
+Sobrio,Maluma,1,2021,7,8,3506,10,513643924,103,76,100,1,1,178,F,Major,76,63,77,14,0,15,22,https://open.spotify.com/search/Sobrio%20Maluma
+Peru,"Ed Sheeran, Fireboy DML",2,2021,12,23,2999,0,261286503,60,17,154,0,22,108,G,Minor,96,71,42,57,0,8,9,"https://open.spotify.com/search/Peru%20Ed%20Sheeran,%20Fireboy%20DML"
+favorite crime,Olivia Rodrigo,1,2021,5,21,3681,0,783706581,20,21,99,0,7,173,A,Major,40,19,29,86,0,34,4,https://open.spotify.com/search/favorite%20crime%20Olivia%20Rodrigo
+Thunder,"Prezioso, Gabry Ponte, LUM!X",3,2021,5,7,4846,10,422691058,54,16,259,0,13,101,C#,Major,67,40,90,3,0,34,6,"https://open.spotify.com/search/Thunder%20Prezioso,%20Gabry%20Ponte,%20LUM!X"
+The Business,Tiï¿½ï¿,1,2020,1,1,14311,0,1062345656,255,32,582,0,14,120,G#,Minor,80,24,62,41,2,11,23,https://open.spotify.com/search/The%20Business%20Tiï¿½ï¿
+positions,Ariana Grande,1,2020,10,23,8207,0,1252563873,175,55,95,0,2,144,,Major,73,66,80,44,0,9,12,https://open.spotify.com/search/positions%20Ariana%20Grande
+I WANNA BE YOUR SLAVE,Mï¿½ï¿½ne,1,2021,3,19,4873,0,851070493,65,88,434,3,13,133,C#,Major,75,96,61,0,0,18,4,https://open.spotify.com/search/I%20WANNA%20BE%20YOUR%20SLAVE%20Mï¿½ï¿½ne
+Vai Lï¿½ï¿½ Em Casa ,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, George Henrique &",2,2021,10,22,772,0,263894529,7,3,89,0,0,158,G#,Minor,46,62,83,53,0,97,28,"https://open.spotify.com/search/Vai%20Lï¿½ï¿½%20Em%20Casa%20%20Marï¿½ï¿½lia%20Mendonï¿½ï¿½a,%20George%20Henrique%20&"
+The Feels,TWICE,1,2021,10,1,1150,0,345903614,20,99,44,0,2,120,A,Major,81,92,90,9,0,8,7,https://open.spotify.com/search/The%20Feels%20TWICE
+HEARTBREAK ANNIVERSARY,Giveon,1,2020,2,21,5398,4,951637566,111,127,210,0,37,129,,Major,61,59,46,56,0,13,5,https://open.spotify.com/search/HEARTBREAK%20ANNIVERSARY%20Giveon
+No Lie,"Sean Paul, Dua Lipa",2,2016,11,18,7370,0,956865266,92,127,"1,219",0,62,102,G,Major,74,45,89,5,0,26,13,"https://open.spotify.com/search/No%20Lie%20Sean%20Paul,%20Dua%20Lipa"
+OUT OUT (feat. Charli XCX & Saweetie),"Charli XCX, Jax Jones, Joel Corry, Saweetie",4,2021,8,13,6890,0,427486004,122,11,201,0,1,124,G#,Minor,79,79,84,2,0,5,5,"https://open.spotify.com/search/OUT%20OUT%20(feat.%20Charli%20XCX%20&%20Saweetie)%20Charli%20XCX,%20Jax%20Jones,%20Joel%20Corry,%20Saweetie"
+Pope Is a Rockstar,SALES,1,2016,4,20,1966,0,156658366,4,2,50,0,0,90,E,Minor,73,31,45,85,24,11,3,https://open.spotify.com/search/Pope%20Is%20a%20Rockstar%20SALES
+2055,Sleepy hallow,1,2021,4,14,2226,0,624515457,29,0,44,0,0,161,F#,Minor,78,65,52,46,0,12,31,https://open.spotify.com/search/2055%20Sleepy%20hallow
+Bored,Billie Eilish,1,2017,3,30,4204,0,777765388,39,45,250,0,0,120,G,Major,60,11,33,90,0,8,5,https://open.spotify.com/search/Bored%20Billie%20Eilish
+Happier Than Ever - Edit,Billie Eilish,1,2021,7,28,1959,0,412795151,19,0,38,0,0,81,,Major,45,12,57,7,0,23,3,https://open.spotify.com/search/Happier%20Than%20Ever%20-%20Edit%20Billie%20Eilish
+Astronaut In The Ocean,Masked Wolf,1,2019,1,1,7191,0,1138474110,146,18,478,0,7,150,E,Minor,78,47,70,18,0,15,9,https://open.spotify.com/search/Astronaut%20In%20The%20Ocean%20Masked%20Wolf
+Ley Seca,"Anuel Aa, Jhay Cortez",2,2021,9,2,2012,0,355219175,101,12,38,0,0,105,G#,Major,76,58,84,10,0,13,10,"https://open.spotify.com/search/Ley%20Seca%20Anuel%20Aa,%20Jhay%20Cortez"
+Every Summertime,NIKI,1,2021,8,10,1211,2,290228626,30,2,5,0,6,79,F#,Major,63,76,67,38,0,6,4,https://open.spotify.com/search/Every%20Summertime%20NIKI
+Talking To The Moon,Bruno Mars,1,2010,10,4,7109,2,1062956628,5,0,862,0,0,146,C#,Minor,52,7,61,51,0,11,3,https://open.spotify.com/search/Talking%20To%20The%20Moon%20Bruno%20Mars
+you broke me first,Tate McRae,1,2020,4,17,6638,0,1180094974,167,19,318,0,1,124,E,Major,64,8,37,79,0,9,5,https://open.spotify.com/search/you%20broke%20me%20first%20Tate%20McRae
+The Nights,Avicii,1,2014,1,1,17354,8,1456081449,92,122,"1,282",0,55,126,F#,Major,53,66,85,2,0,24,4,https://open.spotify.com/search/The%20Nights%20Avicii
+Take My Breath,The Weeknd,1,2021,8,6,6392,0,432702334,174,73,344,0,0,121,G#,Major,75,53,74,2,0,11,5,https://open.spotify.com/search/Take%20My%20Breath%20The%20Weeknd
+Way 2 Sexy (with Future & Young Thug),"Drake, Future, Young Thug",3,2021,9,3,5481,0,489945871,144,30,86,0,0,136,B,Minor,80,33,60,0,0,32,14,"https://open.spotify.com/search/Way%202%20Sexy%20(with%20Future%20&%20Young%20Thug)%20Drake,%20Future,%20Young%20Thug"
+Cï¿½ï¿½,Rauw Alejandro,1,2021,6,25,2636,3,465959382,36,82,39,0,5,102,A,Minor,77,26,63,58,0,11,5,https://open.spotify.com/search/Cï¿½ï¿½%20Rauw%20Alejandro
+Enemy - from the series Arcane League of Legends,"Imagine Dragons, League of Legends, Arcane",3,2021,10,27,824,0,1223481149,8,8,8,2,0,77,G,Major,73,54,74,23,0,41,23,"https://open.spotify.com/search/Enemy%20-%20from%20the%20series%20Arcane%20League%20of%20Legends%20Imagine%20Dragons,%20League%20of%20Legends,%20Arcane"
+Dance Monkey,Tones and I,1,2019,5,10,24529,0,2864791672,533,167,"3,595",6,,98,F#,Minor,82,54,59,69,0,18,10,https://open.spotify.com/search/Dance%20Monkey%20Tones%20and%20I
+Lucid Dreams,Juice WRLD,1,2017,6,15,14749,0,2288695111,188,34,710,0,5,84,B,Minor,44,22,48,38,0,33,24,https://open.spotify.com/search/Lucid%20Dreams%20Juice%20WRLD
+Quï¿½ï¿½ Mï¿½ï¿,"J Balvin, Maria Becerra",2,2021,1,28,8087,0,720825549,92,34,131,0,0,102,G#,Major,89,77,82,3,0,17,11,"https://open.spotify.com/search/Quï¿½ï¿½%20Mï¿½ï¿%20J%20Balvin,%20Maria%20Becerra"
+All of Me,John Legend,1,2013,8,1,27221,0,2086124197,308,118,"4,534",2,77,120,G#,Major,42,33,26,92,0,13,3,https://open.spotify.com/search/All%20of%20Me%20John%20Legend
+Smells Like Teen Spirit - Remastered 2021,Nirvana,1,1991,9,10,49991,9,1690192927,265,121,"12,367",4,160,117,C#,Major,52,73,91,0,0,11,7,https://open.spotify.com/search/Smells%20Like%20Teen%20Spirit%20-%20Remastered%202021%20Nirvana
+Arcade,Duncan Laurence,1,2019,3,7,6646,0,991336132,107,47,584,1,,72,A,Minor,45,27,33,82,0,14,4,https://open.spotify.com/search/Arcade%20Duncan%20Laurence
+Fair Trade (with Travis Scott),"Drake, Travis Scott",2,2021,9,3,5403,6,593917618,118,116,96,0,3,168,C#,Major,67,29,47,5,0,22,26,"https://open.spotify.com/search/Fair%20Trade%20(with%20Travis%20Scott)%20Drake,%20Travis%20Scott"
+Bar,"Tini, L-Gante",2,2021,11,11,755,4,200972675,22,3,0,0,0,94,C#,Major,52,68,69,13,0,33,8,"https://open.spotify.com/search/Bar%20Tini,%20L-Gante"
+The Rumbling (TV Size),SiM,1,2022,1,10,254,0,71014967,0,4,23,0,0,145,G#,Major,41,65,88,0,0,26,5,https://open.spotify.com/search/The%20Rumbling%20(TV%20Size)%20SiM
+family ties (with Kendrick Lamar),"Kendrick Lamar, Baby Keem",2,2021,8,27,6308,5,560222750,114,15,63,0,2,134,C#,Major,71,14,61,1,0,23,33,"https://open.spotify.com/search/family%20ties%20(with%20Kendrick%20Lamar)%20Kendrick%20Lamar,%20Baby%20Keem"
+Mr. Brightside,The Killers,1,2003,9,23,51979,15,1806617704,306,99,"5,063",2,120,148,C#,Major,35,24,93,0,0,10,8,https://open.spotify.com/search/Mr.%20Brightside%20The%20Killers
+Blessed-Cursed,ENHYPEN,1,2022,1,10,246,0,77337771,2,12,10,0,0,127,E,Minor,60,40,89,9,0,60,6,https://open.spotify.com/search/Blessed-Cursed%20ENHYPEN
+AM Remix,"J Balvin, Nio Garcia, Bad Bunny",3,2021,6,24,6556,0,528544703,93,5,67,1,0,172,F#,Minor,74,79,66,11,0,8,16,"https://open.spotify.com/search/AM%20Remix%20J%20Balvin,%20Nio%20Garcia,%20Bad%20Bunny"
+Streets,Doja Cat,1,2019,11,7,5728,0,865640097,85,87,179,0,12,90,B,Major,75,19,46,21,4,34,8,https://open.spotify.com/search/Streets%20Doja%20Cat
+Shallow,"Lady Gaga, Bradley Cooper",2,2018,9,27,16636,12,2159346687,368,155,"2,854",6,121,96,G,Major,57,30,40,38,0,26,3,"https://open.spotify.com/search/Shallow%20Lady%20Gaga,%20Bradley%20Cooper"
+Polaroid Love,ENHYPEN,1,2022,1,10,461,0,211372494,10,56,17,0,0,138,G,Minor,74,65,67,46,0,36,4,https://open.spotify.com/search/Polaroid%20Love%20ENHYPEN
+Leave Before You Love Me (with Jonas Brothers),"Marshmello, Jonas Brothers",2,2021,4,28,4893,4,651732901,143,24,110,0,70,120,G,Major,72,67,72,0,0,13,4,"https://open.spotify.com/search/Leave%20Before%20You%20Love%20Me%20(with%20Jonas%20Brothers)%20Marshmello,%20Jonas%20Brothers"
+Permission to Dance,BTS,1,2021,7,9,1801,2,608334048,77,134,74,0,2,125,A,Major,70,65,74,1,0,34,4,https://open.spotify.com/search/Permission%20to%20Dance%20BTS
+Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",4,2021,1,15,12043,0,863756573,209,54,710,0,18,123,D,Major,82,80,86,1,0,30,13,"https://open.spotify.com/search/Friday%20(feat.%20Mufasa%20&%20Hypeman)%20-%20Dopamine%20Re-Edit%20Riton,%20Nightcrawlers,%20Mufasa%20&%20Hypeman,%20Dopamine"
+RAPSTAR,Polo G,1,2021,4,9,4731,0,797402345,141,12,78,0,0,81,F#,Major,79,44,54,41,0,13,24,https://open.spotify.com/search/RAPSTAR%20Polo%20G
+'Till I Collapse,"Eminem, Nate Dogg",2,2002,5,26,22923,0,1695712020,78,46,"2,515",1,0,171,C#,Major,55,10,85,7,0,8,20,"https://open.spotify.com/search/'Till%20I%20Collapse%20Eminem,%20Nate%20Dogg"
+Memories,Maroon 5,1,2019,9,20,9974,2,1759567999,272,67,"1,066",1,19,91,B,Major,77,60,32,84,0,8,5,https://open.spotify.com/search/Memories%20Maroon%205
+Se Le Ve,"Arcangel, De La Ghetto, Justin Quiles, Lenny Tavï¿½ï¿½rez, Sech, Dalex, Dimelo Flow, Rich Music",8,2021,8,12,1560,0,223319934,72,0,0,0,0,84,G,Minor,56,61,76,10,0,14,11,"https://open.spotify.com/search/Se%20Le%20Ve%20Arcangel,%20De%20La%20Ghetto,%20Justin%20Quiles,%20Lenny%20Tavï¿½ï¿½rez,%20Sech,%20Dalex,%20Dimelo%20Flow,%20Rich%20Music"
+25k jacket (feat. Lil Baby),"Gunna, Lil Baby",2,2022,1,7,620,0,54937991,17,3,3,0,0,115,F,Minor,90,74,54,16,0,13,28,"https://open.spotify.com/search/25k%20jacket%20(feat.%20Lil%20Baby)%20Gunna,%20Lil%20Baby"
+When Iï¿½ï¿½ï¿½m Gone (with Katy ,"Katy Perry, Alesso",2,2021,12,29,3270,0,226897599,89,21,65,0,0,125,,Major,69,70,89,4,0,49,3,"https://open.spotify.com/search/When%20Iï¿½ï¿½ï¿½m%20Gone%20(with%20Katy%20%20Katy%20Perry,%20Alesso"
+Esqueï¿½ï¿½a-Me Se For C,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Maiara &",2,2021,10,14,580,0,258316038,24,92,93,0,0,122,F#,Minor,80,62,69,28,0,13,7,"https://open.spotify.com/search/Esqueï¿½ï¿½a-Me%20Se%20For%20C%20Marï¿½ï¿½lia%20Mendonï¿½ï¿½a,%20Maiara%20&"
+Miï¿½ï¿½n,"Tini, Maria Becerra",2,2021,4,29,3406,16,596152090,61,23,70,1,0,92,D,Major,85,92,54,16,0,29,7,"https://open.spotify.com/search/Miï¿½ï¿½n%20Tini,%20Maria%20Becerra"
+Sï¿½ï¿½,"Anuel Aa, Myke Towers, Jhay Cortez",3,2021,11,18,903,0,177129919,30,26,15,0,0,90,F#,Minor,63,75,75,17,0,11,8,"https://open.spotify.com/search/Sï¿½ï¿½%20Anuel%20Aa,%20Myke%20Towers,%20Jhay%20Cortez"
+MAMIII,"Karol G, Becky G",2,2022,2,10,6809,28,716591492,151,102,175,5,29,94,E,Minor,84,90,70,9,0,14,8,"https://open.spotify.com/search/MAMIII%20Karol%20G,%20Becky%20G"
+Still D.R.E.,"Dr. Dre, Snoop Dogg",2,1999,1,1,33966,0,1210599487,141,78,"6,591",1,0,93,B,Major,81,53,78,18,0,6,24,"https://open.spotify.com/search/Still%20D.R.E.%20Dr.%20Dre,%20Snoop%20Dogg"
+Stay Alive (Prod. SUGA of BTS),Jung Kook,1,2022,2,11,590,5,246376690,4,113,20,0,1,130,D,Minor,51,50,76,30,0,10,7,https://open.spotify.com/search/Stay%20Alive%20(Prod.%20SUGA%20of%20BTS)%20Jung%20Kook
+Boyfriend,Dove Cameron,1,2022,2,11,3766,0,496311364,76,0,102,0,2,180,G,Minor,35,23,61,23,0,19,6,https://open.spotify.com/search/Boyfriend%20Dove%20Cameron
+The Joker And The Queen (feat. Taylor Swift),"Ed Sheeran, Taylor Swift",2,2022,2,11,1430,0,146789379,46,1,34,0,0,134,,Major,53,31,31,92,0,28,3,"https://open.spotify.com/search/The%20Joker%20And%20The%20Queen%20(feat.%20Taylor%20Swift)%20Ed%20Sheeran,%20Taylor%20Swift"
+The Next Episode,"Dr. Dre, Snoop Dogg",2,1999,1,1,31762,0,843309044,142,40,"5,451",1,953,95,D#,Minor,92,31,89,3,0,8,25,"https://open.spotify.com/search/The%20Next%20Episode%20Dr.%20Dre,%20Snoop%20Dogg"
+Light Switch,Charlie Puth,1,2022,1,19,4049,0,500340342,119,6,85,1,1,184,F#,Major,69,91,63,11,0,9,31,https://open.spotify.com/search/Light%20Switch%20Charlie%20Puth
+City of Gods,"Kanye West, Alicia Keys, Fivio Foreign",3,2022,2,11,2096,0,107255472,34,3,30,0,0,147,G#,Minor,47,50,80,10,0,32,38,"https://open.spotify.com/search/City%20of%20Gods%20Kanye%20West,%20Alicia%20Keys,%20Fivio%20Foreign"
+Brividi,"Mahmood, Blanco",2,2022,2,2,1175,0,135079152,34,1,31,0,0,123,G,Major,52,44,60,40,0,26,3,"https://open.spotify.com/search/Brividi%20Mahmood,%20Blanco"
+Lost,Frank Ocean,1,2012,1,1,29499,11,822239726,124,27,587,0,4,123,A#,Minor,91,49,61,3,0,17,22,https://open.spotify.com/search/Lost%20Frank%20Ocean
+In Da Club,50 Cent,1,2002,1,1,30427,7,1202722675,235,106,"5,221",1,35,90,F#,Minor,90,79,71,26,0,7,37,https://open.spotify.com/search/In%20Da%20Club%2050%20Cent
+she's all i wanna be,Tate McRae,1,2022,2,4,2711,0,343197054,105,12,51,0,12,160,D,Minor,61,65,64,1,0,12,4,https://open.spotify.com/search/she's%20all%20i%20wanna%20be%20Tate%20McRae
+Ginseng Strip 2002,Yung Lean,1,2013,8,16,4310,0,240769997,13,0,113,1,3,115,C#,Major,60,37,71,8,0,48,4,https://open.spotify.com/search/Ginseng%20Strip%202002%20Yung%20Lean
+All For Us - from the HBO Original Series Euphoria,"Labrinth, Zendaya",2,2019,8,4,5342,0,426204830,33,123,7,0,4,141,D#,Major,37,17,67,2,0,34,9,"https://open.spotify.com/search/All%20For%20Us%20-%20from%20the%20HBO%20Original%20Series%20Euphoria%20Labrinth,%20Zendaya"
+Notion,The Rare Occasions,1,2016,8,5,2393,0,421135627,22,13,65,0,6,160,A,Major,31,30,88,7,0,8,8,https://open.spotify.com/search/Notion%20The%20Rare%20Occasions
+Formula,Labrinth,1,2019,10,4,3444,7,554875730,24,85,102,0,1,145,B,Major,57,23,66,4,6,15,4,https://open.spotify.com/search/Formula%20Labrinth
+Mount Everest,Labrinth,1,2019,6,21,5443,0,467727006,45,1,80,0,12,89,,Minor,46,43,43,23,8,8,22,https://open.spotify.com/search/Mount%20Everest%20Labrinth
+Excuses,"Intense, AP Dhillon, Gurinder Gill",3,2020,7,24,272,4,327498031,7,21,2,0,0,95,F,Minor,84,49,72,8,0,15,8,"https://open.spotify.com/search/Excuses%20Intense,%20AP%20Dhillon,%20Gurinder%20Gill"
+Cigarettes,Juice WRLD,1,2021,12,10,975,0,185408548,11,0,10,0,0,160,D,Major,60,47,62,3,0,38,4,https://open.spotify.com/search/Cigarettes%20Juice%20WRLD
+"Cayï¿½ï¿½ La Noche (feat. Cruz Cafunï¿½ï¿½, Abhir Hathi, Bejo, EL IMA)","Quevedo, La Pantera, Juseph, Cruz Cafunï¿½ï¿½, Bï¿½ï¿½jo, Abhir Hathi",7,2022,1,14,1034,1,245400167,19,5,12,0,0,174,F,Minor,67,74,75,44,0,7,30,"https://open.spotify.com/search/Cayï¿½ï¿½%20La%20Noche%20(feat.%20Cruz%20Cafunï¿½ï¿½,%20Abhir%20Hathi,%20Bejo,%20EL%20IMA)%20Quevedo,%20La%20Pantera,%20Juseph,%20Cruz%20Cafunï¿½ï¿½,%20Bï¿½ï¿½jo,%20Abhir%20Hathi"
+California Love - Original Version (Explicit),"Dr. Dre, 2Pac, Roger",3,1995,12,28,18773,0,579395142,128,17,"1,663",0,0,92,G,Major,77,76,84,3,0,38,4,"https://open.spotify.com/search/California%20Love%20-%20Original%20Version%20(Explicit)%20Dr.%20Dre,%202Pac,%20Roger"
+Forgot About Dre,"Eminem, Dr. Dre",2,1999,1,1,19067,0,675039469,78,15,"1,674",0,3,134,G#,Major,93,61,74,9,0,17,8,"https://open.spotify.com/search/Forgot%20About%20Dre%20Eminem,%20Dr.%20Dre"
+Down Under (feat. Colin Hay),"Luude, Colin Hay",2,2021,11,19,3541,2,252871192,57,13,50,1,7,172,B,Minor,31,4,86,1,0,28,17,"https://open.spotify.com/search/Down%20Under%20(feat.%20Colin%20Hay)%20Luude,%20Colin%20Hay"
+Mujeriego,Ryan Castro,1,2021,12,17,1492,0,231996128,44,63,91,0,24,80,A,Major,76,92,62,6,0,8,13,https://open.spotify.com/search/Mujeriego%20Ryan%20Castro
+HUMBLE.,Kendrick Lamar,1,2017,3,30,33206,1,1929770265,284,114,"1,481",0,5,150,C#,Minor,91,42,60,0,0,9,12,https://open.spotify.com/search/HUMBLE.%20Kendrick%20Lamar
+Stan,"Eminem, Dido",2,1999,11,21,17115,0,918915401,83,63,"4,180",0,0,80,F#,Minor,78,53,74,4,0,45,21,"https://open.spotify.com/search/Stan%20Eminem,%20Dido"
+Contection,"GODZZ__-, Zakaria",2,2020,1,16,6955,0,1180896317,65,45,398,0,1,166,A#,Minor,81,83,75,14,0,29,34,"https://open.spotify.com/search/Contection%20GODZZ__-,%20Zakaria"
+Swim,Chase Atlantic,1,2017,10,4,2742,0,498960285,5,1,62,0,0,120,G#,Major,67,8,54,27,0,8,4,https://open.spotify.com/search/Swim%20Chase%20Atlantic
+A Tu Merced,Bad Bunny,1,2020,2,29,4214,11,685071800,21,20,40,0,0,92,,Major,86,89,79,17,0,11,6,https://open.spotify.com/search/A%20Tu%20Merced%20Bad%20Bunny
+Numb Little Bug,Em Beihold,1,2022,1,28,2026,0,258714692,47,3,42,12,6,85,G#,Minor,74,61,52,30,0,26,9,https://open.spotify.com/search/Numb%20Little%20Bug%20Em%20Beihold
+212,"Mainstreet, Chefin",2,2022,1,15,352,0,143139338,10,0,39,0,0,154,D,Minor,79,86,52,66,0,9,7,"https://open.spotify.com/search/212%20Mainstreet,%20Chefin"
+Problemï¿½,"Alvaro Diaz, Rauw Alejandro",2,2021,10,22,1517,0,209768491,42,7,15,0,4,92,D,Minor,73,37,74,28,0,14,6,"https://open.spotify.com/search/Problemï¿½%20Alvaro%20Diaz,%20Rauw%20Alejandro"
+Bussin,"Nicki Minaj, Lil Baby",2,2022,2,11,847,0,64714573,25,0,14,0,0,140,B,Major,89,75,70,6,0,13,5,"https://open.spotify.com/search/Bussin%20Nicki%20Minaj,%20Lil%20Baby"
+Worst Day,Future,1,2022,2,11,910,0,50746620,20,3,24,0,0,89,C#,Major,65,60,60,11,0,10,40,https://open.spotify.com/search/Worst%20Day%20Future
+Malvada,Zï¿½ï¿½ Fe,1,2022,1,28,601,0,154119539,28,73,64,0,0,135,F,Minor,89,89,86,16,0,8,5,https://open.spotify.com/search/Malvada%20Zï¿½ï¿½%20Fe
+Hrs and Hrs,Muni Long,1,2021,11,19,1800,0,181328253,43,36,46,13,4,140,G#,Minor,51,66,53,60,0,11,18,https://open.spotify.com/search/Hrs%20and%20Hrs%20Muni%20Long
+Alien Blues,Vundabar,1,2015,7,24,1930,0,370068639,3,0,28,0,1,82,D#,Major,47,44,76,8,91,9,3,https://open.spotify.com/search/Alien%20Blues%20Vundabar
+Thinking Out Loud,Ed Sheeran,1,2014,1,1,33032,0,2280566092,363,129,"3,895",0,28,79,D,Major,78,58,45,47,0,18,3,https://open.spotify.com/search/Thinking%20Out%20Loud%20Ed%20Sheeran
+Still Don't Know My Name,Labrinth,1,2019,10,4,6332,0,563902868,47,116,266,0,0,88,F,Major,31,31,63,47,27,21,12,https://open.spotify.com/search/Still%20Don't%20Know%20My%20Name%20Labrinth
+Christmas Tree,V,1,2021,12,24,509,9,317622165,8,106,6,0,8,139,F,Major,44,18,38,70,0,12,4,https://open.spotify.com/search/Christmas%20Tree%20V
+Mal Feito - Ao Vivo,"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Hugo & G",2,2022,1,14,971,2,291709698,35,104,93,1,0,124,,Minor,73,68,83,55,0,90,7,"https://open.spotify.com/search/Mal%20Feito%20-%20Ao%20Vivo%20Marï¿½ï¿½lia%20Mendonï¿½ï¿½a,%20Hugo%20&%20G"
+When I R.I.P.,Labrinth,1,2019,10,4,2578,0,203680270,8,67,66,0,0,80,G#,Minor,39,45,55,73,0,9,21,https://open.spotify.com/search/When%20I%20R.I.P.%20Labrinth
+Do We Have A Problem?,"Nicki Minaj, Lil Baby",2,2022,2,4,1064,0,81350745,42,1,26,0,0,120,C#,Minor,84,54,51,47,0,12,40,"https://open.spotify.com/search/Do%20We%20Have%20A%20Problem?%20Nicki%20Minaj,%20Lil%20Baby"
+Forever,Labrinth,1,2019,10,4,3618,0,282883169,21,86,138,0,2,80,E,Minor,56,19,46,92,72,11,3,https://open.spotify.com/search/Forever%20Labrinth
+Gospel (with Eminem),"Eminem, Dr. Dre",2,2022,2,4,1040,0,64787943,8,0,29,0,0,117,C#,Major,92,62,86,11,0,24,24,"https://open.spotify.com/search/Gospel%20(with%20Eminem)%20Eminem,%20Dr.%20Dre"
+Seï¿½ï¿½o,"Shawn Mendes, Camila Cabello",2,2019,6,19,15010,2,2484812918,453,50,"1,785",1,8,117,A,Minor,76,77,52,4,0,8,3,"https://open.spotify.com/search/Seï¿½ï¿½o%20Shawn%20Mendes,%20Camila%20Cabello"
+NEW MAGIC WAND,"Tyler, The Creator",2,2019,5,16,4708,0,461437791,13,7,55,0,1,140,F,Minor,62,46,73,10,0,67,11,"https://open.spotify.com/search/NEW%20MAGIC%20WAND%20Tyler,%20The%20Creator"
+Adore You,Harry Styles,1,2019,12,6,13454,1,1439191367,246,71,519,2,5,99,G#,Major,68,57,77,2,0,10,5,https://open.spotify.com/search/Adore%20You%20Harry%20Styles
+La Santa,"Daddy Yankee, Bad Bunny",2,2020,2,29,4890,20,759208783,52,42,100,0,0,93,C#,Major,74,59,87,3,0,8,5,"https://open.spotify.com/search/La%20Santa%20Daddy%20Yankee,%20Bad%20Bunny"
+Something In The Way - Remastered 2021,Nirvana,1,1991,9,24,9514,0,368646862,45,27,"1,197",0,43,106,G#,Major,44,8,20,74,42,11,3,https://open.spotify.com/search/Something%20In%20The%20Way%20-%20Remastered%202021%20Nirvana
+Sweetest Pie,"Dua Lipa, Megan Thee Stallion",2,2022,3,11,3501,0,299634472,69,2,51,11,0,124,G,Major,81,68,63,17,0,10,22,"https://open.spotify.com/search/Sweetest%20Pie%20Dua%20Lipa,%20Megan%20Thee%20Stallion"
+Bam Bam (feat. Ed Sheeran),"Camila Cabello, Ed Sheeran",2,2022,3,4,6111,4,756907987,185,40,492,9,35,95,G#,Major,76,96,70,18,0,33,4,"https://open.spotify.com/search/Bam%20Bam%20(feat.%20Ed%20Sheeran)%20Camila%20Cabello,%20Ed%20Sheeran"
+Una Noche en Medellï¿½,Cris Mj,1,2022,1,21,5415,32,682475162,46,16,53,1,2,96,A#,Minor,87,82,53,10,0,5,8,https://open.spotify.com/search/Una%20Noche%20en%20Medellï¿½%20Cris%20Mj
+Envolver,Anitta,1,2021,11,11,4673,2,546191065,123,113,180,1,4,92,E,Minor,81,40,73,15,0,9,8,https://open.spotify.com/search/Envolver%20Anitta
+Starlight,Dave,1,2022,3,3,1856,3,229473310,29,40,31,1,1,124,G,Major,95,36,37,35,0,10,28,https://open.spotify.com/search/Starlight%20Dave
+Hati-Hati di Jalan,Tulus,1,2022,3,3,200,2,202677468,12,4,0,0,0,72,F#,Major,64,76,44,70,9,12,4,https://open.spotify.com/search/Hati-Hati%20di%20Jalan%20Tulus
+"I'm Tired - From ""Euphoria"" An Original HBO Series",Labrinth,1,2022,2,4,1888,0,121913181,26,1,58,0,0,71,,Minor,28,26,20,19,0,30,3,"https://open.spotify.com/search/I'm%20Tired%20-%20From%20""Euphoria""%20An%20Original%20HBO%20Series%20Labrinth"
+DANï¿½ï¿½A,"Mc Pedrinho, Pedro Sampaio",2,2022,2,1,911,2,208166039,45,0,99,1,1,135,A,Minor,78,55,57,4,0,10,8,"https://open.spotify.com/search/DANï¿½ï¿½A%20Mc%20Pedrinho,%20Pedro%20Sampaio"
+Yo Voy (feat. Daddy Yankee),Zion & Lennox,1,2004,5,4,2954,2,527033089,18,82,0,0,5,95,A#,Major,81,56,70,4,0,5,24,https://open.spotify.com/search/Yo%20Voy%20(feat.%20Daddy%20Yankee)%20Zion%20&%20Lennox
+"Residente: Bzrp Music Sessions, Vol. 49","Residente, Bizarrap",2,2022,3,3,461,0,94616487,7,11,13,0,0,71,C#,Minor,59,70,74,56,0,11,40,"https://open.spotify.com/search/Residente:%20Bzrp%20Music%20Sessions,%20Vol.%2049%20Residente,%20Bizarrap"
+Jordan,Ryan Castro,1,2021,4,30,2844,2,394030335,29,2,35,1,0,180,A#,Minor,80,71,68,6,0,10,37,https://open.spotify.com/search/Jordan%20Ryan%20Castro
+Nail Tech,Jack Harlow,1,2022,2,18,2939,0,193443895,42,0,24,0,0,150,E,Minor,65,11,58,0,0,12,9,https://open.spotify.com/search/Nail%20Tech%20Jack%20Harlow
+Chale,Eden Muï¿½ï,1,2022,2,18,695,11,299648208,16,41,13,1,1,189,G#,Major,55,86,44,40,0,7,4,https://open.spotify.com/search/Chale%20Eden%20Muï¿½ï
+DARARI,Treasure,1,2022,2,15,328,0,182978249,10,21,7,0,9,85,,Major,72,55,64,49,0,7,4,https://open.spotify.com/search/DARARI%20Treasure
+Ya No Somos Ni Seremos,Christian Nodal,1,2022,2,18,866,16,319757142,27,84,32,7,11,140,G,Major,59,73,45,44,0,34,3,https://open.spotify.com/search/Ya%20No%20Somos%20Ni%20Seremos%20Christian%20Nodal
+Thinking with My Dick,"Kevin Gates, Juicy J",2,2013,7,16,1550,0,109091573,0,0,14,0,0,81,,Major,77,68,70,6,0,17,20,"https://open.spotify.com/search/Thinking%20with%20My%20Dick%20Kevin%20Gates,%20Juicy%20J"
+Freaky Deaky,"Tyga, Doja Cat",2,2022,2,25,1729,0,153240879,26,1,19,0,0,104,D,Minor,80,24,65,2,0,9,4,"https://open.spotify.com/search/Freaky%20Deaky%20Tyga,%20Doja%20Cat"
+this is what falling in love feels like,JVKE,1,2021,9,3,2005,0,346127840,16,5,43,0,7,129,B,Major,42,33,44,62,0,8,6,https://open.spotify.com/search/this%20is%20what%20falling%20in%20love%20feels%20like%20JVKE
+La Zona,Bad Bunny,1,2020,2,29,1188,0,312622938,13,1,15,0,1,94,C#,Minor,76,81,80,20,0,25,4,https://open.spotify.com/search/La%20Zona%20Bad%20Bunny
+Bohemian Rhapsody - Remastered 2011,Queen,1,1975,10,31,40112,3,2197010679,321,162,"5,691",8,17,71,,Minor,41,23,40,27,0,30,5,https://open.spotify.com/search/Bohemian%20Rhapsody%20-%20Remastered%202011%20Queen
+Hope,XXXTENTACION,1,2018,3,16,3659,0,1200808494,11,10,267,0,7,146,A,Minor,59,23,46,66,0,15,6,https://open.spotify.com/search/Hope%20XXXTENTACION
+Levitating,Dua Lipa,1,2020,3,27,9833,0,797196073,233,82,531,1,1,103,F#,Minor,69,90,88,5,0,29,8,https://open.spotify.com/search/Levitating%20Dua%20Lipa
+Wake Me Up - Radio Edit,Avicii,1,2013,1,1,50887,34,1970673297,315,160,"6,284",1,46,124,D,Major,53,66,78,0,0,16,5,https://open.spotify.com/search/Wake%20Me%20Up%20-%20Radio%20Edit%20Avicii
+"jealousy, jealousy",Olivia Rodrigo,1,2021,5,21,3257,0,665765558,10,0,70,0,0,164,A#,Minor,70,71,58,24,0,7,13,"https://open.spotify.com/search/jealousy,%20jealousy%20Olivia%20Rodrigo"
+Monï¿½ï¿½y so,YEAT,1,2021,9,10,1473,0,263779030,2,0,12,0,10,138,D,Major,69,35,57,12,0,10,9,https://open.spotify.com/search/Monï¿½ï¿½y%20so%20YEAT
+Demasiadas Mujeres,C. Tangana,1,2020,10,8,2226,0,339473453,36,2,11,0,14,126,A,Minor,67,37,46,13,0,10,39,https://open.spotify.com/search/Demasiadas%20Mujeres%20C.%20Tangana
+Something Just Like This,"The Chainsmokers, Coldplay",2,2017,2,22,23375,21,2204080728,336,188,"2,692",3,30,103,B,Minor,61,47,65,3,0,17,4,"https://open.spotify.com/search/Something%20Just%20Like%20This%20The%20Chainsmokers,%20Coldplay"
+Closer,"The Chainsmokers, Halsey",2,2016,5,31,28032,0,2591224264,315,159,"2,179",0,44,95,G#,Major,75,64,52,41,0,11,3,"https://open.spotify.com/search/Closer%20The%20Chainsmokers,%20Halsey"
+O.O,NMIXX,1,2022,2,22,290,0,135444283,9,66,10,0,0,200,B,Minor,39,28,77,4,0,6,29,https://open.spotify.com/search/O.O%20NMIXX
+Somebody That I Used To Know,"Gotye, Kimbra",2,2011,1,1,42798,0,1457139296,217,136,"6,508",1,,129,,Major,86,75,52,54,0,10,4,"https://open.spotify.com/search/Somebody%20That%20I%20Used%20To%20Know%20Gotye,%20Kimbra"
+Tom's Diner,"AnnenMayKantereit, Giant Rooks",2,2019,6,28,2605,0,236872197,15,48,50,0,3,98,F#,Minor,68,33,43,38,0,36,14,"https://open.spotify.com/search/Tom's%20Diner%20AnnenMayKantereit,%20Giant%20Rooks"
+First Class,Jack Harlow,1,2022,4,8,8737,0,694525298,163,32,137,15,12,107,G#,Major,91,32,56,3,0,11,10,https://open.spotify.com/search/First%20Class%20Jack%20Harlow
+Plan A,Paulo Londra,1,2022,3,23,1105,0,240661097,32,0,19,0,0,174,,Major,58,56,83,5,0,7,4,https://open.spotify.com/search/Plan%20A%20Paulo%20Londra
+Fuera del mercado,Danny Ocean,1,2022,2,17,2499,21,421365166,68,24,43,1,0,92,G#,Major,45,27,67,32,0,13,14,https://open.spotify.com/search/Fuera%20del%20mercado%20Danny%20Ocean
+X ï¿½ï¿½LTIMA,"Daddy Yankee, Bad Bunny",2,2022,3,25,2697,1,349746291,55,3,32,0,0,90,G,Major,81,59,83,9,0,11,5,"https://open.spotify.com/search/X%20ï¿½ï¿½LTIMA%20Daddy%20Yankee,%20Bad%20Bunny"
+When You're Gone,Shawn Mendes,1,2022,3,31,2092,0,255120451,75,11,44,0,14,147,F,Major,60,58,69,2,0,58,4,https://open.spotify.com/search/When%20You're%20Gone%20Shawn%20Mendes
+In My Head,Lil Tjay,1,2022,4,1,1185,0,190981339,21,0,31,0,0,143,C#,Major,68,41,55,16,0,10,12,https://open.spotify.com/search/In%20My%20Head%20Lil%20Tjay
+Wait a Minute!,Willow,1,2015,1,11,11985,0,924193303,79,80,250,3,10,101,D#,Minor,76,63,71,3,0,10,3,https://open.spotify.com/search/Wait%20a%20Minute!%20Willow
+LOVE DIVE,IVE,1,2022,4,5,753,8,305771063,28,124,13,0,1,118,C#,Minor,70,54,71,0,0,33,4,https://open.spotify.com/search/LOVE%20DIVE%20IVE
+Pantysito,"Feid, Alejo, Robi",3,2022,3,18,2995,0,273005485,49,17,30,0,0,98,G,Minor,83,63,74,14,0,16,6,"https://open.spotify.com/search/Pantysito%20Feid,%20Alejo,%20Robi"
+Chance,Paulo Londra,1,2022,4,6,225,0,89566512,11,0,7,0,0,138,C#,Minor,72,22,46,24,0,9,6,https://open.spotify.com/search/Chance%20Paulo%20Londra
+Cool for the Summer,Demi Lovato,1,2015,1,1,9243,0,677389855,155,5,577,0,6,114,F,Minor,59,30,62,1,0,8,4,https://open.spotify.com/search/Cool%20for%20the%20Summer%20Demi%20Lovato
+psychofreak (feat. WILLOW),"Camila Cabello, Willow",2,2022,4,7,918,0,75476209,24,0,52,0,0,180,G,Minor,63,45,64,34,0,9,8,"https://open.spotify.com/search/psychofreak%20(feat.%20WILLOW)%20Camila%20Cabello,%20Willow"
+Angel Baby,Troye Sivan,1,2021,9,9,1959,9,408843328,52,25,32,0,10,145,B,Major,56,41,57,1,0,13,3,https://open.spotify.com/search/Angel%20Baby%20Troye%20Sivan
+Vampiro,"Matuï¿½ï¿½, Wiu, ",3,2022,1,30,540,4,187772591,26,3,39,0,0,115,G#,Minor,78,63,64,1,0,7,4,"https://open.spotify.com/search/Vampiro%20Matuï¿½ï¿½,%20Wiu,%20"
+Si Quieren Frontear,"De La Ghetto, Duki, Quevedo",3,2022,3,31,859,0,178512385,14,0,11,0,0,82,A#,Major,79,48,84,13,0,21,23,"https://open.spotify.com/search/Si%20Quieren%20Frontear%20De%20La%20Ghetto,%20Duki,%20Quevedo"
+Right On,Lil Baby,1,2022,4,8,1116,0,101780047,31,9,15,0,1,166,D,Major,70,22,61,2,0,10,34,https://open.spotify.com/search/Right%20On%20Lil%20Baby
+Me Arrepentï¿,"Ak4:20, Cris Mj, Pailita",3,2022,3,30,273,2,118381354,12,2,4,0,0,92,,Major,86,91,79,29,0,60,16,"https://open.spotify.com/search/Me%20Arrepentï¿%20Ak4:20,%20Cris%20Mj,%20Pailita"
+That's Hilarious,Charlie Puth,1,2022,4,8,686,2,146363130,11,6,12,0,15,108,F#,Major,71,55,44,74,0,11,6,https://open.spotify.com/search/That's%20Hilarious%20Charlie%20Puth
+Soy El Unico,Yahritza Y Su Esencia,1,2022,3,25,226,0,126443991,5,0,4,0,1,84,E,Minor,71,63,45,45,0,11,3,https://open.spotify.com/search/Soy%20El%20Unico%20Yahritza%20Y%20Su%20Esencia
+RUMBATï¿½,Daddy Yankee,1,2022,3,25,1264,0,157990698,20,4,52,0,1,95,D#,Minor,69,90,91,6,0,35,4,https://open.spotify.com/search/RUMBATï¿½%20Daddy%20Yankee
+sentaDONA (Remix) s2,"Luï¿½ï¿½sa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",4,2022,3,17,870,0,176290831,32,0,49,0,0,135,D#,Minor,93,77,45,25,0,13,27,"https://open.spotify.com/search/sentaDONA%20(Remix)%20s2%20Luï¿½ï¿½sa%20Sonza,%20MC%20Frog,%20Dj%20Gabriel%20do%20Borel,%20Davi%20K"
+Falling,Harry Styles,1,2019,12,13,7556,0,1023187129,124,24,254,0,8,110,E,Major,57,6,27,84,0,9,3,https://open.spotify.com/search/Falling%20Harry%20Styles
+Sigue,"Ed Sheeran, J Balvin",2,1996,11,24,1370,0,106933107,46,8,60,0,0,88,G,Major,89,59,64,5,0,19,7,"https://open.spotify.com/search/Sigue%20Ed%20Sheeran,%20J%20Balvin"
+Fim de Semana no Rio,teto,1,2022,3,30,315,2,139193812,27,2,31,0,0,119,C#,Minor,87,28,50,12,0,10,10,https://open.spotify.com/search/Fim%20de%20Semana%20no%20Rio%20teto
+MANIAC,Stray Kids,1,2022,3,18,651,0,212234990,6,188,20,0,0,120,C#,Major,58,71,80,15,0,7,41,https://open.spotify.com/search/MANIAC%20Stray%20Kids
+There's Nothing Holdin' Me Back,Shawn Mendes,1,2016,9,23,12382,0,1714490998,229,57,"1,370",2,71,122,D,Major,86,97,80,36,0,9,6,https://open.spotify.com/search/There's%20Nothing%20Holdin'%20Me%20Back%20Shawn%20Mendes
+IDGAF (with blackbear),"Blackbear, BoyWithUke",2,2022,3,18,625,0,197643795,10,2,13,0,1,98,F,Major,78,83,75,41,0,27,8,"https://open.spotify.com/search/IDGAF%20(with%20blackbear)%20Blackbear,%20BoyWithUke"
+Golden,Harry Styles,1,2019,12,13,8429,1,807015863,85,24,200,0,2,140,E,Minor,45,25,84,21,0,13,6,https://open.spotify.com/search/Golden%20Harry%20Styles
+Get Lucky - Radio Edit,"Pharrell Williams, Nile Rodgers, Daft Punk",3,2013,1,1,52898,0,933815613,203,1,"8,215",0,0,116,F#,Minor,79,87,81,4,0,10,4,"https://open.spotify.com/search/Get%20Lucky%20-%20Radio%20Edit%20Pharrell%20Williams,%20Nile%20Rodgers,%20Daft%20Punk"
+Ain't Shit,Doja Cat,1,2021,6,25,3436,0,499710590,32,6,46,0,1,124,D#,Major,86,62,49,51,0,35,21,https://open.spotify.com/search/Ain't%20Shit%20Doja%20Cat
+"Nobody Like U - From ""Turning Red""","Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red), Topher Ngo, Grayson Vill",6,2022,2,25,918,0,120847157,34,39,30,0,0,105,A,Minor,91,73,72,13,0,9,15,"https://open.spotify.com/search/Nobody%20Like%20U%20-%20From%20""Turning%20Red""%20Jordan%20Fisher,%20Josh%20Levi,%20Finneas%20O'Connell,%204*TOWN%20(From%20Disney%20and%20Pixarï¿½ï¿½ï¿½s%20Turning%20Red),%20Topher%20Ngo,%20Grayson%20Vill"
+Still Life,BIGBANG,1,2022,4,5,181,0,53909146,16,14,7,0,0,118,G#,Major,68,24,58,44,0,6,3,https://open.spotify.com/search/Still%20Life%20BIGBANG
+Photograph,Ed Sheeran,1,2014,6,20,18778,3,2236667932,228,105,"2,453",0,84,108,E,Major,61,20,38,61,0,10,5,https://open.spotify.com/search/Photograph%20Ed%20Sheeran
+Love Yourself,Justin Bieber,1,2015,11,9,22730,5,2123309722,289,87,"2,430",0,36,100,E,Major,61,53,38,84,0,28,44,https://open.spotify.com/search/Love%20Yourself%20Justin%20Bieber
+N95,Kendrick Lamar,1,2022,5,13,5542,0,301242089,52,16,65,0,206,140,D#,Minor,81,39,66,38,0,12,14,https://open.spotify.com/search/N95%20Kendrick%20Lamar
+About Damn Time,Lizzo,1,2022,4,14,9021,0,723894473,242,49,272,21,24,109,A#,Minor,84,72,74,10,0,34,7,https://open.spotify.com/search/About%20Damn%20Time%20Lizzo
+Die Hard,"Kendrick Lamar, Blxst, Amanda Reifer",3,2022,5,13,4627,0,237351106,38,13,32,0,0,101,C#,Minor,78,40,74,36,0,17,27,"https://open.spotify.com/search/Die%20Hard%20Kendrick%20Lamar,%20Blxst,%20Amanda%20Reifer"
+Despuï¿½ï¿½s de la P,Bad Bunny,1,2022,5,6,2229,0,461558540,27,44,24,0,5,78,F,Major,56,61,90,36,0,18,31,https://open.spotify.com/search/Despuï¿½ï¿½s%20de%20la%20P%20Bad%20Bunny
+Un Ratito,Bad Bunny,1,2022,5,6,1112,6,417230415,7,30,13,1,1,93,,Minor,79,22,55,31,0,12,5,https://open.spotify.com/search/Un%20Ratito%20Bad%20Bunny
+United In Grief,Kendrick Lamar,1,2022,5,13,2575,0,156898322,4,5,12,0,51,87,G#,Major,52,32,83,24,0,17,43,https://open.spotify.com/search/United%20In%20Grief%20Kendrick%20Lamar
+Father Time (feat. Sampha),"Kendrick Lamar, Sampha",2,2022,5,13,3107,0,127309180,4,0,22,0,0,153,A#,Minor,55,50,78,19,0,11,35,"https://open.spotify.com/search/Father%20Time%20(feat.%20Sampha)%20Kendrick%20Lamar,%20Sampha"
+Yo No Soy Celoso,Bad Bunny,1,2022,5,6,1179,0,313113297,7,21,11,0,0,142,,Major,87,93,59,28,0,17,5,https://open.spotify.com/search/Yo%20No%20Soy%20Celoso%20Bad%20Bunny
+Rich Spirit,Kendrick Lamar,1,2022,5,13,3486,0,173702135,20,10,33,0,0,96,A#,Minor,85,41,43,39,0,12,21,https://open.spotify.com/search/Rich%20Spirit%20Kendrick%20Lamar
+Cooped Up (with Roddy Ricch),"Post Malone, Roddy Ricch",2,2022,5,12,2942,0,271666301,42,28,43,0,0,125,,Major,50,39,78,4,0,11,33,"https://open.spotify.com/search/Cooped%20Up%20(with%20Roddy%20Ricch)%20Post%20Malone,%20Roddy%20Ricch"
+Me Fui de Vacaciones,Bad Bunny,1,2022,5,6,1443,0,305650299,9,11,22,1,0,85,A#,Major,71,43,65,23,0,9,5,https://open.spotify.com/search/Me%20Fui%20de%20Vacaciones%20Bad%20Bunny
+Silent Hill,"Kendrick Lamar, Kodak Black",2,2022,5,13,3028,0,123216717,22,0,23,0,0,140,C#,Minor,92,78,57,46,0,14,9,"https://open.spotify.com/search/Silent%20Hill%20Kendrick%20Lamar,%20Kodak%20Black"
+La Corriente,"Tony Dize, Bad Bunny",2,2022,5,6,1796,8,479655659,8,25,18,1,0,196,B,Minor,66,58,79,23,0,22,20,"https://open.spotify.com/search/La%20Corriente%20Tony%20Dize,%20Bad%20Bunny"
+Count Me Out,Kendrick Lamar,1,2022,5,13,2729,0,126191104,3,7,13,0,1,134,G,Major,78,51,43,69,0,14,9,https://open.spotify.com/search/Count%20Me%20Out%20Kendrick%20Lamar
+Andrea,"Buscabulla, Bad Bunny",2,2022,5,6,1195,0,344055883,8,30,13,1,1,103,C#,Minor,80,45,62,76,0,10,38,"https://open.spotify.com/search/Andrea%20Buscabulla,%20Bad%20Bunny"
+Dos Mil 16,Bad Bunny,1,2022,5,6,892,3,338422004,10,24,11,0,0,130,C#,Major,82,50,67,12,0,13,5,https://open.spotify.com/search/Dos%20Mil%2016%20Bad%20Bunny
+We Cry Together,"Kendrick Lamar, Taylour Paige",2,2022,5,13,1635,0,68895644,4,1,6,0,0,108,B,Major,65,52,69,31,0,8,36,"https://open.spotify.com/search/We%20Cry%20Together%20Kendrick%20Lamar,%20Taylour%20Paige"
+Savior,"Kendrick Lamar, Sam Dew, Baby Keem",3,2022,5,13,2291,0,86176890,9,0,8,0,0,123,G#,Major,61,66,71,53,0,32,46,"https://open.spotify.com/search/Savior%20Kendrick%20Lamar,%20Sam%20Dew,%20Baby%20Keem"
+Un Coco,Bad Bunny,1,2022,5,6,1029,28,403231558,5,28,9,0,0,152,B,Major,84,74,69,21,0,18,6,https://open.spotify.com/search/Un%20Coco%20Bad%20Bunny
+Otro Atardecer,"Bad Bunny, The Marï¿½ï",2,2022,5,6,1681,7,319546754,10,30,13,0,33,108,D,Major,78,55,60,59,0,7,4,"https://open.spotify.com/search/Otro%20Atardecer%20Bad%20Bunny,%20The%20Marï¿½ï"
+Worldwide Steppers,Kendrick Lamar,1,2022,5,13,1480,0,61739839,1,0,5,0,0,72,A#,Minor,56,56,47,76,0,8,36,https://open.spotify.com/search/Worldwide%20Steppers%20Kendrick%20Lamar
+Aguacero,Bad Bunny,1,2022,5,6,829,0,283359161,4,15,10,0,0,121,F#,Minor,86,67,65,42,0,35,7,https://open.spotify.com/search/Aguacero%20Bad%20Bunny
+Purple Hearts,"Kendrick Lamar, Ghostface Killah, Summer Walker",3,2022,5,13,2308,0,76831876,7,0,7,0,0,138,D#,Minor,57,71,82,19,0,15,29,"https://open.spotify.com/search/Purple%20Hearts%20Kendrick%20Lamar,%20Ghostface%20Killah,%20Summer%20Walker"
+Un Verano Sin Ti,Bad Bunny,1,2022,5,6,1004,1,283332261,8,12,9,0,0,188,F,Minor,50,41,50,69,0,12,6,https://open.spotify.com/search/Un%20Verano%20Sin%20Ti%20Bad%20Bunny
+ULTRA SOLO,"Polima WestCoast, Pailita",2,2022,2,14,1367,0,307752576,48,4,34,1,0,110,C#,Major,80,26,85,23,0,11,21,"https://open.spotify.com/search/ULTRA%20SOLO%20Polima%20WestCoast,%20Pailita"
+Ensï¿½ï¿½ï¿½ï¿½ame ,Bad Bunny,1,2022,5,6,1112,3,279737940,7,25,12,0,0,105,G#,Major,81,77,79,19,0,47,8,https://open.spotify.com/search/Ensï¿½ï¿½ï¿½ï¿½ame%20%20Bad%20Bunny
+El Apagï¿½,Bad Bunny,1,2022,5,6,1209,0,212351890,9,7,14,0,1,118,G#,Major,63,60,70,5,0,9,31,https://open.spotify.com/search/El%20Apagï¿½%20Bad%20Bunny
+Callaita,"Bad Bunny, Tainy",2,2019,5,31,9539,15,1304313953,162,116,355,7,0,176,D,Major,61,24,62,60,0,24,31,"https://open.spotify.com/search/Callaita%20Bad%20Bunny,%20Tainy"
+Dua Lipa,Jack Harlow,1,2022,5,6,1992,0,150500965,35,0,3,0,0,158,B,Major,83,41,65,0,10,11,8,https://open.spotify.com/search/Dua%20Lipa%20Jack%20Harlow
+Agosto,Bad Bunny,1,2022,5,6,897,0,246127838,6,20,8,0,0,115,C#,Minor,85,72,58,9,0,49,12,https://open.spotify.com/search/Agosto%20Bad%20Bunny
+House Of Memories,Panic! At The Disco,1,2016,1,15,2948,0,582863434,10,2,150,0,0,110,B,Minor,51,48,82,0,0,5,3,https://open.spotify.com/search/House%20Of%20Memories%20Panic!%20At%20The%20Disco
+Mr. Morale,"Kendrick Lamar, Tanna Leone",2,2022,5,13,1860,0,58687425,1,0,3,0,0,174,A,Major,73,26,54,30,0,34,32,"https://open.spotify.com/search/Mr.%20Morale%20Kendrick%20Lamar,%20Tanna%20Leone"
+That That (prod. & feat. SUGA of BTS),"PSY, Suga",2,2022,4,29,802,0,212109195,16,81,23,0,0,130,E,Major,91,91,96,3,0,3,9,"https://open.spotify.com/search/That%20That%20(prod.%20&%20feat.%20SUGA%20of%20BTS)%20PSY,%20Suga"
+In The Stars,Benson Boone,1,2022,4,29,2224,8,382199619,48,40,87,1,210,78,A#,Major,36,30,54,34,0,14,5,https://open.spotify.com/search/In%20The%20Stars%20Benson%20Boone
+Rich - Interlude,Kendrick Lamar,1,2022,5,13,1103,0,41210087,0,0,0,0,0,104,G,Major,44,74,42,88,0,9,9,https://open.spotify.com/search/Rich%20-%20Interlude%20Kendrick%20Lamar
+SUPERMODEL,Mï¿½ï¿½ne,1,2022,5,13,2265,0,231657891,93,12,173,11,3,121,G,Major,64,80,88,0,0,12,6,https://open.spotify.com/search/SUPERMODEL%20Mï¿½ï¿½ne
+Stefania (Kalush Orchestra),KALUSH,1,2022,3,10,555,0,53729194,10,4,4,0,0,105,D,Major,83,32,82,14,0,12,4,https://open.spotify.com/search/Stefania%20(Kalush%20Orchestra)%20KALUSH
+Thousand Miles,The Kid Laroi,1,2022,4,22,2050,0,244741137,52,9,46,0,1,81,G,Major,38,20,66,9,0,9,8,https://open.spotify.com/search/Thousand%20Miles%20The%20Kid%20Laroi
+Crown,Kendrick Lamar,1,2022,5,13,1493,0,42485571,2,0,10,0,0,170,C#,Minor,37,14,24,80,0,11,4,https://open.spotify.com/search/Crown%20Kendrick%20Lamar
+Auntie Diaries,Kendrick Lamar,1,2022,5,13,1545,0,37778188,1,0,4,0,0,78,G,Major,43,60,38,76,1,48,38,https://open.spotify.com/search/Auntie%20Diaries%20Kendrick%20Lamar
+PUFFIN ON ZOOTIEZ,Future,1,2022,4,29,2350,0,254218729,28,42,23,0,0,125,G#,Major,88,28,66,6,0,13,31,https://open.spotify.com/search/PUFFIN%20ON%20ZOOTIEZ%20Future
+Mirror,Kendrick Lamar,1,2022,5,13,1929,0,53603447,2,0,4,0,0,92,E,Minor,66,29,65,23,0,8,7,https://open.spotify.com/search/Mirror%20Kendrick%20Lamar
+Beautiful Girl,Luciano,1,2022,4,22,710,4,160035717,16,11,18,0,0,140,B,Minor,84,61,42,31,0,9,9,https://open.spotify.com/search/Beautiful%20Girl%20Luciano
+"Paulo Londra: Bzrp Music Sessions, Vol. 23","Bizarrap, Paulo Londra",2,2022,4,25,928,0,164163229,19,0,7,0,0,96,,Major,61,32,90,25,0,10,9,"https://open.spotify.com/search/Paulo%20Londra:%20Bzrp%20Music%20Sessions,%20Vol.%2023%20Bizarrap,%20Paulo%20Londra"
+Savior - Interlude,Kendrick Lamar,1,2022,5,13,1194,0,37091576,0,0,3,0,0,118,F,Minor,66,83,43,84,0,19,19,https://open.spotify.com/search/Savior%20-%20Interlude%20Kendrick%20Lamar
+Pasoori,"Shae Gill, Ali Sethi",2,2022,2,6,349,6,284249832,10,22,3,0,0,92,B,Minor,71,67,60,7,0,6,4,"https://open.spotify.com/search/Pasoori%20Shae%20Gill,%20Ali%20Sethi"
+Mother I Sober (feat. Beth Gibbons of Portishead),"Kendrick Lamar, Beth Gibbons",2,2022,5,13,1890,0,33381454,3,0,2,0,0,140,G#,Minor,49,50,37,87,0,11,35,"https://open.spotify.com/search/Mother%20I%20Sober%20(feat.%20Beth%20Gibbons%20of%20Portishead)%20Kendrick%20Lamar,%20Beth%20Gibbons"
+TUS Lï¿½ï¿½GR,"Sech, Mora",2,2022,4,1,1308,2,184622518,23,16,9,0,5,174,C#,Major,68,45,71,18,0,11,25,"https://open.spotify.com/search/TUS%20Lï¿½ï¿½GR%20Sech,%20Mora"
+Where Did You Go?,"MNEK, Jax Jones",2,2022,1,26,4531,0,300983101,135,74,119,1,18,127,A#,Major,77,53,78,19,0,29,4,"https://open.spotify.com/search/Where%20Did%20You%20Go?%20MNEK,%20Jax%20Jones"
+I Tried to Tell Y'all,"Ugly Dray, Tesla Jnr",2,2022,5,6,1657,0,121077868,15,3,3,0,0,96,B,Major,71,37,52,62,0,11,36,"https://open.spotify.com/search/I%20Tried%20to%20Tell%20Y'all%20Ugly%20Dray,%20Tesla%20Jnr"
+Honest (feat. Don Toliver),"Justin Bieber, Don Toliver",2,2022,4,29,1351,0,106919680,26,1,17,0,0,150,G#,Minor,82,82,66,13,0,11,6,"https://open.spotify.com/search/Honest%20(feat.%20Don%20Toliver)%20Justin%20Bieber,%20Don%20Toliver"
+ZOOM,Jessi,1,2022,4,13,608,0,136996305,5,29,14,0,0,100,F#,Major,87,46,60,1,0,13,16,https://open.spotify.com/search/ZOOM%20Jessi
+SloMo,Chanel,1,2021,12,24,1211,0,65719930,31,0,19,0,2,105,C#,Minor,73,59,81,13,0,9,6,https://open.spotify.com/search/SloMo%20Chanel
+FEARLESS,LE SSERAFIM,1,2022,5,2,629,0,229497852,18,75,9,0,0,104,G,Major,86,43,62,5,0,13,14,https://open.spotify.com/search/FEARLESS%20LE%20SSERAFIM
+10 Things I Hate About You,Leah Kate,1,2022,3,23,1301,0,185550869,23,1,15,0,0,154,G#,Major,54,45,79,1,0,17,5,https://open.spotify.com/search/10%20Things%20I%20Hate%20About%20You%20Leah%20Kate
+SPACE MAN,Sam Ryder,1,2022,2,22,1329,0,54682594,42,51,32,0,0,80,B,Major,47,33,83,18,0,10,5,https://open.spotify.com/search/SPACE%20MAN%20Sam%20Ryder
+With you,"HA SUNG WOON, Jimin",2,2022,4,24,343,2,240580042,4,35,11,1,1,150,D#,Major,53,14,43,64,0,13,3,"https://open.spotify.com/search/With%20you%20HA%20SUNG%20WOON,%20Jimin"
+Iris,The Goo Goo Dolls,1,1998,3,31,13101,9,1284942608,137,5,582,0,0,156,B,Minor,32,49,72,0,0,9,4,https://open.spotify.com/search/Iris%20The%20Goo%20Goo%20Dolls
+The Heart Part 5,Kendrick Lamar,1,2022,5,8,2939,0,71423324,29,0,30,0,0,98,G#,Minor,76,79,81,18,0,6,34,https://open.spotify.com/search/The%20Heart%20Part%205%20Kendrick%20Lamar
+San Lucas,Kevin Kaarl,1,2019,11,7,407,1,244891912,5,0,5,0,0,92,G,Major,58,27,36,86,0,9,3,https://open.spotify.com/search/San%20Lucas%20Kevin%20Kaarl
+This Love (Taylorï¿½ï¿½ï¿½s Ve,Taylor Swift,1,2022,5,6,1492,0,132171975,26,2,15,0,2,144,E,Major,47,7,50,32,0,7,4,https://open.spotify.com/search/This%20Love%20(Taylorï¿½ï¿½ï¿½s%20Ve%20Taylor%20Swift
+Good Looking,Suki Waterhouse,1,2017,10,20,2264,0,184706613,11,6,25,0,1,150,E,Major,37,27,56,8,0,13,3,https://open.spotify.com/search/Good%20Looking%20Suki%20Waterhouse
+Flowers,Lauren Spencer Smith,1,2021,8,9,801,0,184826429,42,9,24,1,1,138,D#,Major,70,31,44,84,0,9,39,https://open.spotify.com/search/Flowers%20Lauren%20Spencer%20Smith
+Yet To Come,BTS,1,2022,6,10,829,0,302006641,32,110,26,0,0,172,C#,Major,56,68,89,4,0,33,19,https://open.spotify.com/search/Yet%20To%20Come%20BTS
+Run BTS,BTS,1,2022,6,10,736,0,330881149,5,132,17,0,3,77,G#,Major,72,70,82,2,0,4,17,https://open.spotify.com/search/Run%20BTS%20BTS
+Music For a Sushi Restaurant,Harry Styles,1,2022,5,20,4449,1,334733572,80,11,66,0,1,107,B,Major,72,36,72,26,6,11,4,https://open.spotify.com/search/Music%20For%20a%20Sushi%20Restaurant%20Harry%20Styles
+Matilda,Harry Styles,1,2022,5,20,3218,3,366214458,29,10,79,0,0,114,D,Major,51,39,29,90,0,10,4,https://open.spotify.com/search/Matilda%20Harry%20Styles
+For Youth,BTS,1,2022,6,10,327,0,114546317,5,40,12,0,0,117,D,Major,63,29,51,43,0,25,4,https://open.spotify.com/search/For%20Youth%20BTS
+Daylight,Harry Styles,1,2022,5,20,2775,0,290833204,21,11,40,0,0,146,,Major,69,63,45,48,0,18,4,https://open.spotify.com/search/Daylight%20Harry%20Styles
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,1,2022,5,6,4576,0,448500832,79,13,93,0,17,160,G#,Minor,80,74,60,8,0,14,26,https://open.spotify.com/search/Vegas%20(From%20the%20Original%20Motion%20Picture%20Soundtrack%20ELVIS)%20Doja%20Cat
+Cash In Cash Out,"Pharrell Williams, Tyler, The Creator, 21 Savage",4,2022,6,10,2313,0,136676504,34,0,29,0,0,120,G,Major,88,15,56,1,0,8,6,"https://open.spotify.com/search/Cash%20In%20Cash%20Out%20Pharrell%20Williams,%20Tyler,%20The%20Creator,%2021%20Savage"
+Potion (with Dua Lipa & Young Thug),"Calvin Harris, Dua Lipa, Young Thug",3,2022,5,27,3983,0,190625045,73,45,119,0,0,100,B,Minor,82,76,70,16,0,8,5,"https://open.spotify.com/search/Potion%20(with%20Dua%20Lipa%20&%20Young%20Thug)%20Calvin%20Harris,%20Dua%20Lipa,%20Young%20Thug"
+Born Singer,BTS,1,2022,6,10,279,0,79095270,0,18,6,0,0,158,G#,Minor,60,68,84,4,0,24,11,https://open.spotify.com/search/Born%20Singer%20BTS
+Little Freak,Harry Styles,1,2022,5,20,2302,0,273194684,20,3,39,0,0,142,D#,Major,56,40,54,72,0,10,4,https://open.spotify.com/search/Little%20Freak%20Harry%20Styles
+La Llevo Al Cielo (Ft. ï¿½ï¿½engo F,"Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",4,2022,5,20,3559,3,333146475,36,1,31,0,1,170,A,Minor,80,77,85,11,0,17,14,"https://open.spotify.com/search/La%20Llevo%20Al%20Cielo%20(Ft.%20ï¿½ï¿½engo%20F%20Nengo%20Flow,%20Anuel%20Aa,%20Chris%20Jedi,%20Chencho%20Corleone"
+True Love,"Kanye West, XXXTENTACION",2,2022,5,27,2129,0,194902696,23,1,44,1,0,84,F,Minor,71,39,86,2,0,51,25,"https://open.spotify.com/search/True%20Love%20Kanye%20West,%20XXXTENTACION"
+Satellite,Harry Styles,1,2022,5,20,3291,5,311482393,43,28,79,0,208,139,,Major,58,30,46,14,0,9,3,https://open.spotify.com/search/Satellite%20Harry%20Styles
+Pass The Dutchie,Musical Youth,1,1982,1,1,5328,0,195918494,54,76,900,0,0,151,G,Major,73,88,67,20,0,32,5,https://open.spotify.com/search/Pass%20The%20Dutchie%20Musical%20Youth
+"Villano Antillano: Bzrp Music Sessions, Vol. 51","Bizarrap, Villano Antillano",2,2022,6,8,1401,0,248511839,26,16,17,0,1,128,C#,Minor,82,42,75,6,0,63,6,"https://open.spotify.com/search/Villano%20Antillano:%20Bzrp%20Music%20Sessions,%20Vol.%2051%20Bizarrap,%20Villano%20Antillano"
+Love Of My Life,Harry Styles,1,2022,5,20,1933,0,233671263,13,2,31,0,0,118,G,Major,56,20,54,67,0,6,5,https://open.spotify.com/search/Love%20Of%20My%20Life%20Harry%20Styles
+Grapejuice,Harry Styles,1,2022,5,20,1986,0,199587884,7,1,15,0,0,183,F,Major,65,88,72,36,14,20,3,https://open.spotify.com/search/Grapejuice%20Harry%20Styles
+So Good,Halsey,1,2022,6,9,1057,0,91781263,51,14,19,0,0,83,D#,Minor,63,29,62,4,0,18,4,https://open.spotify.com/search/So%20Good%20Halsey
+Belly Dancer,"BYOR, Imanbek",2,2022,2,18,5115,13,383835984,109,38,301,1,33,122,C#,Major,85,42,80,6,0,17,14,"https://open.spotify.com/search/Belly%20Dancer%20BYOR,%20Imanbek"
+Keep Driving,Harry Styles,1,2022,5,20,2094,1,236060709,8,1,18,0,0,165,A,Major,72,90,48,32,0,18,23,https://open.spotify.com/search/Keep%20Driving%20Harry%20Styles
+Cinema,Harry Styles,1,2022,5,20,2171,0,189236868,18,1,28,0,0,106,A,Minor,83,90,64,35,5,9,4,https://open.spotify.com/search/Cinema%20Harry%20Styles
+Die Young (feat. 347aidan),"Sleepy hallow, 347aidan",2,2022,5,25,896,0,160845341,19,0,15,0,0,77,B,Major,81,68,58,83,0,11,34,"https://open.spotify.com/search/Die%20Young%20(feat.%20347aidan)%20Sleepy%20hallow,%20347aidan"
+Only Love Can Hurt Like This,Paloma Faith,1,2014,1,1,5148,0,588955257,90,22,365,0,114,91,G#,Major,57,30,89,10,0,33,8,https://open.spotify.com/search/Only%20Love%20Can%20Hurt%20Like%20This%20Paloma%20Faith
+Hold My Hand,Lady Gaga,1,2022,5,3,2528,0,238350348,63,8,270,2,105,148,G,Major,51,21,63,5,0,41,3,https://open.spotify.com/search/Hold%20My%20Hand%20Lady%20Gaga
+Daydreaming,Harry Styles,1,2022,5,20,1900,1,187703102,15,1,23,0,0,114,E,Minor,71,90,81,31,2,13,3,https://open.spotify.com/search/Daydreaming%20Harry%20Styles
+Numb,"Marshmello, Khalid",2,2022,6,10,3879,2,295307001,107,76,86,1,9,120,,Minor,91,63,77,12,1,10,5,"https://open.spotify.com/search/Numb%20Marshmello,%20Khalid"
+Nos Comemos (feat. Ozuna),"Ozuna, Tiago pzk",2,2022,6,2,896,0,138334433,0,0,2,0,0,92,F#,Major,83,56,82,10,0,9,5,"https://open.spotify.com/search/Nos%20Comemos%20(feat.%20Ozuna)%20Ozuna,%20Tiago%20pzk"
+Me and Your Mama,Childish Gambino,1,2016,11,10,8775,0,445590495,33,60,107,1,0,118,F,Major,56,25,45,1,3,7,3,https://open.spotify.com/search/Me%20and%20Your%20Mama%20Childish%20Gambino
+Crazy What Love Can Do,"David Guetta, Ella Henderson, Becky Hill",3,2022,3,18,5290,0,286739476,139,73,142,0,5,123,E,Minor,60,46,71,3,0,16,4,"https://open.spotify.com/search/Crazy%20What%20Love%20Can%20Do%20David%20Guetta,%20Ella%20Henderson,%20Becky%20Hill"
+SLOW DANCING IN THE DARK,Joji,1,2018,9,12,10211,0,1122364376,38,79,65,0,1,89,D#,Major,52,28,48,54,1,19,3,https://open.spotify.com/search/SLOW%20DANCING%20IN%20THE%20DARK%20Joji
+Antes de Perderte,Duki,1,2022,6,2,584,8,157136970,12,1,8,0,1,110,F,Minor,81,61,93,49,0,12,11,https://open.spotify.com/search/Antes%20de%20Perderte%20Duki
+Boyfriends,Harry Styles,1,2022,5,20,1517,0,137070925,26,2,30,0,0,118,,Major,42,32,20,94,0,11,4,https://open.spotify.com/search/Boyfriends%20Harry%20Styles
+295,Sidhu Moose Wala,1,2021,5,15,246,4,183273246,4,106,0,0,7,90,B,Minor,68,54,76,21,0,11,20,https://open.spotify.com/search/295%20Sidhu%20Moose%20Wala
+Tak Ingin Usai,Keisya Levronka,1,2022,5,13,220,4,184807630,16,5,0,0,6,130,,Major,49,14,40,82,0,11,3,https://open.spotify.com/search/Tak%20Ingin%20Usai%20Keisya%20Levronka
+En El Radio Un Cochinero,Victor Cibrian,1,2022,5,13,514,0,164856284,5,36,1,0,0,154,F#,Minor,70,97,62,47,0,10,4,https://open.spotify.com/search/En%20El%20Radio%20Un%20Cochinero%20Victor%20Cibrian
+Master of Puppets (Remastered),Metallica,1,1986,3,3,6080,0,704171068,112,198,406,1,0,105,E,Minor,54,59,83,0,44,20,4,https://open.spotify.com/search/Master%20of%20Puppets%20(Remastered)%20Metallica
+BREAK MY SOUL,Beyoncï¿,1,2022,6,21,9724,0,354614964,222,61,259,14,2,115,C#,Minor,70,87,88,4,0,26,8,https://open.spotify.com/search/BREAK%20MY%20SOUL%20Beyoncï¿
+ULTRA SOLO REMIX,"De La Ghetto, Feid, Polima WestCoast, Paloma Mami, Pailita",5,2022,6,16,2341,0,279717388,37,2,38,2,0,110,C#,Major,91,59,82,8,0,6,8,"https://open.spotify.com/search/ULTRA%20SOLO%20REMIX%20De%20La%20Ghetto,%20Feid,%20Polima%20WestCoast,%20Paloma%20Mami,%20Pailita"
+Massive,Drake,1,2022,6,17,5263,0,195628667,66,89,61,0,11,125,E,Minor,51,5,68,12,2,15,6,https://open.spotify.com/search/Massive%20Drake
+Betty (Get Money),Yung Gravy,1,2022,6,10,2402,0,221752937,45,2,26,0,1,102,C#,Major,73,62,75,0,0,34,8,https://open.spotify.com/search/Betty%20(Get%20Money)%20Yung%20Gravy
+Ojos Marrones,Lasso,1,2022,2,6,795,11,263280370,26,18,15,1,4,120,G#,Minor,81,72,65,4,0,14,4,https://open.spotify.com/search/Ojos%20Marrones%20Lasso
+POP!,Nayeon,1,2022,6,24,571,0,213505179,19,21,14,0,2,97,D,Major,80,36,86,4,0,3,5,https://open.spotify.com/search/POP!%20Nayeon
+Layla,"Schï¿½ï¿½rze, DJ R",2,2022,3,24,832,3,130419412,18,124,24,1,0,140,F,Minor,44,41,92,0,0,44,7,"https://open.spotify.com/search/Layla%20Schï¿½ï¿½rze,%20DJ%20R"
+MORE,j-hope,1,2022,7,1,565,0,155795783,6,52,11,0,0,97,D,Major,78,31,72,1,0,11,4,https://open.spotify.com/search/MORE%20j-hope
+Sweet Child O' Mine,Guns N' Roses,1,1987,1,1,41231,1,1553497987,228,151,"6,720",3,99,125,F#,Major,45,67,90,9,11,10,5,https://open.spotify.com/search/Sweet%20Child%20O'%20Mine%20Guns%20N'%20Roses
+Last Last,Burna Boy,1,2022,5,12,4526,12,293466523,156,275,150,3,128,88,D#,Minor,80,55,56,13,0,8,9,https://open.spotify.com/search/Last%20Last%20Burna%20Boy
+SNAP,Rosa Linn,1,2022,3,19,1818,0,711366595,3,0,63,0,353,170,,Major,56,52,64,11,0,45,7,https://open.spotify.com/search/SNAP%20Rosa%20Linn
+Sticky,Drake,1,2022,6,17,2814,0,191448892,38,105,25,0,2,137,A#,Minor,88,8,49,9,0,9,14,https://open.spotify.com/search/Sticky%20Drake
+Hot Shit (feat. Ye & Lil Durk),"Kanye West, Lil Durk, Cardi B",3,2022,7,1,1601,0,85924992,11,0,2,0,0,157,A,Major,88,52,69,0,0,8,23,"https://open.spotify.com/search/Hot%20Shit%20(feat.%20Ye%20&%20Lil%20Durk)%20Kanye%20West,%20Lil%20Durk,%20Cardi%20B"
+Ai Preto,"L7nnon, DJ Biel do Furduncinho, Bianca",3,2022,6,3,894,4,176103902,28,0,54,0,0,130,F#,Major,95,83,57,54,0,10,25,"https://open.spotify.com/search/Ai%20Preto%20L7nnon,%20DJ%20Biel%20do%20Furduncinho,%20Bianca"
+La Loto,"Anitta, Tini, Becky G",3,2022,7,6,945,0,121189256,49,3,57,0,0,90,C#,Major,85,80,83,10,0,8,11,"https://open.spotify.com/search/La%20Loto%20Anitta,%20Tini,%20Becky%20G"
+die first,Nessa Barrett,1,2022,6,24,767,0,131746175,25,0,22,0,0,183,G#,Minor,44,44,67,7,0,12,13,https://open.spotify.com/search/die%20first%20Nessa%20Barrett
+Afraid To Feel,LF System,1,2022,5,2,5898,5,244790012,129,55,128,0,101,128,C#,Major,58,68,91,2,0,27,11,https://open.spotify.com/search/Afraid%20To%20Feel%20LF%20System
+Baile no Morro,"Mc Vitin Da Igrejinha, MC Tairon, DJ Win",3,2022,6,10,685,2,129314708,17,0,24,0,30,130,D#,Minor,71,78,40,46,0,7,45,"https://open.spotify.com/search/Baile%20no%20Morro%20Mc%20Vitin%20Da%20Igrejinha,%20MC%20Tairon,%20DJ%20Win"
+cï¿½ï¿½mo dormi,Rels B,1,2022,8,4,1452,35,331511413,16,15,20,0,0,126,C#,Major,63,56,43,24,0,12,23,https://open.spotify.com/search/cï¿½ï¿½mo%20dormi%20Rels%20B
+Bad Decisions (with BTS & Snoop Dogg),"Snoop Dogg, BTS, Benny Blanco",3,2022,8,5,1456,0,219196651,53,2,33,0,0,120,,Major,77,94,87,2,0,23,12,"https://open.spotify.com/search/Bad%20Decisions%20(with%20BTS%20&%20Snoop%20Dogg)%20Snoop%20Dogg,%20BTS,%20Benny%20Blanco"
+STAYING ALIVE (feat. Drake & Lil Baby),"Drake, DJ Khaled, Lil Baby",3,2022,8,5,2107,0,170732845,51,1,50,0,0,130,E,Minor,72,18,46,7,0,28,8,"https://open.spotify.com/search/STAYING%20ALIVE%20(feat.%20Drake%20&%20Lil%20Baby)%20Drake,%20DJ%20Khaled,%20Lil%20Baby"
+Caile,Luar La L,1,2020,12,18,1494,2,273914335,17,12,15,0,0,122,,Major,70,46,76,30,0,9,45,https://open.spotify.com/search/Caile%20Luar%20La%20L
+Si Te La Encuentras Por Ahï¿,Feid,1,2022,8,5,1379,4,179061440,23,10,18,0,0,172,G#,Minor,74,46,58,15,0,13,8,https://open.spotify.com/search/Si%20Te%20La%20Encuentras%20Por%20Ahï¿%20Feid
+GIVENCHY,Duki,1,2022,7,20,625,4,185236961,13,18,12,0,0,103,G#,Major,61,38,62,14,0,23,40,https://open.spotify.com/search/GIVENCHY%20Duki
+ALIEN SUPERSTAR,Beyoncï¿,1,2022,7,29,2688,0,171788484,39,47,36,0,0,122,A#,Minor,55,46,64,0,0,17,10,https://open.spotify.com/search/ALIEN%20SUPERSTAR%20Beyoncï¿
+Mary On A Cross,Ghost,1,2019,9,13,2668,2,387080183,38,266,78,0,141,130,B,Major,47,56,90,0,0,10,4,https://open.spotify.com/search/Mary%20On%20A%20Cross%20Ghost
+Attention,NewJeans,1,2022,8,1,799,12,264717480,14,141,9,0,1,105,A#,Minor,81,70,65,24,0,8,4,https://open.spotify.com/search/Attention%20NewJeans
+THE SHADE,Rex Orange County,1,2022,3,11,1189,6,244928911,17,10,16,0,4,120,F,Major,90,73,51,39,0,9,6,https://open.spotify.com/search/THE%20SHADE%20Rex%20Orange%20County
+"Come Back Home - From ""Purple Hearts""",Sofia Carson,1,2022,7,12,367,0,97610446,28,67,195,0,0,145,G,Major,56,43,53,24,0,12,4,"https://open.spotify.com/search/Come%20Back%20Home%20-%20From%20""Purple%20Hearts""%20Sofia%20Carson"
+El Rescate,"Grupo Marca Registrada, Junior H",2,2022,7,22,527,4,287278853,10,43,3,1,0,99,G,Minor,79,64,59,28,0,11,14,"https://open.spotify.com/search/El%20Rescate%20Grupo%20Marca%20Registrada,%20Junior%20H"
+Heartless,Kanye West,1,2008,1,1,17504,34,887906111,63,39,"1,315",0,2,88,A#,Minor,79,66,65,5,0,25,14,https://open.spotify.com/search/Heartless%20Kanye%20West
+"Stay With Me (with Justin Timberlake, Halsey, & Pharrell)","Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",4,2022,7,15,3113,0,123473120,54,6,124,1,0,126,A,Major,81,90,73,28,0,29,4,"https://open.spotify.com/search/Stay%20With%20Me%20(with%20Justin%20Timberlake,%20Halsey,%20&%20Pharrell)%20Calvin%20Harris,%20Halsey,%20Pharrell%20Williams,%20Justin%20Timberlake"
+Siempre Pendientes,"Peso Pluma, Luis R Conriquez",2,2022,8,15,685,5,295152154,15,79,4,2,0,136,,Major,77,71,75,33,1,13,4,"https://open.spotify.com/search/Siempre%20Pendientes%20Peso%20Pluma,%20Luis%20R%20Conriquez"
+JGL,"Luis R Conriquez, La Adictiva",2,2022,2,18,782,9,323455692,15,33,6,1,0,113,G#,Major,70,97,59,55,0,27,12,"https://open.spotify.com/search/JGL%20Luis%20R%20Conriquez,%20La%20Adictiva"
+Don't You Worry,"David Guetta, Shakira, Black Eyed Peas",3,2022,6,16,2442,0,240918092,81,4,248,1,6,132,B,Major,82,49,88,20,0,21,3,"https://open.spotify.com/search/Don't%20You%20Worry%20David%20Guetta,%20Shakira,%20Black%20Eyed%20Peas"
+Pipoco,"Melody, Ana Castela, Dj Chris No Beat",3,2022,5,20,1112,4,191873381,22,2,65,1,3,135,G#,Major,77,74,74,47,0,34,8,"https://open.spotify.com/search/Pipoco%20Melody,%20Ana%20Castela,%20Dj%20Chris%20No%20Beat"
+Hold Me Closer,"Elton John, Britney Spears",2,2017,11,10,4967,0,284216603,165,10,177,4,73,126,,Major,67,49,77,11,0,19,11,"https://open.spotify.com/search/Hold%20Me%20Closer%20Elton%20John,%20Britney%20Spears"
+Forget Me,Lewis Capaldi,1,2022,9,9,2520,4,239411309,93,95,84,9,202,102,C#,Minor,67,72,74,30,0,36,4,https://open.spotify.com/search/Forget%20Me%20Lewis%20Capaldi
+After LIKE,IVE,1,2022,8,22,767,12,265548837,20,129,11,0,12,125,,Major,68,80,92,10,0,9,12,https://open.spotify.com/search/After%20LIKE%20IVE
+Bound 2,Kanye West,1,2013,1,1,19806,7,703301727,33,11,274,0,0,149,C#,Major,37,28,66,14,0,9,5,https://open.spotify.com/search/Bound%202%20Kanye%20West
+B.O.T.A. (Baddest Of Them All) - Edit,"Interplanetary Criminal, Eliza Rose",2,2022,6,15,5153,6,244585109,102,53,113,12,0,137,,Major,74,71,89,24,61,15,5,"https://open.spotify.com/search/B.O.T.A.%20(Baddest%20Of%20Them%20All)%20-%20Edit%20Interplanetary%20Criminal,%20Eliza%20Rose"
+Talk that Talk,TWICE,1,2022,8,26,615,0,189476119,14,77,15,1,2,120,D#,Minor,77,78,91,14,0,33,12,https://open.spotify.com/search/Talk%20that%20Talk%20TWICE
+BILLIE EILISH.,Armani White,1,2022,1,20,2537,0,277132266,49,1,67,11,1,100,C#,Major,90,75,50,11,0,9,26,https://open.spotify.com/search/BILLIE%20EILISH.%20Armani%20White
+Ferxxo 100,Feid,1,2022,6,3,1647,30,278920007,20,49,23,2,2,164,G#,Minor,70,58,57,25,0,15,7,https://open.spotify.com/search/Ferxxo%20100%20Feid
+KU LO SA - A COLORS SHOW,Oxlade,1,2022,6,10,2019,8,222410722,117,72,107,1,7,93,A#,Minor,65,79,66,31,0,22,7,https://open.spotify.com/search/KU%20LO%20SA%20-%20A%20COLORS%20SHOW%20Oxlade
+Prohibidox,Feid,1,2022,9,13,1473,12,185392587,25,36,25,1,0,180,C#,Minor,65,52,80,5,0,6,25,https://open.spotify.com/search/Prohibidox%20Feid
+Static,Steve Lacy,1,2022,7,15,1613,0,202452860,21,15,13,0,0,79,C#,Major,34,22,31,43,63,10,7,https://open.spotify.com/search/Static%20Steve%20Lacy
+The Scientist,Coldplay,1,2002,8,5,30992,6,1608164312,124,25,"7,827",1,0,146,F,Major,56,21,44,73,0,11,2,https://open.spotify.com/search/The%20Scientist%20Coldplay
+Sparks,Coldplay,1,2000,7,10,10826,4,624101957,24,0,805,0,0,103,C#,Major,37,17,27,75,5,10,3,https://open.spotify.com/search/Sparks%20Coldplay
+Talk,YEAT,1,2022,9,2,920,0,148461629,10,1,8,0,0,140,E,Minor,70,26,76,8,0,54,23,https://open.spotify.com/search/Talk%20YEAT
+XQ Te Pones Asï¿,"Yandel, Feid",2,2022,9,13,308,0,47093942,6,1,6,0,0,92,A#,Major,81,48,70,13,0,15,7,"https://open.spotify.com/search/XQ%20Te%20Pones%20Asï¿%20Yandel,%20Feid"
+Selfish,PnB Rock,1,2016,6,23,2468,0,380319238,15,0,0,0,0,102,C#,Minor,64,4,60,11,0,19,4,https://open.spotify.com/search/Selfish%20PnB%20Rock
+Sin Seï¿½ï,"Ovy On The Drums, Quevedo",2,2022,7,22,1097,2,209106362,18,10,13,1,1,118,B,Minor,82,75,85,33,1,11,4,"https://open.spotify.com/search/Sin%20Seï¿½ï%20Ovy%20On%20The%20Drums,%20Quevedo"
+Lady Mi Amor,Feid,1,2022,9,13,330,0,53987404,3,0,2,0,0,93,D,Major,78,75,62,6,0,15,6,https://open.spotify.com/search/Lady%20Mi%20Amor%20Feid
+Poland,Lil Yachty,1,2022,6,23,1584,0,115331792,38,0,24,0,0,150,F,Minor,70,26,56,14,83,11,5,https://open.spotify.com/search/Poland%20Lil%20Yachty
+THE LONELIEST,Mï¿½ï¿½ne,1,2022,10,7,1585,5,225093344,78,65,328,1,198,130,D,Major,52,24,60,0,0,8,3,https://open.spotify.com/search/THE%20LONELIEST%20Mï¿½ï¿½ne
+Bye Bye,"Marshmello, Juice WRLD",2,2022,10,14,766,0,84697729,16,0,9,0,0,83,D#,Minor,65,24,53,6,0,51,4,"https://open.spotify.com/search/Bye%20Bye%20Marshmello,%20Juice%20WRLD"
+BABY OTAKU,"Fran C, Polima WestCoast, Nickoog Clk, Pablito Pesadilla",4,2022,8,18,836,0,159240673,14,1,13,0,0,102,A,Major,84,43,75,5,0,6,8,"https://open.spotify.com/search/BABY%20OTAKU%20Fran%20C,%20Polima%20WestCoast,%20Nickoog%20Clk,%20Pablito%20Pesadilla"
+Nxde,(G)I-DLE,1,2022,10,17,430,6,170709584,14,116,9,0,11,136,E,Minor,73,65,91,4,0,48,18,https://open.spotify.com/search/Nxde%20(G)I-DLE
+Miss You,Southstar,1,1982,5,16,2020,0,154356956,77,10,119,0,40,145,A,Major,66,24,58,17,0,19,5,https://open.spotify.com/search/Miss%20You%20Southstar
+we fell in love in october,girl in red,1,2018,11,21,6858,0,723043854,31,21,15,0,4,130,G,Major,57,24,37,11,18,16,3,https://open.spotify.com/search/we%20fell%20in%20love%20in%20october%20girl%20in%20red
+2 Be Loved (Am I Ready),Lizzo,1,2022,7,14,3682,6,247689123,41,0,158,2,68,156,G,Major,72,92,77,9,0,8,11,https://open.spotify.com/search/2%20Be%20Loved%20(Am%20I%20Ready)%20Lizzo
+Celestial,Ed Sheeran,1,2022,9,29,1639,0,176474912,86,14,80,0,37,123,D,Major,57,50,85,5,0,16,4,https://open.spotify.com/search/Celestial%20Ed%20Sheeran
+Typa Girl,BLACKPINK,1,2022,9,16,452,10,235549288,2,129,13,0,1,132,G,Major,92,53,62,7,0,63,10,https://open.spotify.com/search/Typa%20Girl%20BLACKPINK
+I Really Want to Stay at Your House,"Rosa Walton, Hallie Coggins",2,2020,12,18,668,1,140430339,0,0,31,0,,125,D#,Minor,49,13,74,0,0,9,4,"https://open.spotify.com/search/I%20Really%20Want%20to%20Stay%20at%20Your%20House%20Rosa%20Walton,%20Hallie%20Coggins"
+California Breeze,Lil Baby,1,2022,10,14,991,0,85559365,36,38,13,0,3,162,F,Minor,74,22,67,0,0,11,46,https://open.spotify.com/search/California%20Breeze%20Lil%20Baby
+Bamba (feat. Aitch & BIA),"Luciano, Aitch, Bï¿½",3,2022,9,22,869,7,146223492,14,12,12,2,28,138,A#,Major,80,82,81,14,0,13,36,"https://open.spotify.com/search/Bamba%20(feat.%20Aitch%20&%20BIA)%20Luciano,%20Aitch,%20Bï¿½"
+Casei Com a Putaria,"MC Ryan SP, Love Funk, Mc Paiva ZS",3,2022,7,1,648,4,187701588,0,0,30,0,0,161,A#,Minor,59,62,60,12,0,5,44,"https://open.spotify.com/search/Casei%20Com%20a%20Putaria%20MC%20Ryan%20SP,%20Love%20Funk,%20Mc%20Paiva%20ZS"
+Major Distribution,"Drake, 21 Savage",2,2022,11,4,1545,0,154863153,22,7,15,0,0,131,G#,Minor,91,23,55,1,0,7,32,"https://open.spotify.com/search/Major%20Distribution%20Drake,%2021%20Savage"
+Pussy & Millions (feat. Travis Scott),"Drake, Travis Scott, 21 Savage",3,2022,11,4,1930,0,191333656,24,8,17,0,1,122,E,Minor,75,45,63,6,0,35,12,"https://open.spotify.com/search/Pussy%20&%20Millions%20(feat.%20Travis%20Scott)%20Drake,%20Travis%20Scott,%2021%20Savage"
+Vigilante Shit,Taylor Swift,1,2022,10,21,1948,0,253650850,12,9,16,0,0,80,E,Minor,80,16,28,17,0,12,39,https://open.spotify.com/search/Vigilante%20Shit%20Taylor%20Swift
+Question...?,Taylor Swift,1,2022,10,21,1608,0,223064273,10,3,12,0,0,109,G,Major,75,11,50,20,0,30,17,https://open.spotify.com/search/Question...?%20Taylor%20Swift
+On BS,"Drake, 21 Savage",2,2022,11,4,1338,0,170413877,9,20,7,0,0,158,A,Major,84,33,36,2,0,39,59,"https://open.spotify.com/search/On%20BS%20Drake,%2021%20Savage"
+Mastermind,Taylor Swift,1,2022,10,21,1936,0,218320587,7,5,13,0,0,126,E,Major,66,12,35,55,0,9,14,https://open.spotify.com/search/Mastermind%20Taylor%20Swift
+Circo Loco,"Drake, 21 Savage",2,2022,11,4,1794,0,141720999,26,9,17,0,3,104,C#,Major,73,25,61,1,0,32,7,"https://open.spotify.com/search/Circo%20Loco%20Drake,%2021%20Savage"
+Labyrinth,Taylor Swift,1,2022,10,21,1597,0,187339835,6,3,15,0,0,110,,Major,48,15,31,80,22,12,4,https://open.spotify.com/search/Labyrinth%20Taylor%20Swift
+Spin Bout U,"Drake, 21 Savage",2,2022,11,4,1652,2,198365537,26,52,10,0,95,130,G,Major,77,20,70,1,0,16,5,"https://open.spotify.com/search/Spin%20Bout%20U%20Drake,%2021%20Savage"
+Sweet Nothing,Taylor Swift,1,2022,10,21,1747,0,186104310,9,6,13,0,2,177,,Major,34,39,16,97,0,12,5,https://open.spotify.com/search/Sweet%20Nothing%20Taylor%20Swift
+"Would've, Could've, Should've",Taylor Swift,1,2022,10,21,1715,0,177503916,4,5,8,0,0,158,G,Major,48,55,84,43,0,15,12,"https://open.spotify.com/search/Would've,%20Could've,%20Should've%20Taylor%20Swift"
+Con La Brisa,"Ludwig Goransson, Foudeqush",2,2022,11,4,486,0,71095708,8,1,7,0,0,114,D,Minor,62,25,44,51,33,14,3,"https://open.spotify.com/search/Con%20La%20Brisa%20Ludwig%20Goransson,%20Foudeqush"
+Privileged Rappers,"Drake, 21 Savage",2,2022,11,4,1007,0,112436403,6,5,3,0,0,144,F,Major,93,62,61,0,0,12,20,"https://open.spotify.com/search/Privileged%20Rappers%20Drake,%2021%20Savage"
+The Astronaut,Jin,1,2022,10,28,481,9,203436468,10,100,15,1,27,125,F,Major,54,22,76,0,0,14,3,https://open.spotify.com/search/The%20Astronaut%20Jin
+BackOutsideBoyz,Drake,1,2022,11,4,1045,0,93367537,8,5,2,0,0,142,F,Minor,85,40,43,4,0,39,32,https://open.spotify.com/search/BackOutsideBoyz%20Drake
+Broke Boys,"Drake, 21 Savage",2,2022,11,4,1060,0,106249219,3,8,5,0,0,120,D,Major,64,11,53,1,0,25,27,"https://open.spotify.com/search/Broke%20Boys%20Drake,%2021%20Savage"
+The Great War,Taylor Swift,1,2022,10,21,1274,0,181382590,1,6,11,0,0,96,F,Major,57,55,74,22,0,8,4,https://open.spotify.com/search/The%20Great%20War%20Taylor%20Swift
+My Mind & Me,Selena Gomez,1,2022,11,3,953,0,91473363,61,13,37,1,0,144,A,Major,60,24,39,57,0,8,3,https://open.spotify.com/search/My%20Mind%20&%20Me%20Selena%20Gomez
+Bigger Than The Whole Sky,Taylor Swift,1,2022,10,21,1180,0,121871870,4,0,8,0,0,166,F#,Major,42,7,24,83,1,12,6,https://open.spotify.com/search/Bigger%20Than%20The%20Whole%20Sky%20Taylor%20Swift
+A Veces (feat. Feid),"Feid, Paulo Londra",2,2022,11,3,573,0,73513683,2,0,7,0,0,92,C#,Major,80,81,67,4,0,8,6,"https://open.spotify.com/search/A%20Veces%20(feat.%20Feid)%20Feid,%20Paulo%20Londra"
+En La De Ella,"Feid, Sech, Jhayco",3,2022,10,20,1320,0,133895612,29,26,17,0,0,97,C#,Major,82,67,77,8,0,12,5,"https://open.spotify.com/search/En%20La%20De%20Ella%20Feid,%20Sech,%20Jhayco"
+Alone,Burna Boy,1,2022,11,4,782,2,96007391,27,18,32,1,0,90,E,Minor,61,32,67,15,0,11,5,https://open.spotify.com/search/Alone%20Burna%20Boy
